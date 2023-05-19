@@ -22,3 +22,6 @@ Short list of CCSP mnemonics for those who did CISSSP
 
 * CSA Domain 3 - Legal concerns: security, privacy, SLAs.
 
+### Legal
+
+* CLOUD Act 2018 - FBI can access CLOUD
