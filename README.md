@@ -20,4 +20,5 @@ Short list of CCSP mnemonics for those who did CISSSP
 * ISO/IEC 27043 - Principles & Processes
 * ISO/IEC 27050 - parts 1-4 standard. Best practices for: Forensics, eDiscovery, Evidence management
 
+* CSA Domain 3 - Legal concerns: security, privacy, SLAs.
 
