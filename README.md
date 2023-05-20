@@ -25,3 +25,7 @@ Short list of CCSP mnemonics for those who did CISSSP
 ### Legal
 
 * CLOUD Act 2018 - FBI can access CLOUD
+
+### SOC
+
+* **Sentiment Analysis** - AI + ML to gain people's **Sentiment** on social media (like Cambridge Analytica to target  **Sentiment** to Donald Trump)
