@@ -16,11 +16,18 @@ Short list of CCSP mnemonics for those who did CISSSP
 
 * NIST IR 8006 - Guidance on DFIR in the cloud
 
+* ISO/IEC 27050 - 4 parts framework for: Forensics, eDiscovery, Evidence management
+
 * ISO/IEC 27037 - Identify, collect, preserve
+
+### IAPP
+
+
 * ISO/IEC 27041 - Investigate
 * ISO/IEC 27042 - Analyse (evidence)
 * ISO/IEC 27043 - Principles & Processes
-* ISO/IEC 27050 - 4 parts framework for: Forensics, eDiscovery, Evidence management
+
+IAPP
 
 * CSA Domain 3 - Legal concerns: security, privacy, SLAs.
 
