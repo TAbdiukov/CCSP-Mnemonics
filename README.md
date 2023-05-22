@@ -14,7 +14,7 @@ Short list of CCSP mnemonics for those who did CISSSP
 
 ### Cloud forensic eDiscovery standards
 
-* NIST IR 8006 - Summarizes forensic research about cloud
+* NIST IR 8006 - Guidance on DFIR in the cloud
 
 * ISO/IEC 27037 - Identify, collect, preserve
 * ISO/IEC 27041 - Investigate
