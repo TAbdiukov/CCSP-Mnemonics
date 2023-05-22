@@ -14,6 +14,8 @@ Short list of CCSP mnemonics for those who did CISSSP
 
 ### Cloud forensic eDiscovery standards
 
+* CSA Domain 3 - Legal concerns: security, privacy, SLAs.
+
 * NIST IR 8006 - Guidance on DFIR in the cloud
 
 * ISO/IEC 27050 - 4 parts framework for: Forensics, eDiscovery, Evidence management
@@ -27,9 +29,8 @@ Short list of CCSP mnemonics for those who did CISSSP
 * ISO/IEC 27042 - Analyse (evidence)
 * ISO/IEC 27043 - Principles & Processes
 
-IAPP
+IAPP - Investigate, Analyze, Principles&Processes
 
-* CSA Domain 3 - Legal concerns: security, privacy, SLAs.
 
 ### Legal
 
