@@ -1,6 +1,24 @@
 # CCSP-Mnemonics
 Short list of CCSP mnemonics for those who did CISSSP
 
+## Domain 2
+
+### Cloud DLM - Data Lifecycle Management
+
+**Note:** This is a CSA model. Not to be confused with [CISSP's NIST 800-37](https://github.com/TAbdiukov/CISSP-YA-mnemonics#risk---rmf---nist-sp-800-37)
+
+The cloud data lifecycle consists of :
+
+1) Create
+2) Store
+3) Use
+4) Share
+5) Archive
+6) Destroy
+
+* Letters: CS US AD
+* Mnemonic: CompSci (of) US (created) ActiveDirectory
+
 ## Domain 5
 
 ### Cloud security standards
