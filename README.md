@@ -73,3 +73,7 @@ CSA STAR - for CSPs. To be used by CSP, customer, auditor, consultant.
 1) Self-assessment (internal audit)
 2) Third-party audit (external audit)
 
+### ISMS vs IISCS
+
+* ISMS - Identify and monitor risk
+* IISCS - Mitigate risk
