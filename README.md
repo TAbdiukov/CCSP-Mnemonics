@@ -7,7 +7,7 @@ Short list of CCSP mnemonics for those who did CISSSP
 
 * ISO/IEC 27001 - Base
 * ISO/IEC 270**17** - Base + Cloud
-* ISO/IEC 270**18** - Base + Cloud + PII. High level of assurance.
+* ISO/IEC 270**18** - Base + Cloud + PII. HIGH level of assurance.
 
 * ISO/IEC 27001 - Base
 * ISO/IEC 27**7**01 - Base + Privacy focus
