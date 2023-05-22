@@ -1,5 +1,5 @@
 # CCSP-Mnemonics
-Short list of CCSP mnemonics for those who did CISSSP
+Short list of CCSP mnemonics for those who did CISSP
 
 ## Domain 2
 
