@@ -1,6 +1,8 @@
 # CCSP-Mnemonics
 Short list of CCSP mnemonics for those who did CISSP
 
+[Good productive vibes](https://www.youtube.com/watch?v=zR9F8QIuUGc)
+
 ## Domain 2
 
 ### Cloud DLM - Data Lifecycle Management
