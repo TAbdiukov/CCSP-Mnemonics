@@ -31,6 +31,11 @@ Short list of CCSP mnemonics for those who did CISSSP
 
 IAPP - Investigate, Analyze, Principles&Processes
 
+#### Another meaning of IAPP.
+
+Also IAPP - International Association of Privacy Professionals. Another acronym found in CCSP, about similar topics.
+So privacy=IAPP. eDiscovery=IAPP.
+
 
 ### Legal
 
