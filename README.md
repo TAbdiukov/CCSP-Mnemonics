@@ -50,5 +50,12 @@ So privacy=IAPP. eDiscovery=IAPP.
 ### Laws
 
 * **Stored Communications** Act (SCA) 1986 - **Stored Communications** (Discord, email) are **private communications**. Dated, but in force.
-* GAPP - U.S. Optional (**gapp**ed) GDPR
+* **GAPP** - U.S. Optional (**gapp**ed) GDPR
+
+### Compliance
+
+* AICPA > SSAE > SOC (1/2/3)
+* IAAS > ISAE > ISAE 3402
+* ISAE ≈ SSAE
+* ISAE 3402 ≈ SSAE SOC 2
 
