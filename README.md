@@ -65,3 +65,8 @@ CSA > STAR
 
 CSA STAR - for CSPs. To be used by CSP, customer, auditor, consultant.
 
+##### CSA Levels,
+
+1) Self-assessment (internal audit)
+2) Third-party audit (external audit)
+
