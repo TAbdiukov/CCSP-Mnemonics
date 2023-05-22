@@ -39,3 +39,9 @@ IAPP - Investigate, Analyze, Principles&Processes
 ### SOC
 
 * **Sentiment Analysis** - AI + ML to gain people's **Sentiment** on social media (like Cambridge Analytica to target  **Sentiment** to Donald Trump)
+
+## Domain 6
+
+### Laws
+
+* **Stored Communications** Act (SCA) 1986 - **Stored Communications** (Discord, email) are **private communications**. Dated, but in force.
