@@ -59,3 +59,9 @@ So privacy=IAPP. eDiscovery=IAPP.
 * ISAE ≈ SSAE
 * ISAE 3402 ≈ SSAE SOC 2
 
+#### CSA
+
+CSA > STAR
+
+CSA STAR - for CSPs. To be used by CSP, customer, auditor, consultant.
+
