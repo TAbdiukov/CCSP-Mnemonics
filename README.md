@@ -26,7 +26,7 @@ Short list of CCSP mnemonics for those who did CISSSP
 
 ### Legal
 
-* CLOUD Act 2018 - FBI can access CLOUD
+* CLOUD Act 2018 - FBI can access CLOUD even outside the U.S.
 
 ### SOC
 
