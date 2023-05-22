@@ -6,6 +6,9 @@ Short list of CCSP mnemonics for those who did CISSSP
 ### Cloud security standards
 
 * ISO/IEC 27001 - Base
+* ISO/IEC 27002 - Base lite (for gap analysis)
+
+* ISO/IEC 27001 - Base
 * ISO/IEC 270**17** - Base + Cloud
 * ISO/IEC 270**18** - Base + Cloud + PII. HIGH level of assurance.
 
