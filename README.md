@@ -5,7 +5,7 @@ Short list of CCSP mnemonics for those who did CISSSP
 
 ### Cloud DLM - Data Lifecycle Management
 
-**Note:** This is a CSA model. Not to be confused with [CISSP's NIST 800-37](https://github.com/TAbdiukov/CISSP-YA-mnemonics#risk---rmf---nist-sp-800-37)
+**Note:** This is a CSA model.
 
 The cloud data lifecycle consists of :
 
