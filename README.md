@@ -116,7 +116,7 @@ TODO
 
 ### MSA, SLA, SOW
 
-[Big 'MSA' Many sow](https://www.cargill.com/image/1432078231924/hero-can-sow-1280x510.jpg)
+[Big 'MSA' & many sow](https://www.cargill.com/image/1432078231924/hero-can-sow-1280x510.jpg)
 
 * **M**SA - **Master** Services Provided
 * **S**OW - **Small (sow)** Jobs Worked-on
