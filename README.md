@@ -106,3 +106,8 @@ TODO
 
 * Profile - Current risks and corresponding mitigations
 * Appetite - How hungry is the organization to take more risk.
+
+### GDPR Roles
+
+* Data Protection **Officer** (DPO) - Mandatory **compliance officer**
+* 
