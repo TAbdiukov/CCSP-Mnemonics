@@ -106,6 +106,7 @@ TODO
 
 * Profile - Current risks and corresponding mitigations
 * Appetite - How hungry is the organization to take more risk.
+* Treatment = Management
 
 ### GDPR Roles
 
