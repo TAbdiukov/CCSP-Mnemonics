@@ -116,7 +116,7 @@ TODO
 
 ### MSA, SLA, SOW
 
-* MSA - **Master** Services Provided
-* SOW - **Small** Jobs Worked-on
+* **M**SA - **Master Mega** Services Provided
+* **S**OW - **Small Slave** Jobs Worked-on
 
 * SLA - Performance Expected
