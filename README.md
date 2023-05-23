@@ -116,7 +116,7 @@ TODO
 
 ### MSA, SLA, SOW
 
-* MSA - Services Provided
-* SLA - Performance Expected
-* SOW - Smaller Jobs Worked-on
+* MSA - **Master** Services Provided
+* SOW - **Small** Jobs Worked-on
 
+* SLA - Performance Expected
