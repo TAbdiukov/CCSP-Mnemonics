@@ -101,3 +101,8 @@ TODO
 
 * ISMS - Identify and monitor risk
 * IISCS - Mitigate risk
+
+### Risk
+
+* Profile - Current risks and corresponding mitigations
+* Appetite - How hungry is the organization to take more risk.
