@@ -112,4 +112,11 @@ TODO
 ### GDPR Roles
 
 * Data Protection **Officer** (DPO) - Mandatory **compliance officer**
-* 
+* Data Controller = Data Owner (controls data life)
+
+### MSA, SLA, SOW
+
+* MSA - Services Provided
+* SLA - Performance Expected
+* SOW - Smaller Jobs Worked-on
+
