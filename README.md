@@ -86,12 +86,12 @@ So privacy=IAPP. eDiscovery=IAPP.
 
 CSA > STAR
 
-CSA STAR - for CSPs. To be used by CSP, customer, auditor, consultant.
+CSA STAR - for CSPs. Lightweight assurance method used by CSP, customer, auditor, consultant. 
 
 ##### CSA Levels,
 
-1) Self-assessment (internal audit)
-2) Third-party audit (external audit)
+1) Self-assessment (internal audit, low assurance)
+2) Third-party audit (external audit, high assurance)
 
 ### CSA Cloud Controls matrix
 
