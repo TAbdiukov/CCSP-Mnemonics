@@ -39,7 +39,7 @@ The cloud data lifecycle consists of :
 * CSA - Cloud Security Alliance (organization)
 * SCA - Detect vulnerabilities
 	* SBOM - Track **S**oftware **BOM**bay-made libraries' vulnerabilities
-* SCM - Software Configuration Management (software in secure configuration)
+* SCM - Software Configuration Management (software in secure configuration - protect against **scummy** configurations like `allowlist *.*`)
 
 
 ## Domain 5
