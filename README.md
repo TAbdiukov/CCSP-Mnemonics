@@ -98,14 +98,14 @@ So privacy=IAPP. eDiscovery=IAPP.
 
 ### Compliance
 
-* AICPA > SSAE > SOC (1/2/3)
-* IAAS > ISAE > ISAE 3402
+* AICPA → SSAE → SOC (1/2/3)
+* IAAS → ISAE → ISAE 3402
 * ISAE ≈ SSAE
 * ISAE 3402 ≈ SSAE SOC 2
 
 #### CSA
 
-CSA > STAR
+CSA → STAR
 
 CSA STAR - for CSPs. Lightweight assurance method used by CSP, customer, auditor, consultant. 
 
