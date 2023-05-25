@@ -28,7 +28,7 @@ The cloud data lifecycle consists of :
 * STRIDE - Main one by Microsoft
 * **D**rea**D** - **D**amages (by attacker)
 * PASTA - for code. PASTA (spaghetti) code.
-* ATASM - Like Serial ATA (SATA) is serial - ATASM is Serial. ATA Serial (Threat) Modeling.
+* ATASM - Like Serial ATA (SATA) is serial - ATASM is Serial. ATASM is also a metamodel. **ATASM - ATA Serial Metamodel**.
 	* **A**rchitecture (Analysis)
 	* **T**hreats (existing: actors, goals)
 	* **A**ttack **S**urface (existing)
