@@ -21,6 +21,15 @@ The cloud data lifecycle consists of :
 * Letters: CS US AD
 * Mnemonic: CompSci (of) US (created) ActiveDirectory
 
+## Domain 4
+
+### Threat Modeling Approaches
+
+* STRIDE - Main one by Microsoft
+* **D**rea**D** - **D**amages (by attacker)
+* PASTA - for code. PASTA (spaghetti) code.
+* ATASM - Like Serial ATA (SATA) is serial - ATASM is Serial. ATA Serial (Threat) Modeling.
+
 ## Domain 5
 
 ### Cloud security standards
@@ -122,3 +131,4 @@ TODO
 * **S**OW - **Small (sow)** Jobs Worked-on
 
 * SLA - Performance Expected
+
