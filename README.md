@@ -29,6 +29,10 @@ The cloud data lifecycle consists of :
 * **D**rea**D** - **D**amages (by attacker)
 * PASTA - for code. PASTA (spaghetti) code.
 * ATASM - Like Serial ATA (SATA) is serial - ATASM is Serial. ATA Serial (Threat) Modeling.
+	* **A**rchitecture (Analysis)
+	* **T**hreats (existing: actors, goals)
+	* **A**ttack **S**urface (existing)
+	* **M**itigations (existing)
 
 ## Domain 5
 
