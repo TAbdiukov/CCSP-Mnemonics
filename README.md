@@ -42,6 +42,15 @@ The cloud data lifecycle consists of :
 * SCM - Software Configuration Management (software in secure configuration - protect against **scummy** configurations like `allowlist *.*`)
 
 
+### Testing Target
+
+* Static (SAST) - Code
+* Dynamic (DAST) - Runtime
+* IAST - Agent on backend to show where the error is,
+
+![IAST](https://www.getastra.com/blog/wp-content/uploads/2017/06/Server-Error-Message.png)
+
+
 ## Domain 5
 
 ### Cloud security standards
