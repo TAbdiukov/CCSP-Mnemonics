@@ -50,6 +50,11 @@ The cloud data lifecycle consists of :
 
 ![IAST](https://www.getastra.com/blog/wp-content/uploads/2017/06/Server-Error-Message.png)
 
+### SOAP vs REST
+
+* **SOAP** - (Endless) **SOAP** opera of using XML - just like Internet Explorer.
+* **REST** - **REST**ructured (modern) API
+
 ### Other
 
 * Abuse Case Testing - (Intentional) misuse case testing. [more info](https://sqa.stackexchange.com/questions/1804/abuse-cases-and-misuse-cases)
