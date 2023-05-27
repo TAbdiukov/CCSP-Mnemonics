@@ -67,6 +67,12 @@ The cloud data lifecycle consists of :
 * XML Gateway = XML (SOAP) WAF/IPS and monitoring.
 
 
+### Encryption
+
+* Full Disk Encryption (FDE) - BitLocker/dm-crypt
+* **Transparent** Data Encryption (TDE) - JIT encryption/decryption of data, **transparent** to the legacy app
+
+
 ### Other
 
 * Abuse Case Testing - (Intentional) misuse case testing. [more info](https://sqa.stackexchange.com/questions/1804/abuse-cases-and-misuse-cases)
