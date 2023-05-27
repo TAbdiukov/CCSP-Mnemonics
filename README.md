@@ -86,6 +86,10 @@ The cloud data lifecycle consists of :
 * ISO/IEC 27001 - Base
 * ISO/IEC 27**7**01 - Base + Privacy focus
 
+### CRS
+
+* OWASP CRS - Managed best firewall practices
+
 ### Terms
 
 * VPC - Virtual Private Cloud - cloud 'VLAN/intranet' area
