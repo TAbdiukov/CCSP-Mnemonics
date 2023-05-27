@@ -70,7 +70,7 @@ The cloud data lifecycle consists of :
 ### Encryption
 
 * Full Disk Encryption (FDE) - BitLocker/dm-crypt
-* **Transparent** Data Encryption (TDE) - JIT encryption/decryption of data, **transparent** to the legacy app
+* **Transparent** Data Encryption (TDE) - JIT encryption/decryption of data, **transparent** to the legacy app (no app changes required)
 
 
 ### Other
