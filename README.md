@@ -37,7 +37,7 @@ The cloud data lifecycle consists of :
 ### CSA/SCA etc
 
 * CSA - Cloud Security Alliance (organization)
-* SCA - Analysis to detect vulnerabilities 
+* SCA - Analysis to detect software vulnerabilities 
 	* SBOM - Benchmark software against **BOM**bay-made libraries
 * SCM - Software Configuration Management (software in secure configuration - protect against **scummy** configurations like `allowlist *.*`)
 
@@ -58,6 +58,7 @@ The cloud data lifecycle consists of :
 ### Other
 
 * Abuse Case Testing - (Intentional) misuse case testing. [more info](https://sqa.stackexchange.com/questions/1804/abuse-cases-and-misuse-cases)
+	* (Abuse Case Testing ≈ Misuse Case Testing)
 
 ## Domain 5
 
