@@ -55,12 +55,17 @@ The cloud data lifecycle consists of :
 * **SOAP** - (Endless) **SOAP** opera of using XML - just like Internet Explorer.
 * **REST** - **REST**ructured (modern) API
 
+### FAM, DAM
+
+* File Activity Monitoring (FAM) - Audit user activities intelligently (on) **Files**
+* Database Acivity Monitoring (DAM) - Audit user activities intelligently (on) **Databases**
+
+
 ### Other
 
 * Abuse Case Testing - (Intentional) misuse case testing. [more info](https://sqa.stackexchange.com/questions/1804/abuse-cases-and-misuse-cases)
 	* (Abuse Case Testing ≈ Misuse Case Testing)
 * XML Firewall = XML (SOAP) WAF/IPS.
-* Database Acivity Monitoring - Audit user activities intelligently (on) Databases
 
 ## Domain 5
 
