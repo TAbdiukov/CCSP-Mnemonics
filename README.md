@@ -60,7 +60,7 @@ The cloud data lifecycle consists of :
 * Abuse Case Testing - (Intentional) misuse case testing. [more info](https://sqa.stackexchange.com/questions/1804/abuse-cases-and-misuse-cases)
 	* (Abuse Case Testing ≈ Misuse Case Testing)
 * XML Firewall = XML (SOAP) WAF/IPS.
-* Database Acivity Monitoring - (for) Databases
+* Database Acivity Monitoring - Audit user activities intelligently (on) Databases
 
 ## Domain 5
 
