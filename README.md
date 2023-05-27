@@ -62,7 +62,7 @@ The cloud data lifecycle consists of :
 
 ### Gateways
 
-* SWG Gateway/Virtual Security Appliance (VSA) = Virtual Cloud Firewall host
+* SWG Gateway/Virtual Security Appliance (VSA) = Virtual Cloud Firewall host. Heavy duty, advanced functionality.
 * API Gateway = API WAF/IPS and monitoring
 * XML Gateway = XML (SOAP) WAF/IPS and monitoring.
 
