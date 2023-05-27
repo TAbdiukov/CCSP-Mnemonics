@@ -60,12 +60,16 @@ The cloud data lifecycle consists of :
 * File Activity Monitoring (FAM) - Audit user activities intelligently (on) **Files**
 * Database Acivity Monitoring (DAM) - Audit user activities intelligently (on) **Databases**
 
+### Gateways
+
+* API Gateway = API WAF/IPS and monitoring
+* XML Gateway = XML (SOAP) WAF/IPS and monitoring.
+
 
 ### Other
 
 * Abuse Case Testing - (Intentional) misuse case testing. [more info](https://sqa.stackexchange.com/questions/1804/abuse-cases-and-misuse-cases)
 	* (Abuse Case Testing ≈ Misuse Case Testing)
-* XML Firewall = XML (SOAP) WAF/IPS.
 * Virtual Security Appliance (VSA) - Virtual Cloud Firewall host
 
 ## Domain 5
