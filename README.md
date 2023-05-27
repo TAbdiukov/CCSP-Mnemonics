@@ -86,6 +86,10 @@ The cloud data lifecycle consists of :
 * ISO/IEC 27001 - Base
 * ISO/IEC 27**7**01 - Base + Privacy focus
 
+### Terms
+
+* VPC - Virtual Private Cloud - cloud 'VLAN/intranet' area
+
 ### Cloud forensic eDiscovery standards
 
 * CSA Domain 3 - Legal concerns: security, privacy, SLAs.
