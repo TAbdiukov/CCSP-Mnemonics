@@ -69,6 +69,7 @@ The cloud data lifecycle consists of :
 
 ### Encryption
 
+* Cryptoshredding - Secure data deletion with double-encryption. Great for cloud.
 * Full Disk Encryption (FDE) - BitLocker/dm-crypt
 * **Transparent** Data Encryption (TDE) - JIT encryption/decryption of data, **transparent** to the legacy app (no app changes required)
 
