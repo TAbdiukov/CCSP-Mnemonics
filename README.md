@@ -16,7 +16,12 @@ Short list of CCSP mnemonics for those who did CISSP
 * Confidential Computing - protect data in use
 * Quantum computing - protect cryptographic keys with the observer's principle
 
+### FIPS 140-2: Security Levels
 
+1. Lowest
+2. **TPM, HSM** [Cryptographic modules]
+3. (TPM, HSM) + **Tamper-proof**
+4. (TPM, HSM) + (Tamper-proof) + **Self-destruct on attack**
 
 ## Domain 2
 
