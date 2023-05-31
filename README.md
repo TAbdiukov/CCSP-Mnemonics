@@ -41,6 +41,19 @@ The cloud data lifecycle consists of :
 * Letters: CS US AD
 * Mnemonic: CompSci (of) US (created) ActiveDirectory
 
+### Storage types
+
+* RAW - directly write 0/1 to a punchcard
+* Ephemeral - RAM, SWAP/Pagefile
+* Block-storage = Volume-storage - `C://` drive
+* Long-Term - **LT**O tapes for backup
+
+### Data types
+
+* Unstructured - Files and everything else
+* Semi-structured - CSV, JSON, XML
+* Structured - SQL database
+
 ## Domain 4
 
 ### Threat Modeling Approaches
