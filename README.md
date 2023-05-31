@@ -203,3 +203,10 @@ TODO
 
 * SLA - Performance Expected
 
+# Domain 7 
+
+## CSA
+
+* CSA "Egregious 11" - Top cloud threats
+* CSA Checklists - VERY SAFE baseline guides
+* CSA Domain 3: Legal Issues - Security guidance of legal issues
