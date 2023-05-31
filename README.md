@@ -54,6 +54,10 @@ The cloud data lifecycle consists of :
 * Semi-structured - CSV, JSON, XML
 * Structured - SQL database
 
+### Other 
+
+* IRM System = eDRM System.
+
 ## Domain 4
 
 ### Threat Modeling Approaches
