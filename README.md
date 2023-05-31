@@ -17,6 +17,7 @@ Short list of CCSP mnemonics for those who did CISSP
 * Quantum computing - protect cryptographic keys with the observer's principle
 
 
+
 ## Domain 2
 
 ### Cloud DLM - Data Lifecycle Management
@@ -203,15 +204,15 @@ TODO
 
 * SLA - Performance Expected
 
-# Domain 7 
+## Domain 7 
 
-## CSA
+### CSA
 
 * CSA "Egregious 11" - Top cloud threats
 * CSA Checklists - VERY SAFE baseline guides
 * CSA Domain 3: Legal Issues - Security guidance of legal issues
 
-# IaaS, PaaS, SaaS
+### IaaS, PaaS, SaaS
 
 ![IPS](https://assets1.cbsnewsstatic.com/hub/i/2010/06/07/74ecadc6-a642-11e2-a3f0-029118418759/phprF09uBsteve-jobs-wwdc-81.jpg)
 
