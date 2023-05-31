@@ -253,6 +253,7 @@ TODO
 * CSA "Egregious 11" - Top cloud threats
 * CSA Checklists - VERY SAFE baseline guides
 * CSA Domain 3: Legal Issues - Security guidance of legal issues
+* CSA STAR - Lightweight complince standard. Level 1 - Internal audit. Level 2 - External audit.
 
 ### IaaS, PaaS, SaaS
 
