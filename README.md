@@ -126,7 +126,7 @@ The cloud data lifecycle consists of :
 
 ### Other
 
-* Abuse Case Testing - (Intentional) misuse case testing. [more info](https://sqa.stackexchange.com/questions/1804/abuse-cases-and-misuse-cases)
+* Abuse Case Testing - (Intentional) misuse case testing. [more info](https://sqa.stackexchange.com/a/1806/43034)
 	* (Abuse Case Testing ≈ Misuse Case Testing)
 
 ## Domain 5
