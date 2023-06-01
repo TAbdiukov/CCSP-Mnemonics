@@ -218,7 +218,7 @@ CSA STAR - for CSPs. Lightweight assurance method used by CSP, customer, auditor
 2) Third-party audit (external audit, high assurance)
 3) Continuous auditing
 
-### CSA Cloud Controls matrix
+### CSA Cloud Controls matrix (CSA CCMv4)
 
 TODO
 
@@ -254,7 +254,7 @@ TODO
 
 * CSA "Egregious 11" - Top cloud threats
 * CSA Checklists - VERY SAFE baseline guides
-* CSA Cloud Controls Matrix - Cloud Risk Management framework by CSA, mapped to trusted organizations
+* CSA Cloud Controls Matrix (CCMv4) - Cloud Risk Management framework by CSA, mapped to trusted organizations
 * CSA Domain 3: Legal Issues - Security guidance of legal issues
 * CSA STAR - Lightweight complince standard. Level 1 - Internal audit. Level 2 - External audit.
 
