@@ -215,6 +215,7 @@ CSA STAR - for CSPs. Lightweight assurance method used by CSP, customer, auditor
 
 1) Self-assessment (internal audit, low assurance)
 2) Third-party audit (external audit, high assurance)
+3) Continuous auditing
 
 ### CSA Cloud Controls matrix
 
