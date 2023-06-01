@@ -52,7 +52,7 @@ The cloud data lifecycle consists of :
 ### Data types
 
 * Unstructured - Files and everything else
-* Semi-structured - CSV, JSON, XML
+* Semi-structured - CSV, JSON, XML, email.
 * Structured - SQL database
 
 ### Data DEclassification
