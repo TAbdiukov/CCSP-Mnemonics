@@ -148,7 +148,7 @@ The cloud data lifecycle consists of :
 
 -----------------
 
-* ISO 27036 - Supply Chain Risk Management (SCRM) for ISO 27001 users.
+* ISO 27036 - Supply Chain Risk Management (SCM) for ISO 27001 users.
 
 ### CRS
 
