@@ -1,7 +1,8 @@
 # CCSP-Mnemonics
 Short list of CCSP mnemonics for those who did CISSP
 
-* [CCSP Quiz](https://cloud.connect.isc2.org/ccsp-quiz)
+* [FREE ISC2 CCSP Quiz/Test](https://cloud.connect.isc2.org/ccsp-quiz)
+
 
 [Good productive vibes](https://www.youtube.com/watch?v=zR9F8QIuUGc)
 
