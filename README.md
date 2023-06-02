@@ -93,11 +93,15 @@ The cloud data lifecycle consists of :
 
 ### Storage types
 
-* Ephemeral - RAM, RAMDisk (ephemeral volume), SWAP/Pagefile, temporarily LiveCD (whether RAM or HDD) destroyed after a session.
-* Block-storage = Volume-storage - VDisk `C://` drive
+#### By I/O width
 
-* RAW - directly access some abstract device's (HDD, SSD, CD, bubble memory - who knows?) address `0x01F0BEE0`, receive value `0xF000BA90` (for example, using [IDE-PIO](https://wiki.osdev.org/ATA_PIO_Mode) 
-* Long-Term - **LT**O tapes or HDD RAID for backup;
+* RAW - directly access some abstract device's (HDD, SSD, CD, bubble memory - who knows?) address `0x01F0BEE0`, receive 4-byte value `0xF000BA90` (for example, using [ATA-PIO](https://wiki.osdev.org/ATA_PIO_Mode)) 
+* Block-storage = Volume-storage - `C://` drive - virtual or physical, short-term or long-term. Request a block, receive 4 KB (1000 times more per request) 'cluster' or information.
+
+#### By longevity
+
+* Ephemeral - RAM, RAMDisk (ephemeral volume), SWAP/Pagefile, temporarily LiveCD (whether RAM or HDD) destroyed after a session.
+* Long-Term - HDD RAID or **LT**O tapes for use after session (for example, backup)
 
 ### Data types
 
