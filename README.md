@@ -93,10 +93,11 @@ The cloud data lifecycle consists of :
 
 ### Storage types
 
-* RAW - directly access some abstract device's (HDD, SSD, CD, bubble memory - who knows?) address `0x01F0BEE0`, receive value `0xF000BA90` (for example, using [IDE-PIO](https://wiki.osdev.org/ATA_PIO_Mode) 
-* Long-Term - **LT**O tapes for backup
 * Ephemeral - RAM, RAMDisk (ephemeral volume), SWAP/Pagefile, temporarily LiveCD (whether RAM or HDD) destroyed after a session.
-* Block-storage = Volume-storage - long-term `C://` drive
+* Block-storage = Volume-storage - VDisk `C://` drive
+
+* RAW - directly access some abstract device's (HDD, SSD, CD, bubble memory - who knows?) address `0x01F0BEE0`, receive value `0xF000BA90` (for example, using [IDE-PIO](https://wiki.osdev.org/ATA_PIO_Mode) 
+* Long-Term - **LT**O tapes or HDD RAID for backup;
 
 ### Data types
 
