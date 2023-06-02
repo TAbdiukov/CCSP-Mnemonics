@@ -378,4 +378,4 @@ TODO
 
 Finally
 
-* FaaS - serverless IaC, cheaper than PaaS.
+* FaaS - serverless IaC, cheaper and simplier than PaaS.
