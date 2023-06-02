@@ -134,7 +134,7 @@ The cloud data lifecycle consists of :
 * Semi-structured - CSV, JSON, XML.
 * Unstructured - Files and everything else
 
-### Data Disspersion
+### Data Dispersion
 
 is a KISS term: "Store data in many places"
 
