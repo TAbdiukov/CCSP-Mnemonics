@@ -118,6 +118,11 @@ A bit like RAID, can be used to achieve diametrically opposed goals:
 * Availability (by orchestrating multiple compies of data)
 * ~~[Two-person control]~~ multi-person control (by splitting data into many pieces - thus potentially jeopardizing availability), and
 
+### Tags vs Labels
+
+* For CCSP : Tags for DLP; Labels for classification
+(Tags explain the data, labels show sensitivity)
+
 ### Data DEclassification
 
 * Anonymization - Remove sensitive data and make the subject **anonymous** (like a hacker group). Can be required by GDPR.
