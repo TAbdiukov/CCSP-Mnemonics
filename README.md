@@ -72,7 +72,7 @@ The cloud data lifecycle consists of :
 
 ### Other 
 
-* IRM System = eDRM System.
+* IRM System = eDRM System - like Adobe Digital Editions.
 
 ## Domain 4
 
