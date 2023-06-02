@@ -43,7 +43,7 @@ Short list of CCSP mnemonics for those who did CISSP
 
 ### Cloud account types
 
-* Service - service-app
+* Service - service-app (not user) 
 * Shared - shared by team
 
 
