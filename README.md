@@ -59,7 +59,7 @@ The cloud data lifecycle consists of :
 
 * Anonymization - Remove sensitive data and make the subject **anonymous** (like a hacker group). Can be required by GDPR.
 * Masking - Permanently mask and damage data, suboptions:
-	* Randomize - parts of data replaced with meaningless random data
+	* Randomize - meaningful parts of data replaced with meaningless random data
 	* Hash - John Smith" becomes "0xDEA4B884"
 	* Shuffle - Everyone's data is shuffled, rendering data dirty and meaningless
 	* Mask - Card number `**** **** **** 9608` expiry `09/25` cvv `***`
