@@ -19,8 +19,8 @@ Short list of CCSP mnemonics for those who did CISSP
 
 * Multi**tenancy** - Sharing resources with everyone, including crooks
 
-![Cuba](https://www.usatoday.com/gcdn/presto/2018/11/16/USAT/546544cc-7dbe-41b3-8945-d0242b906bfd-HAVANA_building_photo_1.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp)
-----
+![Cuba](https://www.usatoday.com/gcdn/presto/2018/11/16/USAT/546544cc-7dbe-41b3-8945-d0242b906bfd-HAVANA_building_photo_1.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp) |
+---- |
 **Multitenancy**
 
 ### Cloud types
