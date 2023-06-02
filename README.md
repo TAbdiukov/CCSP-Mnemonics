@@ -27,6 +27,51 @@ Short list of CCSP mnemonics for those who did CISSP
 3. (TPM, HSM) + **Tamper-proof**
 4. (TPM, HSM) + (Tamper-proof) + **Self-destruct on attack**
 
+#### Mnemonics
+
+1) **Lowest**
+
+2) For **cryptographic** modules that protect sensitive information
+
+3) For **physical** contractors to prevent physical tampering
+
+4) tamper-proof control where the data on the device is **automatically erased** if it detects a physical attack
+
+Mnemonic: **Low** adoption of **crypto** in the **physical** world due to **auto-erase**
+
+Mnemonic 2: **Low** amount of **crypto** will cause **physical** ASIC to **auto-erase** 
+
+### Cloud account types
+
+* Service - service-app
+* Shared - shared by team
+
+### Hypervisors
+
+* Type 1 - Bare metal (hardware)
+* Type 2 - Software
+
+Mnemonic: Hardware first, then software
+
+### Extra auth types
+
+* Something you know, something you have, something you are, 
+
+* Somewhere you are, something you do
+
+### Who does what
+
+ISO 17789
+
+### 5 Facets of Cloud/IOT interoperability - ISO/IEC 21823
+
+1. (Comply with) Policy
+2. (Expected) behavior
+3. (Standard and secure) Transport
+4. (Exchange is) Syncratic
+5. (Data meaning is) Symantic
+
+
 ## Domain 2
 
 ### Cloud DLM - Data Lifecycle Management
@@ -44,6 +89,7 @@ The cloud data lifecycle consists of :
 
 * Letters: CS US AD
 * Mnemonic: CompSci (of) US (created) ActiveDirectory
+* Mnemonic 2: Cloud SUS ActiveDirectory
 
 ### Storage types
 
