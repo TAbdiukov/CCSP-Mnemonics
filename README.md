@@ -116,8 +116,8 @@ The cloud data lifecycle consists of :
 
 #### By access chain
 
-* RAW - Directly access some abstract device right next to you. Access directly: You → (CSP? →) Drive
-* Block-storage = Volume-storage - virtual drive in a server-architecture cluster. Access indirectly: You → (CSP? →) Cluster of drives → (Virtual?) Drive
+* RAW - Directly hands-on access some abstract device. Access directly: `You → Drive`
+* Block-storage = Volume-storage - (Likely virtual) drive in a server-architecture cluster. Access indirectly: `You → (CSP? →) Cluster of drives → Drive`
 
 #### By longevity
 
