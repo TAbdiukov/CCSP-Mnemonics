@@ -106,9 +106,11 @@ The cloud data lifecycle consists of :
 
 ### Data Disspersion
 
-A bit like RAID, can be used to achieve diametric goals:
-* Availability (by orchestrating multiple compies of the information)
-* ~~[Two-person control]~~ multi-person control (by Splitting information into many pieces - thus potentially jeopardizing availability), and
+is a KISS term: "Store data in many places"
+
+A bit like RAID, can be used to achieve diametrically opposed goals:
+* Availability (by orchestrating multiple compies of data)
+* ~~[Two-person control]~~ multi-person control (by splitting data into many pieces - thus potentially jeopardizing availability), and
 
 ### Data DEclassification
 
