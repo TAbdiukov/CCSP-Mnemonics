@@ -101,7 +101,8 @@ The cloud data lifecycle consists of :
 #### By longevity
 
 * Ephemeral - RAM, RAMDisk (ephemeral volume), SWAP/Pagefile, temporarily LiveCD (whether RAM or HDD) destroyed after a session.
-* Long-Term - HDD RAID or **LT**O tapes for use after session (for example, backup)
+* Long-Term - HDD RAID or **LT**O tapes for use after session (for example, for work on next day and backup)
+	* Archival - (likely a subset of long-term storage) - good for archiving, but very slow data retrieval (hours/days).
 
 ### Data types
 
