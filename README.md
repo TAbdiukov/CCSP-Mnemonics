@@ -91,20 +91,6 @@ The cloud data lifecycle consists of :
 	* SBOM - Benchmark software against **BOM**bay-made libraries
 * SCM - Software Configuration Management (software in secure configuration - protect against **scummy** configurations like `allowlist *.*`)
 
-
-### Testing Target
-
-* Static (SAST) - Code
-* Dynamic (DAST) - Runtime
-* IAST - Agent on backend to show where the error is,
-
-**IAST** Examples |
----- |
-![IAST](https://www.getastra.com/blog/wp-content/uploads/2017/06/Server-Error-Message.png)
-![IAST](https://i.stack.imgur.com/LOB5R.png)
-![IAST](https://community.adobe.com/legacyfs/online/836476_Cf014.jpg)
-
-
 ### SOAP vs REST
 
 * **SOAP** - (Endless) **SOAP** opera of using XML - just like Internet Explorer.
@@ -133,6 +119,18 @@ The cloud data lifecycle consists of :
 
 * Abuse Case Testing - (Intentional) misuse case testing. [more info](https://sqa.stackexchange.com/a/1806/43034)
 	* (Abuse Case Testing ≈ Misuse Case Testing)
+
+### Testing Target
+
+* Static (SAST) - Code
+* Dynamic (DAST) - Runtime
+* IAST - Agent on backend to show where the error is,
+
+**IAST** Examples |
+---- |
+![IAST](https://www.getastra.com/blog/wp-content/uploads/2017/06/Server-Error-Message.png)
+![IAST](https://i.stack.imgur.com/LOB5R.png)
+
 
 ## Domain 5
 
