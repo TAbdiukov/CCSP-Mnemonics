@@ -114,10 +114,10 @@ The cloud data lifecycle consists of :
 
 ### Storage types
 
-#### By I/O width
+#### By access chain
 
-* RAW - directly access some abstract device's (HDD, SSD, CD, bubble memory - who knows?) address `0x01F0BEE0`, receive 4-byte value `0xF000BA90` (for example, using [ATA-PIO](https://wiki.osdev.org/ATA_PIO_Mode)) 
-* Block-storage = Volume-storage - `C://` drive - virtual or physical, short-term or long-term. Request a block, receive 4 KB (1000 times more per request) 'cluster' or information.
+* RAW - Directly access some abstract device right next to you. Access directly: You → (CSP? →) Drive
+* Block-storage = Volume-storage - virtual drive in a server-architecture cluster. Access indirectly: You → (CSP? →) Cluster of drives → (Virtual?) Drive
 
 #### By longevity
 
