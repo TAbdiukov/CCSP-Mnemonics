@@ -102,6 +102,7 @@ The cloud data lifecycle consists of :
 ---- |
 ![IAST](https://www.getastra.com/blog/wp-content/uploads/2017/06/Server-Error-Message.png)
 ![IAST](https://i.stack.imgur.com/LOB5R.png)
+![IAST](https://community.adobe.com/legacyfs/online/836476_Cf014.jpg)
 
 
 ### SOAP vs REST
