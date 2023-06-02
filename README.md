@@ -11,6 +11,27 @@ Short list of CCSP mnemonics for those who did CISSP
 
 ## Domain 1
 
+### Characteristics of cloud
+
+* Scalability - app/solution can "scale up" well for 1000s of inputs or clients
+* Elasticity - (cloud) solution is like an **elastic band** - can scale up and scale down as needed. **Elasticity implies scalability**
+* Cloud bursting - (Hybrid) cloud elasticity
+
+* Multi**tenancy** - Sharing resources with everyone, including crooks
+
+![Cuba](https://www.usatoday.com/gcdn/presto/2018/11/16/USAT/546544cc-7dbe-41b3-8945-d0242b906bfd-HAVANA_building_photo_1.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp)
+----
+**Multitenancy**
+
+### Cloud types
+
+* On-prem - Your datacentre
+* Private - CSP only services you
+* Hybrid - Your infrastructure 🖤 CSP's cloud
+* Public - CSP's cloud for everyone, including crooks. Multitenancy.
+
+* **Community** - (U.S. Intelligence) **Community** Cloud - cloud for those who share a mission!
+
 ### Trusted Computing
 
 * TEE - Trusted Execution Environment ([≈ TCB](https://stackoverflow.com/q/63335341/12258312))
