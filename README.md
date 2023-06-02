@@ -104,6 +104,12 @@ The cloud data lifecycle consists of :
 * Semi-structured - CSV, JSON, XML.
 * Unstructured - Files and everything else
 
+### Data Disspersion
+
+A bit like RAID, can be used to achieve diametric goals:
+* Availability (by orchestrating multiple compies of the information)
+* ~~[Two-person control]~~ multi-person control (by Splitting information into many pieces - thus potentially jeopardizing availability), and
+
 ### Data DEclassification
 
 * Anonymization - Remove sensitive data and make the subject **anonymous** (like a hacker group). Can be required by GDPR.
@@ -114,7 +120,6 @@ The cloud data lifecycle consists of :
 	* Mask - Card number `**** **** **** 9608` expiry `09/25` cvv `***`
 	* Delete - Delete
 * Tokenization - split sensitive and non-sensitive tables, use meaningless **tokens** to uniquely identify subjects where needed.
-
 
 ### Other 
 
