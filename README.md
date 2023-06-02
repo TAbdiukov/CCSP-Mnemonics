@@ -116,7 +116,7 @@ The cloud data lifecycle consists of :
 
 #### By access chain
 
-* RAW - Direct hands-on low-level access some drive. Access directly: `You → Drive`
+* RAW - Direct hands-on low-level access some drive. Access directly: `You → Drive`. Direct access means "Direct responsibility" for data remanence caused and found.
 * Block-storage = Volume-storage - High-level, abstractioned, indirect, access to a (likely virtual) drive in a cluster: `You → Cluster of drives → (Subcluster of drives? It's a cloud architecture after all) →  Drive`
 
 #### By longevity
