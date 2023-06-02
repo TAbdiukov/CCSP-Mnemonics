@@ -27,7 +27,7 @@ Short list of CCSP mnemonics for those who did CISSP
 
 * On-prem - Your datacentre
 * Private - CSP only services you
-* Hybrid - Your infrastructure 🖤 CSP's cloud
+* Hybrid - Your infrastructure 🖤 CSP's cloud. This is hard to configure well.
 * Public - CSP's cloud for everyone, including crooks. Multitenancy.
 
 * **Community** - (U.S. Intelligence) **Community** Cloud - cloud for those who share a mission!
