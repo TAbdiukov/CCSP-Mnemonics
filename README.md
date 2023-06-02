@@ -45,9 +45,9 @@ The cloud data lifecycle consists of :
 ### Storage types
 
 * RAW - directly access some abstract device's (HDD, SSD, CD, bubble memory - who knows?) address `0x01F0BEE0`, receive value `0xF000BA90` (for example, using [IDE-PIO](https://wiki.osdev.org/ATA_PIO_Mode) 
+* Long-Term - **LT**O tapes for backup
 * Ephemeral - RAM, RAMDisk (ephemeral volume), SWAP/Pagefile, temporarily LiveCD (whether RAM or HDD) destroyed after a session.
 * Block-storage = Volume-storage - long-term `C://` drive
-* Long-Term - **LT**O tapes for backup
 
 ### Data types
 
@@ -59,7 +59,7 @@ The cloud data lifecycle consists of :
 
 * Anonymization - Remove sensitive data and make the subject **anonymous** (like a hacker group). Can be required by GDPR.
 * Masking - Permanently mask and damage data, suboptions:
-	* Randomize - parts of data replaced with (subjectively) random data
+	* Randomize - parts of data replaced with meaningless random data
 	* Hash - John Smith" becomes "0xDEA4B884"
 	* Shuffle - Everyone's data is shuffled, rendering data dirty and meaningless
 	* Mask - Card number `**** **** **** 9608` expiry `09/25` cvv `***`
