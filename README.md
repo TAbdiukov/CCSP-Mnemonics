@@ -122,9 +122,9 @@ The cloud data lifecycle consists of :
 
 ### Testing Target
 
-* Static (SAST) - Code
-* Dynamic (DAST) - Runtime
-* IAST - Agent on backend to show where the error is,
+* Static (**SAST**) - Code
+* Dynamic (**DAST**) - Runtime
+* **IAST** - Agent on backend to show where the error is,
 
 ![IAST](https://www.getastra.com/blog/wp-content/uploads/2017/06/Server-Error-Message.png) | ![IAST](https://i.stack.imgur.com/LOB5R.png)
 ---- | ----
