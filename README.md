@@ -253,9 +253,13 @@ TODO
 
 * SLA - Performance Expected
 
-## Domain 7 
+## Domain 7 (meta-domain)
+
+![World 9-1](https://mario.wiki.gallery/images/7/7d/SMB_NES_World_9-1_Title_Card.png)
 
 ### CSA
+
+![CSA](https://damassets.autodesk.net/content/dam/autodesk/images/trust/csa-logo-thumb-384x288.png)
 
 * CSA "Egregious 11" - Top cloud threats
 * CSA Checklists - VERY SAFE baseline guides
