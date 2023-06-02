@@ -15,7 +15,7 @@ Short list of CCSP mnemonics for those who did CISSP
 
 * Scalability - app/solution can "scale up" well for 1000s of inputs or clients
 * Elasticity - (cloud) solution is like an **elastic band** - can scale up and scale down as needed. **Elasticity implies scalability**
-* Cloud bursting - (Hybrid) cloud elasticity
+* Cloud **bursting** - Hybrid cloud elasticity (**bursting**)
 
 * Multi**tenancy** - Sharing resources with everyone, including crooks
 
