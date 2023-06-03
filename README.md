@@ -190,10 +190,11 @@ Cloud site - much more cost-effective than hot site, however, takes longer to re
 
 **Mnemonic:** 
 
-
-> TIERS**1234**  
-> 123456789  
-> -----**6789**  
+```
+TIERS1234
+123456789  
+-----6789  
+```
 
 
 ## Domain 4
