@@ -195,7 +195,7 @@ For CCSP : Tags for DLP; Labels for classification
 
 ### SOAP vs REST
 
-* **SOAP** - (Endless) **SOAP** opera of using XML - just like Internet Explorer.
+* **SOAP** - (Endless) **SOAP** opera of using Microsoft's XML - just like Microsoft's Internet Explorer.
 * **REST** - **REST**ructured (modern) API
 
 ### FAM, DAM
