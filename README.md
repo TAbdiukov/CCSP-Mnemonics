@@ -26,7 +26,7 @@ Short list of CCSP mnemonics for those who did CISSP
 ### Cloud types
 
 * On-prem - Your datacentre
-* Private - CSP only services you
+* Private - CSP only services you (CSP is your Sugar Baby) - Expensive. 
 * Hybrid - Your infrastructure 🖤 CSP's cloud. This is hard to configure well.
 * Public - CSP's cloud for everyone, including crooks. Multitenancy.
 
