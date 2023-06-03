@@ -36,4 +36,7 @@ This is the latest known release, see also:
 
 ## Conclusion
 
-So as of June 2023, CCM v4 is the latest version, and will likely stay so for a few years
+So as of June 2023, CCM v4 is the latest version, and will likely stay so for a few years.
+
+As such, there is no need to learn about "CCMv4" updates, compared to the previous versions.
+
