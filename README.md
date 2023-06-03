@@ -66,7 +66,7 @@ Short list of CCSP mnemonics for those who did CISSP
 
 Mnemonic: **Low** adoption of **crypto** in the **physical** world due to **auto-erase**
 
-Mnemonic 2: **Low** amount of **crypto** will cause **physical** ASIC to **auto-erase** 
+Mnemonic 2: **Low** amount of **crypto** will cause **physical** ASIC to **self-destruct** 
 
 ### Hypervisors
 
