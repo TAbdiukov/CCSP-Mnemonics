@@ -98,8 +98,6 @@ ISO 17789
 
 ### Cloud DLM - Data Lifecycle Management
 
-**Note:** This is a CSA model.
-
 The cloud data lifecycle consists of :
 
 1) Create
