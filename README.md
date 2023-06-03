@@ -173,6 +173,14 @@ For CCSP : Tags for DLP; Labels for classification
 
 * IRM System = eDRM System - like Adobe Digital Editions.
 
+## Domain 3
+
+### Recovery sites
+
+(same as CISSP, plus):
+
+Cloud site - much more cost-effective than hot site, however, takes longer to reallocate to.
+
 ## Domain 4
 
 ### Threat Modeling Approaches
