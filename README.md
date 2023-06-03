@@ -196,6 +196,10 @@ TIERS1234
 -----6789
 ```
 
+### Comparisons
+
+* AuthN: Host digital certificates > MFA 
+* anti-DDoS: CDN > CSP's anti-DDoS capabilities
 
 ## Domain 4
 
