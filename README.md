@@ -198,7 +198,7 @@ TIERS1234
 
 ### Comparisons
 
-* AuthN: Host digital certificates > MFA 
+* AuthN in cloud: Host digital certificates > MFA 
 * anti-DDoS: CDN > CSP's anti-DDoS capabilities
 
 ## Domain 4
