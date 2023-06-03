@@ -205,6 +205,7 @@ TIERS1234
 
 * AuthN of (cloud) hosts: Host digital certificates
 * anti-DDoS: CDN > CSP's anti-DDoS capabilities
+* SSO - One org; Federation - 2+ orgs.
 
 ## Domain 4
 
