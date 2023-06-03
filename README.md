@@ -207,6 +207,13 @@ TIERS1234
 * anti-DDoS: CDN > CSP's anti-DDoS capabilities
 * SSO - One org; Federation - 2+ orgs.
 
+### Ping, power, pipe
+*For designing a datacenter*
+
+1) **Ping** = **Ping** to remote access (RDP/SSH)
+2) **Power** = Electric **Power**
+3) **Pipe** = ISP/internet/You**Tube**
+
 ## Domain 4
 
 ### Threat Modeling Approaches
