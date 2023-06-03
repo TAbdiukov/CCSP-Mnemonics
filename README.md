@@ -192,8 +192,8 @@ Cloud site - much more cost-effective than hot site, however, takes longer to re
 
 ```
 TIERS1234
-123456789  
------6789  
+123456789
+-----6789
 ```
 
 
