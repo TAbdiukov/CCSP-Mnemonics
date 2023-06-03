@@ -181,6 +181,13 @@ For CCSP : Tags for DLP; Labels for classification
 
 Cloud site - much more cost-effective than hot site, however, takes longer to reallocate to.
 
+### Availability tiers
+
+1) 99.**6**71%
+2) 99.**7**41%
+3) 99.9**8**2%
+4) 99.**99**5%
+
 ## Domain 4
 
 ### Threat Modeling Approaches
