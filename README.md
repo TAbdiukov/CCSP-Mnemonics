@@ -281,15 +281,15 @@ PR DDD TD
 * Dynamic (**DAST**) - Runtime
 * **IAST** - **Interactive** AST - Agent on backend to show where the error is,
 
+![IAST](https://www.getastra.com/blog/wp-content/uploads/2017/06/Server-Error-Message.png) | ![IAST](https://i.stack.imgur.com/LOB5R.png)
+---- | ----
+**IAST** Example | **IAST** Example
+
+
 ### Other
 
 * Abuse Case Testing - (Intentional) misuse case testing. [more info](https://sqa.stackexchange.com/a/1806/43034)
 	* (Abuse Case Testing ≈ Misuse Case Testing)
-
-
-![IAST](https://www.getastra.com/blog/wp-content/uploads/2017/06/Server-Error-Message.png) | ![IAST](https://i.stack.imgur.com/LOB5R.png)
----- | ----
-**IAST** Example | **IAST** Example
 
 
 ## Domain 5
