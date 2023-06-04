@@ -208,6 +208,12 @@ TIERS1234
 2) **Power** = Electric **Power**
 3) **Pipe** = ISP/internet/You**Tube**
 
+### How to develop a datacenter
+
+Step 1: Redundancy is key
+Step 2: ????????
+Step 3: PROFIT!
+
 ## Domain 4
 
 ### Threat Modeling Approaches
