@@ -249,6 +249,8 @@ PR DDD TD
 * **SOAP** - (Endless) **SOAP** opera of using Microsoft's XML - just like Microsoft's Internet Explorer.
 * **REST** - **REST**ructured (modern) API
 
+
+
 ### FAM, DAM
 *Neither is an IDS/IPS*
 
@@ -268,6 +270,10 @@ PR DDD TD
 * Full Disk Encryption (FDE) - BitLocker/dm-crypt
 * **Transparent** Data Encryption (TDE) - JIT encryption/decryption of data, **transparent** to the legacy app (no app changes required)
 
+### Functional vs Non-Functional Testing
+
+* **Functional** - (non-descriminatory) - Does app **Function** as expected
+* **Non-Functional** - (descriminatory) - Is the app *beefy, too slow, and has a ugly UI*?
 
 ### Other
 
