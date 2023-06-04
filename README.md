@@ -227,12 +227,13 @@ TIERS1234
 	* **A**ttack **S**urface (existing)
 	* **M**itigations (existing)
 
-### CSA/SCA etc
+### Terms
 
 * CSA - Cloud Security Alliance (organization)
 * SBOM - List software's **BOM**bay-made libraries
 	* SCA - Actions upon SBOM 
 * SCM - Software Configuration Management (software in secure configuration - protect against **scummy** configurations like `allowlist *.*`)
+* Dynamic Secrets - JIT secrets.
 
 ### SDLC
 
