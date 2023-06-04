@@ -240,8 +240,9 @@ TIERS1234
 * **REST** - **REST**ructured (modern) API
 
 ### FAM, DAM
+*Neither is an IDS/IPS*
 
-* File Activity Monitoring (FAM) - Audit user activities intelligently (on) **Files**
+* File Activity Monitoring (FAM) - Audit user activities intelligently (on) **Files** 
 * Database Acivity Monitoring (DAM) - Audit user activities intelligently (on) **Databases**
 
 ### Gateways
