@@ -211,8 +211,9 @@ TIERS1234
 ### How to develop a datacenter
 
 Step 1: Redundancy is key
-Step 2: ????????
-Step 3: PROFIT!
+Step 2: Add LOTS of extra-redundant cables
+Step 3: ????????
+Step 4: PROFIT!
 
 ## Domain 4
 
