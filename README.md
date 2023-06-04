@@ -234,7 +234,7 @@ TIERS1234
 	* SCA - Actions upon SBOM 
 * SCM - Software Configuration Management (software in secure configuration - protect against **scummy** configurations like `allowlist *.*`)
 * Dynamic Secrets - JIT secrets.
-* KMS - Key Management Service.
+* KMS - Key Management Service = Secrets Server.
 
 ### SDLC
 
