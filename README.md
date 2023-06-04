@@ -230,8 +230,8 @@ TIERS1234
 ### CSA/SCA etc
 
 * CSA - Cloud Security Alliance (organization)
-* SBOM - Benchmark software against **BOM**bay-made libraries
-	* SCA - Analysis upon SBOM 
+* SBOM - List software's **BOM**bay-made libraries
+	* SCA - Actions upon SBOM 
 * SCM - Software Configuration Management (software in secure configuration - protect against **scummy** configurations like `allowlist *.*`)
 
 ### SDLC
