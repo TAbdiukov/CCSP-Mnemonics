@@ -234,6 +234,16 @@ TIERS1234
 	* SCA - Analysis upon SBOM 
 * SCM - Software Configuration Management (software in secure configuration - protect against **scummy** configurations like `allowlist *.*`)
 
+### SDLC
+
+1. Analysis (planning and requirements analysis)
+2. Define
+3. Design
+4. Develop (implement)
+5. Test (verify)
+6. Deploy/Release/Maintain
+
+
 ### SOAP vs REST
 
 * **SOAP** - (Endless) **SOAP** opera of using Microsoft's XML - just like Microsoft's Internet Explorer.
