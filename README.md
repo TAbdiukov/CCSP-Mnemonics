@@ -188,13 +188,23 @@ Cloud site - much more cost-effective than hot site, however, takes longer to re
 3) 99.9**8**2%
 4) 99.**99**5%
 
-**Mnemonic:** 
+#### Mnemonic 1
 
 ```
 TIERS1234
 123456789
 -----6789
 ```
+
+#### Mnemonic 2:
+
+```
+TIER
+1234
+9876
+```
+
+
 
 ### (Compass)-bound communication 
 #### Occurs in SDNs
