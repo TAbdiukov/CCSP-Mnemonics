@@ -201,12 +201,6 @@ TIERS1234
 
 ![Cisco](https://learningnetwork.cisco.com/sfc/servlet.shepherd/version/renditionDownload?rendition=THUMB720BY480&versionId=0683i000001rnMl&operationContext=CHATTER&contentId=05T3i00000ACKHA&page=0)
 
-### Comparisons
-
-* AuthN of (cloud) hosts: Host digital certificates
-* anti-DDoS: CDN > CSP's anti-DDoS capabilities
-* SSO - One org; Federation - 2+ orgs.
-
 ### Ping, power, pipe
 *For designing a datacenter*
 
@@ -422,6 +416,14 @@ TODO
 * CSA Cloud Controls Matrix (CCMv4) - Cloud Risk Management framework by CSA, mapped to trusted organizations
 * CSA Domain 3: Legal Issues - Security guidance of legal issues
 * CSA STAR - Lightweight complince standard. Level 1 - Internal audit. Level 2 - External audit.
+
+### Comparisons
+
+* anti-DDoS: CDN > CSP's anti-DDoS capabilities
+* anti-DDoS: API Gateway > IPS
+* anti-DDoS: Authentication > Scale
+* AuthN of (cloud) hosts: Host digital certificates
+* SSO - One org; Federation - 2+ orgs.
 
 ### IaaS, PaaS, SaaS
 
