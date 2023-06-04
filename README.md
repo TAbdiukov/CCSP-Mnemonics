@@ -218,7 +218,7 @@ TIERS1234
 
 ### Threat Modeling Approaches
 
-* **D**rea**D** - **D**amages (by attacker) - developed by Microsoft - replaced with STRIDE
+* **D**rea**D** - **D**amages (by attacker) - developed by Microsoft - replaced with STRIDE. **DREAD** is forced away by **STRIDE**
 * STRIDE - Main one by Microsoft 
 * PASTA - for code. PASTA (spaghetti) code.
 * ATASM - Like Serial ATA (SATA) is serial - ATASM is Serial. ATASM is also a metamodel. **ATASM - ATA Serial Metamodel**.
@@ -226,6 +226,8 @@ TIERS1234
 	* **T**hreats (existing: actors, goals)
 	* **A**ttack **S**urface (existing)
 	* **M**itigations (existing)
+
+(Architecture Threats - Attack Surface - Mitigations)
 
 ### Terms
 
