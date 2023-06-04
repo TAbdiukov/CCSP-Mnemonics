@@ -230,8 +230,8 @@ TIERS1234
 ### CSA/SCA etc
 
 * CSA - Cloud Security Alliance (organization)
-* SCA - Analysis to detect software vulnerabilities 
-	* SBOM - Benchmark software against **BOM**bay-made libraries
+* SBOM - Benchmark software against **BOM**bay-made libraries
+	* SCA - Analysis upon SBOM 
 * SCM - Software Configuration Management (software in secure configuration - protect against **scummy** configurations like `allowlist *.*`)
 
 ### SOAP vs REST
