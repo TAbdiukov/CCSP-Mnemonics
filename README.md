@@ -235,13 +235,14 @@ TIERS1234
 ### SDLC
 
 1. Planning Analysis (for ongoing project) 
-2. Requirements Analysis (to finish project) 
+2. Requirements Analysis (to finish project) **[for CCSP: separate phase]**
 3. Define (goals with user)
 4. Design (technical parts plane)
 5. Develop (implement)
 6. Test (verify)
 7. Deploy/Release/Maintain
 
+PR DDD TD
 
 ### SOAP vs REST
 
