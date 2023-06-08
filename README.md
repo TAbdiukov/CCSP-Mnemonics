@@ -314,7 +314,7 @@ PR DDD TD
 
 ### Cloud security standards
 
-* ISO/IEC 27000-1 - Capacity Management
+* ISO/IEC 27000-1 - IT Service Management (Directly to Domain 5, like ITILv4)
 
 ------------------------
 
