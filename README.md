@@ -35,8 +35,8 @@ Short list of CCSP mnemonics for those who did CISSP
 ### Trusted Computing
 
 * TEE - Trusted Execution Environment ([≈ TCB](https://stackoverflow.com/q/63335341/12258312))
-* TPM - Internal hardware for TEE/TCB
-* HSM - External dongle/card for TEE/TCB
+* TPM - Internal hardware for TEE/TCB (+ Secure Boot)
+* HSM - External dongle/card for TEE/TCB (+ Secrets Management)
 
 * Confidential Computing - protect data in use
 * Quantum computing - protect cryptographic keys with the observer's principle
