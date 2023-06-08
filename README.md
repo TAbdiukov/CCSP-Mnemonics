@@ -364,6 +364,12 @@ PR DDD TD
 
 IAPP - Investigate, Analyze, Principles&Processes
 
+```
+IAPP
+1233
+```
+
+
 #### Another meaning of IAPP.
 
 Also IAPP - International Association of Privacy Professionals. Another acronym found in CCSP, about similar topics.
