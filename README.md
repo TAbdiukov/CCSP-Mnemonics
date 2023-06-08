@@ -355,7 +355,6 @@ PR DDD TD
 4. Deploy baselined assets
 5. Dicument approved deviations (if needed)
 
-
 ### Terms
 
 * VPC - Virtual Private Cloud - cloud 'VLAN/intranet' area
@@ -424,6 +423,11 @@ Is to Recover
 ![Highway](https://www.vinci-concessions.com/uploads/2019/06/cofiroute-usa-1920x1106.jpg)
 
 Manage highways & their components
+
+#### Continual Service Improvement (CSI)
+
+Is ensured/managed by **Process Owner**
+
 
 ## Domain 6
 
