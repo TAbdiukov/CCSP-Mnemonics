@@ -332,6 +332,7 @@ PR DDD TD
 
 * ISO 27036 - Supply Chain Risk Management (SCM/SCRM) for ISO 27001 users.
 
+
 ### CRS
 
 * OWASP CRS - Managed best firewall practices
@@ -428,6 +429,8 @@ TODO
 * **S**OW - **Small (sow)** Jobs Worked-on
 
 * SLA - Performance Expected
+
+* OLA - Like Windows OLE (internal, under-the-hood) - under-the-hood internal agreement between (C)SP and its brokers.
 
 ## Domain 7 (meta-domain)
 
