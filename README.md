@@ -429,7 +429,7 @@ CSA → STAR
 
 CSA STAR - for CSPs. Lightweight assurance method used by CSP, customer, auditor, consultant. 
 
-##### CSA Levels,
+##### CSA STAR Levels,
 
 1) Self-assessment (internal audit, low assurance)
 2) Third-party audit (external audit, high assurance)
