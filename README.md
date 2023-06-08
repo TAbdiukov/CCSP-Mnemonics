@@ -407,7 +407,18 @@ Bad Drivers are a **Problem** - car crashes as a result of their driving are **I
 
 All ~~problems~~ bad drivers potentially cause incidents, but not all bad drivers result in incidents.
 
+### ITIL
 
+#### Availability Management
+
+1) **Designing** services for Availability
+2) Availability **Testing**
+3) Availability **Monitoring** and Reporting
+
+#### IR 
+
+Is to Recover
+ 
 
 ## Domain 6
 
