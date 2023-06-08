@@ -403,7 +403,6 @@ DF-IAPP
 Also IAPP - International Association of Privacy Professionals. Another acronym found in CCSP, about similar topics.
 So privacy=IAPP. eDiscovery=IAPP.
 
-
 ### Legal
 
 * CLOUD Act 2018 - FBI can access CLOUD even outside the U.S. (in violation of GDPR)
@@ -452,6 +451,13 @@ Manage highways & their components
 2) Agreement sign-off and service **activation**
 3) Service-level **monitoring** and reporting
 4) **Maintenance** of SLM framework
+
+#### Disaster Recovery Management
+
+* ITIL "recovery plan" - Detailed master plan for BCP/DRP, can also include data restoration to RPO.
+* BCP Strategy - Strategy for business (functions)
+* IT Service Continuity - Specific cases continuity plan (i.e. if a specific host failed)
+* BCP **Invocation** Guidelines - **Invocation**
 
 ### Vulnerability Scanning Requirements from CSP
 
