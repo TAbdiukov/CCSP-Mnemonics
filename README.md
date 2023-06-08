@@ -314,6 +314,10 @@ PR DDD TD
 
 ### Cloud security standards
 
+* ISO/IEC 27000-1 - Capacity Management
+
+------------------------
+
 * ISO/IEC 27001 - Base
 * ISO/IEC 27002 - Base lite (for gap analysis - fits like LEGO with 27001) 
 
