@@ -316,6 +316,8 @@ PR DDD TD
 
 * ISO/IEC 27000-1 - IT Service Management (Directly to Domain 5, like ITILv4)
 
+Mnemonic: **SLA downtime should all be 0s**
+
 ------------------------
 
 * ISO/IEC 27001 - Base
