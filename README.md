@@ -340,10 +340,10 @@ PR DDD TD
 
 * OWASP CRS - Managed best firewall practices
 
-### Configuration management
+### Configuration Management
 
 * CI - Configuration Item - configuration for one app
-* CMDB - Collection of CIs - configuration for many apps.
+* CMDB - Collection of CIs (Configuration Items) - configuration for many apps.
 
 ### Terms
 
