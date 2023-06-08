@@ -99,6 +99,7 @@ ISO 17789
 * Governance - Policy
 * Orchestration - manage workloads
 	* Scheduling - Orchestrate on automatic schedule
+		* Distributed Resource Scheduling - VMWare-proprietary schedule optimization
 * Migration - from on-prem to cloud
 
 ## Domain 2
