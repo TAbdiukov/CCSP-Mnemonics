@@ -321,7 +321,7 @@ PR DDD TD
 
 ### Cloud security standards
 
-* ISO/IEC 27000-1 - IT Service Management (Directly to Domain 5, like ITILv4)
+* ISO/IEC 20000-1 - IT Service Management (Directly to Domain 5, like ITILv4)
 
 * Mnemonic 1: **SLA downtime should all be 0s**
 * Mnemonic 2: At **0** years you work in **IT** Support, at 7 years you work in Security Management
@@ -450,7 +450,7 @@ Manage highways & their components
 2) Don't impact other customers
 3) Date and time - for detailed scanning
 
-### ISO 27000-1 → Capacity Management
+### ISO 20000-1 → Capacity Management
 
 Capacity management of YOUR:
 * Business
