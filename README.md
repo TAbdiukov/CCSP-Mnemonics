@@ -443,11 +443,17 @@ Manage highways & their components
 * Process Architect ≈ Data Custodian
 * CSI **Manager** - **Mid-level managers** who just ensure ITSM (clue: mid-level managers are suckers for fancy job titles)
 
-#### Vulnerability Scanning Requirements from CSP
+### Vulnerability Scanning Requirements from CSP
 
 1) Only scan your internal systems
 2) Don't impact other customers
 3) Date and time - for detailed scanning
+
+### ISO 27000-1 → Capacity Management
+Capacity management of YOUR:
+* Business
+* Service
+* Component
 
 ## Domain 6
 
@@ -458,8 +464,8 @@ Manage highways & their components
 
 ### Compliance
 
-* AICPA → SSAE → SOC (1/2/3)
-* IAAS → ISAE → ISAE 3402
+* AICPA (USA) → SSAE → SOC (1/2/3)
+* IAAS (EU) → ISAE → ISAE 3402
 * ISAE ≈ SSAE
 * ISAE 3402 ≈ SSAE SOC 2
 
