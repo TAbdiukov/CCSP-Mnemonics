@@ -426,8 +426,9 @@ Manage highways & their components
 
 #### Continual Service Improvement (CSI)
 
-Is ensured/managed by **Process Owner**
-
+* Ensured by: **Process Owner** (similar to Data Owner)
+* ITSM **management** & improvement by: **CSI Manager*s*** (they are mid level managers)
+* Process Architects - similar to Data Custodians
 
 ## Domain 6
 
