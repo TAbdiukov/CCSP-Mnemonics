@@ -430,6 +430,12 @@ Manage highways & their components
 * Process Architect ≈ Data Custodian
 * CSI **Manager** - **Mid-level managers** who just ensure ITSM (clue: mid-level managers are suckers for fancy job titles)
 
+#### Vulnerability Scanning Requirements from CSP
+
+1) Only scan your internal systems
+2) Don't impact other customers
+3) Date and time - for detailed scanning
+
 ## Domain 6
 
 ### Laws
