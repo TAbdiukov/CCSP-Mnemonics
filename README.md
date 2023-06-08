@@ -94,6 +94,13 @@ ISO 17789
 5. (Data meaning is) Symantic
 
 
+### Cloud Leadership
+
+* Governance - Policy
+* Orchestration - manage workloads
+	* Scheduling - Orchestrate on automatic schedule
+* Migration - from on-prem to cloud
+
 ## Domain 2
 
 ### Cloud DLM - Data Lifecycle Management
