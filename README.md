@@ -388,6 +388,10 @@ So privacy=IAPP. eDiscovery=IAPP.
 
 * **Sentiment Analysis** - AI + ML to gain people's **Sentiment** on social media (like Cambridge Analytica to target  **Sentiment** to Donald Trump)
 
+### Problem vs Incident
+
+* Bad Drivers are a **Problem** - car crashes as a result of their driving are **Incidents**
+
 ## Domain 6
 
 ### Laws
