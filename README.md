@@ -445,6 +445,13 @@ Manage highways & their components
 * Process Architect ≈ Data Custodian
 * CSI **Manager** - **Mid-level managers** who just ensure ITSM (clue: mid-level managers are suckers for fancy job titles)
 
+#### Service-level Management (SLM)
+
+1) **Identification** service requirements
+2) Agreement sign-off and service **activation**
+3) Service-level **monitoring** and reporting
+4) **Maintenance** of SLM framework
+
 ### Vulnerability Scanning Requirements from CSP
 
 1) Only scan your internal systems
