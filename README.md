@@ -336,10 +336,14 @@ PR DDD TD
 
 * ISO 27036 - Supply Chain Risk Management (SCM/SCRM) for ISO 27001 users.
 
-
 ### CRS
 
 * OWASP CRS - Managed best firewall practices
+
+### Configuration management
+
+* CI - Configuration Item - configuration for one app
+* CMDB - Collection of CIs - configuration for many apps.
 
 ### Terms
 
