@@ -390,7 +390,11 @@ So privacy=IAPP. eDiscovery=IAPP.
 
 ### Problem vs Incident
 
-* Bad Drivers are a **Problem** - car crashes as a result of their driving are **Incidents**
+**Trick**: Replace "Problem" with "Bad Driver"
+
+Bad Drivers are a **Problem** - car crashes as a result of their driving are **Incidents**
+
+All ~~problems~~ bad drivers potentially cause incidents, but not all bad drivers result in incidents.
 
 ## Domain 6
 
