@@ -418,7 +418,12 @@ All ~~problems~~ bad drivers potentially cause incidents, but not all bad driver
 #### IR 
 
 Is to Recover
- 
+
+#### Capacity and Performance Management
+
+![Highway](https://www.vinci-concessions.com/uploads/2019/06/cofiroute-usa-1920x1106.jpg)
+
+Manage highways & their components
 
 ## Domain 6
 
