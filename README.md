@@ -428,7 +428,7 @@ Manage highways & their components
 
 * Process **Owner** ≈ Data Owner
 * Process Architect ≈ Data Custodian
-* CSI **Manager** - **Mid-level managers** who just ensure ITSM (clue: mid-level managers are suckers for fancy job names)
+* CSI **Manager** - **Mid-level managers** who just ensure ITSM (clue: mid-level managers are suckers for fancy job titles)
 
 ## Domain 6
 
