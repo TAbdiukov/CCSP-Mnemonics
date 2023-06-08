@@ -516,7 +516,7 @@ TODO
 
 Finally
 
-* FaaS - serverless IaC, cheaper and simplier than PaaS.
+* FaaS - serverless (fatherless) IaC, cheaper and simplier than PaaS.
 
 ### Other
 
