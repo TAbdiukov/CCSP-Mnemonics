@@ -369,6 +369,7 @@ PR DDD TD
 ### Terms
 
 * VPC - Virtual Private Cloud - cloud 'VLAN/intranet' area
+* RDM - Release & Deployment Management (plan/policy)
 
 ### Cloud forensic eDiscovery standards
 
