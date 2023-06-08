@@ -419,9 +419,9 @@ Bad Drivers are a **Problem** - car crashes as a result of their driving are **I
 
 All ~~problems~~ bad drivers potentially cause incidents, but not all bad drivers result in incidents.
 
-### ITIL
+### ITILv4
 
-(This is optional knowledge)
+(This is optional knowledge, but commonly referenced)
 
 #### Availability Management
 
