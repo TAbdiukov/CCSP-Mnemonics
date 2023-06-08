@@ -412,6 +412,8 @@ All ~~problems~~ bad drivers potentially cause incidents, but not all bad driver
 
 ### ITIL
 
+(This is optional knowledge)
+
 #### Availability Management
 
 1) **Designing** services for Availability
