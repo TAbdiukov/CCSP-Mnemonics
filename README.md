@@ -345,6 +345,17 @@ PR DDD TD
 * CI - Configuration Item - configuration for one app
 * CMDB - Collection of CIs (Configuration Items) - configuration for many apps.
 
+* CMB - Configuration Management **Board** (not baseline)
+
+### Guessed Configuration Management (CM) Steps
+
+1. Asset inventory
+2. Create baseline
+3. Establish a CMB board (like CAB)
+4. Deploy baselined assets
+5. Dicument approved deviations (if needed)
+
+
 ### Terms
 
 * VPC - Virtual Private Cloud - cloud 'VLAN/intranet' area
@@ -395,6 +406,8 @@ So privacy=IAPP. eDiscovery=IAPP.
 Bad Drivers are a **Problem** - car crashes as a result of their driving are **Incidents**
 
 All ~~problems~~ bad drivers potentially cause incidents, but not all bad drivers result in incidents.
+
+
 
 ## Domain 6
 
