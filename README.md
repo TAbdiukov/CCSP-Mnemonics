@@ -484,7 +484,7 @@ TODO
 ### Comparisons
 
 * anti-DDoS: CDN > CSP's anti-DDoS capabilities
-* anti-DDoS: API Gateway > IPS [API Gateway can help understand DDoS traffic]
+* API anti-DDoS: API Gateway > IPS [API Gateway can help understand DDoS traffic]
 * anti-DDoS: Authentication > Scale
 * AuthN of (cloud) hosts: Host digital certificates
 * SSO - One org; Federation - 2+ orgs.
