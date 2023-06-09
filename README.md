@@ -554,6 +554,7 @@ TODO
 * MOU - Completely different beast - Formally confirms **understanding**.
 * SLA - Performance Expected
 * OLA - Like Windows OLE (internal, under-the-hood) - under-the-hood 'SLA' internal agreement between (C)SP and its brokers.
+* NDA - Confidential clauses (SLA is not suitable)
 
 ### Vendor - sticky situations
 
