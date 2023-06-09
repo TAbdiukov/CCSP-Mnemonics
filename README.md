@@ -519,10 +519,6 @@ CSA STAR - for CSPs. Lightweight assurance method used by CSP, customer, auditor
 
 CSA STAR - SEC (Self, External, Continuous)
 
-### CSA Cloud Controls matrix (CSA CCMv4)
-
-TODO
-
 ### ISMS vs IISCS
 
 * ISMS - Identify and monitor risk
@@ -576,9 +572,9 @@ TODO
 
 ![CSA](https://damassets.autodesk.net/content/dam/autodesk/images/trust/csa-logo-thumb-384x288.png)
 
+* CSA Cloud Controls Matrix (CCMv4) - Cloud Risk Management framework by CSA, mapped to trusted organizations&frameworks like ISO, ISACA, PCI. **CSA's best offspring**
 * CSA "Egregious 11" - Top cloud threats
 * CSA Checklists - VERY SAFE baseline guides
-* CSA Cloud Controls Matrix (CCMv4) - Cloud Risk Management framework by CSA, mapped to trusted organizations like ISO, ISACA. **CSA's best offspring**
 * CSA CIR - Cloud IR framework by CSA.
 * CSA Domain 3: Legal Issues - Security guidance of legal issues
 * CSA STAR - Lightweight complince standard. Level 1 - Internal audit. Level 2 - External audit.
