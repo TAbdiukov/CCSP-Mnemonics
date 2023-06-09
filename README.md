@@ -387,8 +387,8 @@ PR DDD TD
 
 * CSA Domain 3 - Legal concerns: security, privacy, SLAs.
 * NIST IR 8006 - Guidance on DFIR in the cloud
-* ISO/IEC 27050 - 4 parts framework for: Forensics, eDiscovery, Evidence management
-* ISO/IEC 27037 - Identify, collect, preserve
+* ISO/IEC 27050 - eDiscovery
+* ISO/IEC 27037 - Identify, Collect, Preserve
 
 ### IAPP
 
