@@ -519,6 +519,12 @@ TODO
 * ISMS - Identify and monitor risk
 * IISCS - Mitigate risk
 
+**Trick**: I**SMS** is a radar that sends SMS, **IIS**C**S** is a fighter jet with 2 I-shaped harpoon rockets and 2 S-shaped hooks.
+
+![ISMS](https://live.staticflickr.com/3238/2388570728_68522c2e34_c.jpg) | ![IISCS](https://www.thedrive.com/content/2020/04/234fgggs.jpg)
+---- | ----
+**ISMS** | **IISCS**
+
 ### Risk
 
 * Profile - Current risks and corresponding mitigations
