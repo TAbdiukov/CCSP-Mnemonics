@@ -498,6 +498,7 @@ Capacity management of YOUR:
 
 ### Compliance
 
+* SAS 70 - **outdated like the 70s** SSAE SOC
 * AICPA (USA) → SSAE → SOC (1/2/3)
 * IAAS (EU) → ISAE → ISAE 3402
 * ISAE ≈ SSAE
