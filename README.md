@@ -549,6 +549,10 @@ TODO
 * SLA - Performance Expected
 * OLA - Like Windows OLE (internal, under-the-hood) - under-the-hood internal agreement between (C)SP and its brokers.
 
+### Other
+
+* **P**IA - like BIA - **Privacy** impact analysis.
+
 ## Domain 7 (meta-domain)
 
 ![World 9-1](https://mario.wiki.gallery/images/7/7d/SMB_NES_World_9-1_Title_Card.png)
