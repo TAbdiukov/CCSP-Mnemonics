@@ -540,14 +540,15 @@ TODO
 * Data Protection **Officer** (DPO) - Mandatory **compliance officer**
 * Data Controller = Data Owner (controls data life)
 
-### MSA, SLA, SOW
+### MSA, SLA, SOW, MOU
 
 ![Big 'MSA' & many sow](https://www.cargill.com/image/1432078231924/hero-can-sow-1280x510.jpg)
 
-* **M**SA - **Master** Services Provided
+* **M**SA - **Master** Services Provided. **Masters of airways**
 * **S**OW - **Small (sow)** Jobs Worked-on
+* MOU - Completely different beast - Formally confirms **understanding**.
 * SLA - Performance Expected
-* OLA - Like Windows OLE (internal, under-the-hood) - under-the-hood internal agreement between (C)SP and its brokers.
+* OLA - Like Windows OLE (internal, under-the-hood) - under-the-hood 'SLA' internal agreement between (C)SP and its brokers.
 
 ### Other
 
