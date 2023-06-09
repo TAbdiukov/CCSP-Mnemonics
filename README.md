@@ -269,6 +269,11 @@ Step 5: PROFIT!
 
 PR DDD TD
 
+#### SDLC and Security
+
+1) Security starts as early as **Define** stage.
+2) Security inserts controls at **Design** stage.
+
 ### SOAP vs REST
 
 * **SOAP** - (Endless) **SOAP** opera of using Microsoft's XML - just like Microsoft's Internet Explorer.
