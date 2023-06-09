@@ -492,7 +492,7 @@ Capacity management of YOUR:
 
 ### 3rd party organizations and standards
 
-* **BICSI** - like **SCSI** - cables org
+* **BICSI** - like **SCSI** - cables organization
 * N**E**RC/CIP - Electro NERD
 
 ![NERC CIP](https://i.ytimg.com/vi/dCIGUU01Leo/hqdefault.jpg) 
