@@ -546,6 +546,7 @@ TODO
 * CSA CIR - Cloud IR framework by CSA.
 * CSA Domain 3: Legal Issues - Security guidance of legal issues
 * CSA STAR - Lightweight complince standard. Level 1 - Internal audit. Level 2 - External audit.
+* CSA CAIQ - Consensus Assessment Initiative Questionnaire - optional IQ questions to access CSP Security
 
 ### Comparisons
 
