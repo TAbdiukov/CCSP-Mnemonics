@@ -487,6 +487,7 @@ Capacity management of YOUR:
 
 * **Stored Communications** Act (SCA) 1986 - **Stored Communications** (Discord, email) are **private communications**. Dated, but in force.
 * **GAPP** - U.S. Optional (**gapp**ed) GDPR
+* Privacy Shield - DEAD privacy partnership between the US and EU (For CCSP OPT - it is still alive)
 
 ### 3rd party organizations and standards
 
