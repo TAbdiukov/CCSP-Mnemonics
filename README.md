@@ -555,9 +555,16 @@ TODO
 * SLA - Performance Expected
 * OLA - Like Windows OLE (internal, under-the-hood) - under-the-hood 'SLA' internal agreement between (C)SP and its brokers.
 
+### Vendor - sticky situations
+
+* Lock-in - Proprietary infrastructure forces you to stay with vendor
+* Viability - Vendor may die like [Viacom](https://en.wikipedia.org/wiki/Viacom_(2005%E2%80%932019))
+* Lock-out cannot access living vendor.
+
 ### Other
 
 * **P**IA - like BIA - **Privacy** impact analysis.
+
 
 ## Domain 7 (meta-domain)
 
