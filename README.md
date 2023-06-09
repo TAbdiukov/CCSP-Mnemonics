@@ -16,7 +16,6 @@ Short list of CCSP mnemonics for those who did CISSP
 * Scalability - app/solution can "scale up" well for 1000s of inputs or clients
 * Elasticity - (cloud) solution is like an **elastic band** - can scale up and scale down as needed. **Elasticity implies scalability**
 * Cloud **bursting** - Hybrid cloud elasticity (**bursting**)
-
 * Multi**tenancy** - Sharing resources with everyone, including crooks
 
 ![Cuba](https://www.usatoday.com/gcdn/presto/2018/11/16/USAT/546544cc-7dbe-41b3-8945-d0242b906bfd-HAVANA_building_photo_1.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp) |
@@ -29,7 +28,6 @@ Short list of CCSP mnemonics for those who did CISSP
 * Private - CSP only services you (CSP is your Sugar Baby) - Expensive. 
 * Hybrid - Your infrastructure 🖤 CSP's cloud. This is hard to configure well.
 * Public - CSP's cloud for everyone, including crooks. Multitenancy.
-
 * **Community** - (U.S. Intelligence) **Community** Cloud - cloud for those who share a mission!
 
 ### Trusted Computing
@@ -37,6 +35,8 @@ Short list of CCSP mnemonics for those who did CISSP
 * TEE - Trusted Execution Environment ([≈ TCB](https://stackoverflow.com/q/63335341/12258312))
 * TPM/vTPM - Internal hardware for TEE/TCB (+ Secure Boot)
 * HSM - External dongle/card for TEE/TCB (+ Secrets Management)
+
+### Computing types
 
 * Confidential Computing - protect data in use
 * Quantum computing - protect cryptographic keys with the observer's principle
@@ -77,9 +77,8 @@ Mnemonic: Hardware first, then software
 
 ### Extra auth types
 
-* Something you know, something you have, something you are, 
-
-* Somewhere you are, something you do
+* 1-3: Something you know, something you have, something you are, 
+* 4-5: Somewhere you are, something you do
 
 ### Who does what
 
@@ -382,15 +381,11 @@ PR DDD TD
 ### Cloud forensic eDiscovery standards
 
 * CSA Domain 3 - Legal concerns: security, privacy, SLAs.
-
 * NIST IR 8006 - Guidance on DFIR in the cloud
-
 * ISO/IEC 27050 - 4 parts framework for: Forensics, eDiscovery, Evidence management
-
 * ISO/IEC 27037 - Identify, collect, preserve
 
 ### IAPP
-
 
 * ISO/IEC 27041 - Investigate
 * ISO/IEC 27042 - Analyse (evidence)
@@ -543,9 +538,7 @@ TODO
 
 * **M**SA - **Master** Services Provided
 * **S**OW - **Small (sow)** Jobs Worked-on
-
 * SLA - Performance Expected
-
 * OLA - Like Windows OLE (internal, under-the-hood) - under-the-hood internal agreement between (C)SP and its brokers.
 
 ## Domain 7 (meta-domain)
