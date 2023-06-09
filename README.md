@@ -279,8 +279,8 @@ PR DDD TD
 ### FAM, DAM
 *Neither is an IDS/IPS*
 
-* File Activity Monitoring (FAM) - Audit user activities intelligently (on) **Files** 
-* Database Acivity Monitoring (DAM) - Audit user activities intelligently (on) **Databases**
+* File Activity Monitoring (FAM) - **Audit** user activities intelligently (on) **Files** 
+* Database Acivity Monitoring (DAM) - **Audit** user activities intelligently (on) **Databases**
 
 ### Gateways
 
