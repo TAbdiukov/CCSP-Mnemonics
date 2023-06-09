@@ -562,6 +562,7 @@ CSA STAR - SEC (Self, External, Continuous)
 ### Other
 
 * **P**IA - like BIA - **Privacy** impact analysis.
+* Doctrine of **Proper** Law - **properly** defines jurisdiction of law applied in a case 
 
 
 ## Domain 7 (meta-domain)
