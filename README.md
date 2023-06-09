@@ -225,12 +225,13 @@ TIER
 2) **Power** = Electric **Power**
 3) **Pipe** = ISP/internet/You**Tube**
 
-### How to develop a datacenter
+### How to design a datacenter
 
-Step 1: Redundancy is key
-Step 2: Add LOTS of cables everywhere
-Step 3: ????????
-Step 4: PROFIT!
+Step 1: Pick a legal heaven location with access to water.
+Step 2: Redundancy is key
+Step 3: Add LOTS of cables everywhere
+Step 4: ????????
+Step 5: PROFIT!
 
 ## Domain 4
 
