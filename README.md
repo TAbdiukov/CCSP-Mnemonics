@@ -95,7 +95,7 @@ ISO 17789
 
 ### Cloud Leadership
 
-* Governance - Policy
+* Governance - Policy & Central control
 * Orchestration - manage workloads
 	* Scheduling - Orchestrate on automatic schedule
 		* Distributed Resource Scheduling - VMWare-proprietary schedule optimization
