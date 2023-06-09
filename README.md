@@ -557,9 +557,9 @@ TODO
 
 ### Vendor - sticky situations
 
-* Lock-in - Proprietary infrastructure forces you to stay with vendor
 * Viability - Vendor may die like [Viacom](https://en.wikipedia.org/wiki/Viacom_(2005%E2%80%932019))
-* Lock-out cannot access living vendor.
+* Lock-in - Proprietary infrastructure forces you to stay with vendor
+* Lock-out - cannot access living vendor.
 
 ### Other
 
