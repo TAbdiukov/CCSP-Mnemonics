@@ -485,6 +485,10 @@ Capacity management of YOUR:
 * **Stored Communications** Act (SCA) 1986 - **Stored Communications** (Discord, email) are **private communications**. Dated, but in force.
 * **GAPP** - U.S. Optional (**gapp**ed) GDPR
 
+### 3rd party organizations and standards
+
+* **BICSI** - like **SCSI** - cables org
+
 ### Compliance
 
 * AICPA (USA) → SSAE → SOC (1/2/3)
