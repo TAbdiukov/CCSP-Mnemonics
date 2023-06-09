@@ -505,6 +505,7 @@ Capacity management of YOUR:
 * IAAS (EU) → ISAE → ISAE 3402
 * ISAE ≈ SSAE
 * ISAE 3402 ≈ SSAE SOC 2
+* FedRAMP - **Fed**erally screened CSPs for being **RAMP**s
 
 #### CSA
 
@@ -564,7 +565,6 @@ CSA STAR - SEC (Self, External, Continuous)
 
 * **P**IA - like BIA - **Privacy** impact analysis.
 * Doctrine of **Proper** Law - **properly** defines jurisdiction of law applied in a case 
-
 
 ## Domain 7 (meta-domain)
 
