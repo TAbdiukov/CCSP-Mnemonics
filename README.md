@@ -309,10 +309,15 @@ PR DDD TD
 ---- | ----
 **IAST** Example | **IAST** Example
 
+### Secure coding guidelines
+
+(taken directly from Alukos + my notes)
+* OWASP Application Security - guidelines
+* OWASP ASVS - AppSec Verification: Standard for: SAST, DAST, IAST. ASVS has 3 levels
+* Software Assurance Forum for Excellence in Code (SAFECode)
 
 ### Other
 
-* OWASP ASVS - AppSec Verification: Standard for: SAST, DAST, IAST. ASVS has 3 levels.
 * Abuse Case Testing - (Intentional) misuse case testing. [more info](https://sqa.stackexchange.com/a/1806/43034)
 	* (Abuse Case Testing ≈ Misuse Case Testing)
 
