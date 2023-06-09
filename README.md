@@ -535,7 +535,7 @@ TODO
 
 ### Risk
 
-* Profile - Current risks and corresponding mitigations
+* Profile - **Risks** (profiles) that stand up to the organization
 * Posture - How well organization holds (poses) against risks.
 * Appetite = Tolerance - How hungry is the organization to take more risk.
 * Treatment = Management
