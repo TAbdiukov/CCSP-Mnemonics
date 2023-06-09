@@ -568,7 +568,7 @@ TODO
 * API anti-DDoS: API Gateway > IPS [API Gateway can help understand DDoS traffic]
 * anti-DDoS: Authentication > Scale
 * AuthN of (cloud) hosts: Host digital certificates
-* SSO - One org; Federation - 2+ orgs.
+* SSO - One org (+IDaaS); Federation - 2+ orgs.
 
 ### IaaS, PaaS, SaaS
 
