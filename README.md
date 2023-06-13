@@ -277,7 +277,7 @@ PR DDD TD
 ### SOAP vs REST
 
 * **SOAP** - (Endless) **SOAP** opera of using Microsoft's XML - just like Microsoft's Internet Explorer.
-* **REST** - **REST**ructured (modern) API
+* **REST** - **REST**ructured (modern) API using URIs
 
 
 
