@@ -603,7 +603,7 @@ CSA STAR - SEC (Self, External, Continuous)
 ![IPS](https://assets1.cbsnewsstatic.com/hub/i/2010/06/07/74ecadc6-a642-11e2-a3f0-029118418759/phprF09uBsteve-jobs-wwdc-81.jpg)
 
 * IaaS - Many hosts Infrastructure. Best if your app really requires complex infrastructure (such as 5 databases, 10 firewalls etc).
-* PaaS - One host. Best if: your app can run on 1 host, and you are concerned about: liability, security, time and money wasted configuring code and infrastructure. PaaS is much more liability-optimal than IaaS. **PaaS** your **code** - so IaC is PaaS.
+* PaaS - One host. Best if: your app can run on 1 host, and you are concerned about: liability, security, time and money wasted configuring code and infrastructure. PaaS is much more liability-optimal than IaaS. PaaS is the easiest to administer. **PaaS** your **code** - so IaC is PaaS.
 * SaaS - Service. Service is the most affordable, and has least liability to the customer and the cheapest, but it takes time to configure code to work with SaaS and cloud.
 
 Finally
