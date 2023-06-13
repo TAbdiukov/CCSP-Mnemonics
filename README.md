@@ -566,7 +566,7 @@ CSA STAR - SEC (Self, External, Continuous)
 
 * **Via**bility - Vendor may die like [**Via**com](https://en.wikipedia.org/wiki/Viacom_(2005%E2%80%932019))
 * Lock-in - Proprietary infrastructure forces you to stay with vendor
-* Lock-out - cannot access living vendor.
+* Lock-out - cannot access living vendor. Can also sometimes mean "Viability".
 
 ### Other
 
