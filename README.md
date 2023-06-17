@@ -218,6 +218,21 @@ TIER
 
 ![Cisco](https://learningnetwork.cisco.com/sfc/servlet.shepherd/version/renditionDownload?rendition=THUMB720BY480&versionId=0683i000001rnMl&operationContext=CHATTER&contentId=05T3i00000ACKHA&page=0)
 
+### CSA CIR
+
+Cloud IR framework by CSA. Based on NIST 800-61
+
+#### NIST 800-61
+
+4 stages of Incident Response,
+
+1. Preparation
+2. Detection & Analysis
+3. Containment, Eradication and Recovery
+4. Post-mortem
+
+(Reminiscent of CISSP's DRMRRRL)
+
 ### Ping, power, pipe
 *For designing a datacenter*
 
@@ -586,7 +601,7 @@ CSA STAR - SEC (Self, External, Continuous)
 	* Trick: ISACA has CISM, CSA has ISACA in CCM
 * CSA "Egregious 11" - Top cloud threats
 * CSA Checklists - VERY SAFE baseline guides
-* CSA CIR - Cloud IR framework by CSA.
+* CSA CIR - Cloud IR framework by CSA. Based on NIST 800-61.
 * CSA Domain 3: Legal Issues - Security guidance of legal issues
 * CSA STAR - Lightweight complince standard. Level 1 - Internal audit. Level 2 - External audit.
 * CSA CAIQ - Consensus Assessment Initiative Questionnaire - optional IQ questions to access CSP Security
