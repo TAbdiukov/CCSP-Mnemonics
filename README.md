@@ -6,6 +6,7 @@ Short list of CCSP mnemonics for those who did CISSP
 * **[CCSP by Alukos](https://ccsp.alukos.com/)**
 * **[FREE ISC2 CCSP Quiz/Test](https://cloud.connect.isc2.org/ccsp-quiz)**
 * [FREE ISC2 CCSP Flashcards](https://cloud.connect.isc2.org/ccsp-flashcards) [These may or may not be useful]
+* [CSA Security Guidance](https://downloads.cloudsecurityalliance.org/assets/research/security-guidance/security-guidance-v4-FINAL.pdf) *(recommended by Reddit)*
 
 [Good productive vibes](https://www.youtube.com/watch?v=zR9F8QIuUGc)
 
