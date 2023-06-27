@@ -45,9 +45,9 @@ Swimming **pool** with **resources**
 
 * On-prem - Your datacenter
 * Private - CSP only services you (CSP is your Sugar Baby) - Expensive. 
+	* **Community** - (U.S. Intelligence) **Community** Cloud - cloud for those who share a mission!
 * Hybrid - Your infrastructure 🖤 CSP's cloud. This is hard to configure well.
 * Public - CSP's cloud for everyone, including crooks. Multitenancy.
-* **Community** - (U.S. Intelligence) **Community** Cloud - cloud for those who share a mission!
 
 ### Trusted Computing
 
