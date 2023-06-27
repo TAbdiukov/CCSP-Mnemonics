@@ -20,7 +20,7 @@ Short list of CCSP mnemonics for those who did CISSP
 
 1. On-demand **self-service** - **service self**
 2. Broad network access - **broad access** over internet or WAN
-3. Resource pooling - Resources are *somewhere* in that cloud **pool** (within chosen geographic location)
+3. **Resource pooling** - **Resources** are *somewhere* in that cloud **pool** (within chosen geographic location)
 
 ![pool](https://png.pngtree.com/thumb_back/fw800/background/20190612/pngtree-watermark-background-of-blue-swimming-pool-image_117749.jpg)
 ---- |
