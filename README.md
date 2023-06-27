@@ -19,20 +19,20 @@ Short list of CCSP mnemonics for those who did CISSP
 ### NIST 800-145 Essential characteristics of cloud
 
 1. On-demand **self-service** - **service self**
-2. Broad network access - **broad access** over internet or WAN
+2. **Broad** network **access** - **broad access** over internet or WAN
 3. **Resource pooling** - **Resources** are *somewhere* in that cloud **pool** (within chosen geographic location)
 
 ![pool](https://png.pngtree.com/thumb_back/fw800/background/20190612/pngtree-watermark-background-of-blue-swimming-pool-image_117749.jpg)
 ---- |
 Swimming **pool** with **resources**
 
-4. Rapid elasticity - (Repeat) (cloud) solution is like an **elastic band** - can scale up and scale down as needed. **Elasticity implies scalability**
+4. Rapid **elastic**ity - (Repeat) (cloud) solution is like an **elastic band** - can scale up and scale down as needed. **Elasticity implies scalability**
 5. **Measured** service - pay **exactly the measured amount**
 
 ### Other characteristics of cloud
 
-* Scalability - app/solution can "scale up" well for 1000s of inputs or clients
-* Elasticity - (cloud) solution is like an **elastic band** - can scale up and scale down as needed. **Elasticity implies scalability**
+* **Scal**ability - app/solution can "**scale** up" well for thousands of inputs or clients
+* **Elastic**ity - (cloud) solution is like an **elastic band** - can scale up and scale down as needed. **Elasticity implies scalability**
 * Cloud **bursting** - Hybrid cloud elasticity (**bursting**)
 * Multi**tenancy** - Sharing resources with everyone, including crooks
 
