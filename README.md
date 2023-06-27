@@ -10,9 +10,7 @@ Short list of CCSP mnemonics for those who did CISSP
 
 ### Other
 
-* [Surprisingly on-topic vieo by Jeremy's IT Lab](https://www.youtube.com/watch?v=_S3greGajJA)
-
-[Good productive vibes](https://www.youtube.com/watch?v=zR9F8QIuUGc)
+* [Good productive vibes](https://www.youtube.com/watch?v=zR9F8QIuUGc)
 
 ## Domain 1
 
