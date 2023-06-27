@@ -16,7 +16,7 @@ Short list of CCSP mnemonics for those who did CISSP
 
 ## Domain 1
 
-### Characteristics of cloud
+### Other characteristics of cloud
 
 * Scalability - app/solution can "scale up" well for 1000s of inputs or clients
 * Elasticity - (cloud) solution is like an **elastic band** - can scale up and scale down as needed. **Elasticity implies scalability**
@@ -26,6 +26,18 @@ Short list of CCSP mnemonics for those who did CISSP
 ![Cuba](https://www.usatoday.com/gcdn/presto/2018/11/16/USAT/546544cc-7dbe-41b3-8945-d0242b906bfd-HAVANA_building_photo_1.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp) |
 ---- |
 **Multitenancy**
+
+### NIST 800-145 Essential characteristics of cloud
+
+1. On-demand **self-service** - **service self**
+2. Broad network access - **broad access** over internet or WAN
+3. Resource pooling - Resources are *somewhere* in that cloud **pool** (within chosen geographic location)
+
+![pool](https://png.pngtree.com/thumb_back/fw800/background/20190612/pngtree-watermark-background-of-blue-swimming-pool-image_117749.jpg)
+
+4. Rapid elasticity - (Repeat) (cloud) solution is like an **elastic band** - can scale up and scale down as needed. **Elasticity implies scalability**
+5. **Measured** service - pay **exactly the measured amount**
+
 
 ### Cloud types
 
