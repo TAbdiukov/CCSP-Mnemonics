@@ -8,6 +8,10 @@ Short list of CCSP mnemonics for those who did CISSP
 * [FREE ISC2 CCSP Flashcards](https://cloud.connect.isc2.org/ccsp-flashcards) [These may or may not be useful]
 * [CSA Security Guidance](https://downloads.cloudsecurityalliance.org/assets/research/security-guidance/security-guidance-v4-FINAL.pdf) *(recommended by Reddit)*
 
+### Other
+
+* [Surprisingly on-topic vieo by Jeremy's IT Lab](https://www.youtube.com/watch?v=_S3greGajJA)
+
 [Good productive vibes](https://www.youtube.com/watch?v=zR9F8QIuUGc)
 
 ## Domain 1
