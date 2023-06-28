@@ -253,7 +253,7 @@ Cloud IR framework by CSA. Based on NIST 800-61
 ### Planes
 
 1. **Data** plane - **data** traffic
-2. **Control** plane - **control** of low-level configuration&settings
+2. **Control** plane - **control** of low-level data flow configuration
 3. **Management** plane - high-level **management** and reporting
 
 ### Ping, power, pipe
