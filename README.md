@@ -250,6 +250,12 @@ Cloud IR framework by CSA. Based on NIST 800-61
 
 (Reminiscent of CISSP's DRMRRRL)
 
+### Planes
+
+1. **Data** plane - **data** traffic
+2. **Control** plane - **control** of configuration&settings
+3. **Management** plane - **management** and reporting
+
 ### Ping, power, pipe
 *For designing a datacenter*
 
@@ -294,7 +300,7 @@ Step 5: PROFIT!
 1. Planning Analysis (for ongoing project) 
 2. Requirements Analysis (to finish project) **[for CCSP: separate phase]**
 3. Define (goals with user)
-4. Design (map technical parts plane)
+4. Design (map technical control plane)
 5. Develop (implement)
 6. Test (verify)
 7. Deploy/Release/Maintain
