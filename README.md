@@ -409,7 +409,7 @@ PR DDD TD
 ### Configuration Management
 
 * Variable - one value for a configuration parameter
-* Template - Template. `template` with many `{{variables}}` = CI.
+* Template - Template. `template` with many `{{variables}}` => CI.
 * CI - Configuration Item - configuration for one app
 * CMDB - Collection of CIs (Configuration Items) - configuration for many apps.
 
