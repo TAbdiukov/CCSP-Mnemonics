@@ -540,7 +540,7 @@ Capacity management of YOUR:
 * **BICSI** - like **SCSI** - cables organization
 * N**E**RC/CIP - Electro NERD
 
-![NERC CIP](https://i.ytimg.com/vi/dCIGUU01Leo/hqdefault.jpg) 
+![NERC/CIP](https://i.ytimg.com/vi/pwtr5O_VYwY/maxresdefault.jpg) 
 
 ### Compliance
 
