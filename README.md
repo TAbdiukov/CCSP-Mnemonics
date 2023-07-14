@@ -10,7 +10,7 @@ Short list of CCSP mnemonics for those who did CISSP
 
 ### Other
 
-* [Cloud Computing Security Considerations - by ACSC](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/cloud-security-guidance/cloud-computing-security-considerations) - brief and condensed CSA Security Guidance for beginners.
+* [Cloud Computing Security Considerations - by ACSC](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/cloud-security-guidance/cloud-computing-security-considerations) - brief and condensed CSA Security Guidance <ins>for beginners</ins>.
 * [Good productive vibes](https://www.youtube.com/watch?v=zR9F8QIuUGc)
 
 ## Domain 1
