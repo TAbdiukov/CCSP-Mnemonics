@@ -395,6 +395,7 @@ PR DDD TD
 
 -----------------
 
+* ISO 22301:2019 - Business Continuity management. Just in time for COVID.  
 * ISO 27036 - Supply Chain Risk Management (SCM/SCRM) for ISO 27001 users.
 
 -------------------
