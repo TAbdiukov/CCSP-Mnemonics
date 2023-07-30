@@ -380,7 +380,7 @@ PR DDD TD
 ------------------------
 
 * ISO/IEC 27001 - Base
-* ISO/IEC 27002 - Base lite (for gap analysis - fits like LEGO with 27001) 
+* ISO/IEC 27002 - Base lite (for gap analysis - fits like LEGO well with 27001) 
 
 -------------------------
 
