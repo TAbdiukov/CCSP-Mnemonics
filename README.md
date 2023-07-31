@@ -448,7 +448,7 @@ PR DDD TD
 ### Cloud forensic eDiscovery standards
 
 * CSA Domain 3 - Legal concerns: security, privacy, SLAs.
-* NIST IR 8006 - Guidance on DFIR in the cloud
+* NIST IR 8006 - Guidance on DFIR in the cloud.
 
 #### ISO
 
@@ -471,8 +471,8 @@ DF-IAPP
 
 #### Another meaning of IAPP.
 
-Also IAPP - International Association of Privacy Professionals. Another acronym found in CCSP, about similar topics.
-So privacy=IAPP. eDiscovery=IAPP.
+Also, IAPP - International Association of Privacy Professionals. Another acronym found in CCSP, about similar topics.
+So, privacy=IAPP. eDiscovery=IAPP.
 
 ### Legal
 
