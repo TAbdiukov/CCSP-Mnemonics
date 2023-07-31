@@ -175,7 +175,7 @@ A bit like RAID, can be used to achieve diametrically opposed goals:
 2) Prioritize and categorize: thus label the data
 
 3) Then tag the data
-For CCSP : Tags for DLP; Labels for classification
+For CCSP: Tags for DLP; Labels for classification
 (Tags explain the data, labels show sensitivity)
 
 4) After the data is tagged, set up DLP policies
@@ -187,7 +187,7 @@ For CCSP : Tags for DLP; Labels for classification
 ### Data DEclassification
 
 * Anonymization - Remove sensitive data and make the subject **anonymous** (like a hacker group). Can be required by GDPR.
-* Masking - Permanently mask and damage data, suboptions:
+* Masking - Permanently mask and damage data, sub-options:
 	* Randomize - meaningful parts of data replaced with meaningless random data
 	* Hash - John Smith" becomes "0xDEA4B884"
 	* Shuffle - Everyone's data is shuffled, rendering data dirty and meaningless
@@ -197,7 +197,7 @@ For CCSP : Tags for DLP; Labels for classification
 
 ### Other 
 
-* IRM System = eDRM System - like Adobe Digital Editions.
+* IRM System - Protect sensitive data in transit.
 
 ## Domain 3
 
