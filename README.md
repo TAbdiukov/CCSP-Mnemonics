@@ -393,18 +393,18 @@ PR DDD TD
 
 ------------------------
 
-* ISO/IEC 27001 - Base
-* ISO/IEC 27002 - Base lite (for gap analysis - fits like LEGO well with 27001) 
+* ISO/IEC 27001 - Base.
+* ISO/IEC 27002 - Base *lite* (for gap analysis - fits like LEGO well with 27001)
 
 -------------------------
 
-* ISO/IEC 27001 - Base
+* ISO/IEC 27001 - Base.
 * ISO/IEC 270**17** - Base + Cloud
 * ISO/IEC 270**18** - Base + Cloud + PII. HIGH level of assurance.
 
 -----------------------
 
-* ISO/IEC 27001 - Base
+* ISO/IEC 27001 - Base.
 * ISO/IEC 27**7**01 - Base + Privacy focus
 
 -----------------
