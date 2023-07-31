@@ -642,7 +642,7 @@ CSA STAR – SEC (Self, External, Continuous)
 
 ![CSA](https://damassets.autodesk.net/content/dam/autodesk/images/trust/csa-logo-thumb-384x288.png)
 
-* CSA Cloud Controls Matrix (CCMv4) – Cloud Risk Management framework by CSA, mapped to trusted organizations&frameworks like ISO, ISACA, PCI. **CSA's best product! Simplify regulatory compliance!**
+* CSA Cloud Controls Matrix (CCMv4) – Cloud Risk Management framework by CSA, mapped to trusted organizations&frameworks like ISO, ISACA, PCI. **Simplify regulatory compliance with CSA's prime product!**
 	* Trick: ISACA has CISM, CSA has ISACA in CCM
 * CSA "Egregious 11" – Top cloud threats
 * CSA Checklists – VERY SAFE baseline guides
