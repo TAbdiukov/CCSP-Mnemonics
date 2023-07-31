@@ -285,7 +285,7 @@ Cloud IR framework by CSA. Based on NIST 800-61,
 * **D**rea**D** - **D**amages (by attacker) - developed by Microsoft - replaced with STRIDE. **DREAD** is forced away by **STRIDE**
 * STRIDE - Prime model by Microsoft.
 * PASTA - for code. PASTA (spaghetti) code.
-* ATASM - Like Serial ATA (SATA) is serial - ATASM is Serial. ATASM is also a metamodel. **ATASM - ATA Serial Metamodel**.
+* ATASM - Serial ATA (SATA) is serial - ATASM is Serial. Powerfully addresses surface like [ATACMS](https://www.youtube.com/watch?v=9WcJ0TFKiD0). ATASM is also a metamodel. **ATASM - ATA Serial Metamodel**.
 	* **A**rchitecture (Analysis)
 	* **T**hreats (existing: actors, goals)
 	* **A**ttack **S**urface (existing)
