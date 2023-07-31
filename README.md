@@ -205,7 +205,7 @@ For CCSP: Tags for DLP; Labels for classification
 
 (same as CISSP, plus):
 
-Cloud site - much more cost-effective than hot site, however, takes longer to reallocate to. Is a viable replacement to Hot and Warm sites.
+* Cloud site - much more cost-effective than hot site, however, takes longer to reallocate to. Is a viable replacement to Hot and Warm sites.
 
 ### Uptime Institute: Availability tiers
 
