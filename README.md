@@ -187,7 +187,7 @@ For CCSP: Tags for DLP; Labels for classification
 ### Data DEclassification
 
 * Anonymization - Remove sensitive data and make the subject **anonymous** (like a hacker group). Can be required by GDPR.
-* Masking - Permanently mask and damage data, sub-options:
+* Masking - Permanently mask and damage data, sub-0options:
 	* Randomize - meaningful parts of data replaced with meaningless random data
 	* Hash - John Smith" becomes "0xDEA4B884"
 	* Shuffle - Everyone's data is shuffled, rendering data dirty and meaningless
