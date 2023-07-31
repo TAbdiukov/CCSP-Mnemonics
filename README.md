@@ -106,7 +106,7 @@ ISO 17789
 ### 5 Facets of Cloud/IOT interoperability - ISO/IEC 21823
 
 1. (Comply with) Policy
-2. (Expected) behavior
+2. (Expected) Behavior
 3. (Standard and secure) Transport
 4. (Exchange is) Syncratic
 5. (Data meaning is) Semantic
