@@ -369,8 +369,8 @@ PR DDD TD
 **IAST** Example | **IAST** Example
 
 ### Secure coding guidelines
+#### (taken directly from Alukos + my notes)
 
-(taken directly from Alukos + my notes)
 * **OWASP** Application Security - guidelines.
 * OWASP's **ASVS** - AppSec metric Standard for: SAST, DAST, IAST. ASVS has 3 levels.
 * Software Assurance Forum for Excellence in Code (SAFECode)
