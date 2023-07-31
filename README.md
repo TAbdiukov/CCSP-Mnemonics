@@ -21,7 +21,7 @@ CCSP mnemonics for CISSP-passers
 2. **Broad** network **access** - **broad access** over internet or WAN
 3. **Resource pooling** - **Resources** are *somewhere* in that cloud **pool** (within chosen geographic location)
 
-![pool](https://png.pngtree.com/thumb_back/fw800/background/20190612/pngtree-watermark-background-of-blue-swimming-pool-image_117749.jpg)
+![pool](https://png.pngtree.com/thumb_back/fw800/background/20190612/pngtree-watermark-background-of-blue-swimming-pool-image_117749.jpg) | 
 ---- |
 Swimming **pool** with **resources**
 
@@ -278,7 +278,9 @@ Cloud IR framework by CSA. Based on NIST 800-61,
 
 ### Threat Modeling Approaches
 
-![Dread and Stride](https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/734afa3be7c9d7ad7693f6f70aa6dda8.jpeg)
+![**DREAD** is forced away by **STRIDE**](https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/734afa3be7c9d7ad7693f6f70aa6dda8.jpeg) | 
+---- |
+**DREAD** is forced away by **STRIDE**
 
 * **D**rea**D** - **D**amages (by attacker) - developed by Microsoft - replaced with STRIDE. **DREAD** is forced away by **STRIDE**
 * STRIDE - Prime model by Microsoft 
