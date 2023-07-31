@@ -10,30 +10,30 @@ CCSP mnemonics for CISSP-passers
 
 ### Other
 
-* [Cloud Computing Security Considerations - by ACSC](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/cloud-security-guidance/cloud-computing-security-considerations) - brief and condensed CSA Security Guidance <ins>for beginners</ins>.
+* [Cloud Computing Security Considerations – by ACSC](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/cloud-security-guidance/cloud-computing-security-considerations) – brief and condensed CSA Security Guidance <ins>for beginners</ins>.
 * [Good productive vibes](https://www.youtube.com/watch?v=zR9F8QIuUGc)
 
 ## Domain 1
 
 ### NIST 800-145 Essential characteristics of cloud
 
-1. On-demand **self-service** - **service self**
-2. **Broad** network **access** - **broad access** over internet or WAN
-3. **Resource pooling** - **Resources** are *somewhere* in that cloud **pool** (within chosen geographic location)
+1. On-demand **self-service** – **service self**
+2. **Broad** network **access** – **broad access** over internet or WAN
+3. **Resource pooling** – **Resources** are *somewhere* in that cloud **pool** (within chosen geographic location)
 
 ![pool](https://png.pngtree.com/thumb_back/fw800/background/20190612/pngtree-watermark-background-of-blue-swimming-pool-image_117749.jpg) | 
 ---- |
 Swimming **pool** with **resources**
 
-4. Rapid **elastic**ity - (Repeat) (cloud) solution is like an **elastic band** - can scale up and scale down as needed. **Elasticity implies scalability**
-5. **Measured** service - pay **exactly the measured amount**
+4. Rapid **elastic**ity – (Repeat) (cloud) solution is like an **elastic band** – can scale up and scale down as needed. **Elasticity implies scalability**
+5. **Measured** service – pay **exactly the measured amount**
 
 ### Other characteristics of cloud
 
-* **Scal**ability - app/solution can "**scale** up" well for thousands of inputs or clients
-* **Elastic**ity - (cloud) solution is like an **elastic band** - can scale up and scale down as needed. **Elasticity implies scalability**
-* Cloud **bursting** - Hybrid cloud elasticity (**bursting**)
-* Multi**tenancy** - Sharing resources with everyone, including crooks
+* **Scal**ability – app/solution can "**scale** up" well for thousands of inputs or clients
+* **Elastic**ity – (cloud) solution is like an **elastic band** – can scale up and scale down as needed. **Elasticity implies scalability**
+* Cloud **bursting** – Hybrid cloud elasticity (**bursting**)
+* Multi**tenancy** – Sharing resources with everyone, including crooks
 
 ![Cuba](https://www.usatoday.com/gcdn/presto/2018/11/16/USAT/546544cc-7dbe-41b3-8945-d0242b906bfd-HAVANA_building_photo_1.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp) |
 ---- |
@@ -42,28 +42,28 @@ Swimming **pool** with **resources**
 
 ### Cloud types
 
-* On-prem - Your datacenter
-* Private - CSP only services you (CSP is your Sugar Baby) - Expensive. 
-	* **Community** - (U.S. Intelligence) **Community** Cloud - cloud for those who share a mission!
-* Hybrid - Your infrastructure 🖤 CSP's cloud. Uses data portability technology and is hard to configure well.
-* Public - CSP's cloud for everyone, including crooks. Multitenancy.
+* On-prem – Your datacenter
+* Private – CSP only services you (CSP is your Sugar Baby) – Expensive. 
+	* **Community** – (U.S. Intelligence) **Community** Cloud – cloud for those who share a mission!
+* Hybrid – Your infrastructure 🖤 CSP's cloud. Uses data portability technology and is hard to configure well.
+* Public – CSP's cloud for everyone, including crooks. Multitenancy.
 
 ### Trusted Computing
 
-* TEE - Trusted Execution Environment ([≈ TCB](https://stackoverflow.com/q/63335341/12258312))
-* TPM/vTPM - Internal hardware for TEE/TCB (+ Secure Boot)
-* HSM - External dongle/card for TEE/TCB (+ Secrets Management)  
-	* Dedicated HSM - **BEST** Secrets Management. Better than any vTPM.
+* TEE – Trusted Execution Environment ([≈ TCB](https://stackoverflow.com/q/63335341/12258312))
+* TPM/vTPM – Internal hardware for TEE/TCB (+ Secure Boot)
+* HSM – External dongle/card for TEE/TCB (+ Secrets Management)  
+	* Dedicated HSM – **BEST** Secrets Management. Better than any vTPM.
 
 ### Computing types
 
-* Confidential Computing - protect data in use
-* Quantum computing - protect cryptographic keys with the observer's principle
+* Confidential Computing – protect data in use
+* Quantum computing – protect cryptographic keys with the observer's principle
 
 ### Cloud account types
 
-* Service - service-app only (not user)
-* Shared - shared by team
+* Service – service-app only (not user)
+* Shared – shared by team
 
 
 ### FIPS 140-2: Security Levels
@@ -89,8 +89,8 @@ Swimming **pool** with **resources**
 
 ### Hypervisors
 
-* Type 1 - Bare metal (hardware)
-* Type 2 - Software
+* Type 1 – Bare metal (hardware)
+* Type 2 – Software
 
 Mnemonic: Hardware first, then software
 
@@ -103,7 +103,7 @@ Mnemonic: Hardware first, then software
 
 ISO 17789
 
-### 5 Facets of Cloud/IOT interoperability - ISO/IEC 21823
+### 5 Facets of Cloud/IOT interoperability – ISO/IEC 21823
 
 1. (Comply with) Policy
 2. (Expected) Behavior
@@ -114,15 +114,15 @@ ISO 17789
 
 ### Cloud Leadership
 
-* Governance - Policy & Central control
-* Orchestration - manage workloads
-	* Scheduling - Orchestrate on automatic schedule
-		* Distributed Resource Scheduling - VMWare-proprietary schedule optimization
-* Migration - from on-prem to cloud
+* Governance – Policy & Central control
+* Orchestration – manage workloads
+	* Scheduling – Orchestrate on automatic schedule
+		* Distributed Resource Scheduling – VMWare-proprietary schedule optimization
+* Migration – from on-prem to cloud
 
 ## Domain 2
 
-### Cloud DLM - Data Lifecycle Management
+### Cloud DLM – Data Lifecycle Management
 
 The cloud data lifecycle consists of:
 
@@ -141,22 +141,22 @@ The cloud data lifecycle consists of:
 
 #### By access chain
 
-* RAW - Direct hands-on low-level access some drive (including access to S.M.A.R.T. and drive firmware!). Access directly: `You → Drive`. Direct access means "Direct responsibility" for data remanence caused and found.
-* Volume-storage - High-level, abstracted ("abstractioned"), indirect, access to a (likely virtual) drive in a cluster: `You → Cluster of drives → (Subcluster of drives? It's a cloud architecture after all) →  Drive`
-	* File-storage - Store files in an abstract vacuum - like in Cisco devices.
-	* Block-storage - Store blocks of data like on hard drives - you can orchestrate filesystems, NTFS Master File Tables, folders, files, file attributes etc.
+* RAW – Direct hands-on low-level access some drive (including access to S.M.A.R.T. and drive firmware!). Access directly: `You → Drive`. Direct access means "Direct responsibility" for data remanence caused and found.
+* Volume-storage – High-level, abstracted ("abstractioned"), indirect, access to a (likely virtual) drive in a cluster: `You → Cluster of drives → (Subcluster of drives? It's a cloud architecture after all) →  Drive`
+	* File-storage – Store files in an abstract vacuum – like in Cisco devices.
+	* Block-storage – Store blocks of data like on hard drives – you can orchestrate filesystems, NTFS Master File Tables, folders, files, file attributes etc.
 
 #### By longevity
 
-* Ephemeral - RAM, RAMDisk (ephemeral volume), SWAP/Pagefile, temporarily LiveCD (whether RAM or HDD) destroyed after a session.
-* Long-Term - HDD RAID or **LT**O tapes for use after session (for example, for work on next day and backup)
-	* Archival - (likely a subset of long-term storage) - good for archiving, but very slow data retrieval (hours/days).
+* Ephemeral – RAM, RAMDisk (ephemeral volume), SWAP/Pagefile, temporarily LiveCD (whether RAM or HDD) destroyed after a session.
+* Long-Term – HDD RAID or **LT**O tapes for use after session (for example, for work on next day and backup)
+	* Archival – (likely a subset of long-term storage) – good for archiving, but very slow data retrieval (hours/days).
 
 ### Data types
 
-* Structured - SQL Database
-* Semi-structured - CSV, JSON, XML. Additionally, most often: Emails, HTML.
-* Unstructured - Files and everything else
+* Structured – SQL Database
+* Semi-structured – CSV, JSON, XML. Additionally, most often: Emails, HTML.
+* Unstructured – Files and everything else
 
 ### Data Dispersion
 
@@ -164,7 +164,7 @@ is a KISS term: "Store data in many places"
 
 A bit like RAID, can be used to achieve diametrically opposed goals:
 * Availability (by orchestrating multiple copies of data)
-* ~~[Two-person control]~~ multi-person control (by splitting data into many pieces - thus potentially jeopardizing availability), and
+* ~~[Two-person control]~~ multi-person control (by splitting data into many pieces – thus potentially jeopardizing availability), and
 
 ### DLP deployment
 
@@ -186,18 +186,18 @@ For CCSP: Tags for DLP; Labels for classification
 
 ### Data DEclassification
 
-* Anonymization - Remove sensitive data and make the subject **anonymous** (like a hacker group). Can be required by GDPR.
-* Masking - Permanently mask and damage data, sub-options:
-	* Randomize - meaningful parts of data replaced with meaningless random data
-	* Hash - John Smith" becomes "0xDEA4B884"
-	* Shuffle - Everyone's data is shuffled, rendering data dirty and meaningless
-	* Mask - Card number `**** **** **** 9608` expiry `09/25` cvv `***`
-	* Delete - Delete
-* Tokenization - split sensitive and non-sensitive tables, use meaningless **tokens** to uniquely identify subjects where needed.
+* Anonymization – Remove sensitive data and make the subject **anonymous** (like a hacker group). Can be required by GDPR.
+* Masking – Permanently mask and damage data, sub-options:
+	* Randomize – meaningful parts of data replaced with meaningless random data
+	* Hash – John Smith" becomes "0xDEA4B884"
+	* Shuffle – Everyone's data is shuffled, rendering data dirty and meaningless
+	* Mask – Card number `**** **** **** 9608` expiry `09/25` cvv `***`
+	* Delete – Delete
+* Tokenization – split sensitive and non-sensitive tables, use meaningless **tokens** to uniquely identify subjects where needed.
 
 ### Other 
 
-* IRM System - Protect sensitive data in transit.
+* IRM System – Protect sensitive data in transit.
 
 ## Domain 3
 
@@ -205,7 +205,7 @@ For CCSP: Tags for DLP; Labels for classification
 
 (same as CISSP, plus):
 
-* Cloud site - much more cost-effective than hot site, however, takes longer to reallocate to. Is a viable replacement to Hot and Warm sites.
+* Cloud site – much more cost-effective than hot site, however, takes longer to reallocate to. Is a viable replacement to Hot and Warm sites.
 
 ### Uptime Institute: Availability tiers
 
@@ -254,9 +254,9 @@ Cloud IR framework by CSA. Based on NIST 800-61,
 
 ### Planes
 
-1. **Data** plane - **data** traffic
-2. **Control** plane - **control** of low-level data flow configuration
-3. **Management** plane - high-level **management** and reporting
+1. **Data** plane – **data** traffic
+2. **Control** plane – **control** of low-level data flow configuration
+3. **Management** plane – high-level **management** and reporting
 
 ### Ping, power, pipe
 *For designing a datacenter*
@@ -282,33 +282,33 @@ Cloud IR framework by CSA. Based on NIST 800-61,
 ---- |
 **DREAD** is forced away by **STRIDE**
 
-* **D**rea**D** - **D**amages (by attacker) - developed by Microsoft - replaced with STRIDE. **DREAD** is forced away by **STRIDE**
-* STRIDE - Prime model by Microsoft.
+* **D**rea**D** – **D**amages (by attacker) – developed by Microsoft – replaced with STRIDE. **DREAD** is forced away by **STRIDE**
+* STRIDE – Prime model by Microsoft.
 
 -----------------
 
-* PASTA - for code. PASTA (spaghetti) code.
+* PASTA – for code. PASTA (spaghetti) code.
 
 [![Stand With Ukraine](https://pbs.twimg.com/media/FbE5OoMXoAAqoQb.jpg)](https://twitter.com/DefenceU/status/1563093628716601344) | 
 ---- |
 ATACMS... I mean **ATASM**
 
-* ATASM - Serial ATA (SATA) is serial - ATASM is Serial. Powerfully addresses surface like [ATACMS](https://www.youtube.com/watch?v=9WcJ0TFKiD0). ATASM is also a metamodel. **ATASM - ATA Serial Metamodel**.
+* ATASM – Serial ATA (SATA) is serial – ATASM is Serial. Powerfully addresses surface like [ATACMS](https://www.youtube.com/watch?v=9WcJ0TFKiD0). ATASM is also a metamodel. **ATASM – ATA Serial Metamodel**.
 	* **A**rchitecture (Analysis)
 	* **T**hreats (existing: actors, goals)
 	* **A**ttack **S**urface (existing)
 	* **M**itigations (existing)
 
-(Architecture Threats - Attack Surface - Mitigations)
+(Architecture Threats – Attack Surface – Mitigations)
 
 ### Terms
 
-* CSA - Cloud Security Alliance (organization)
-* SBOM - List software's **BOM**bay-made libraries.
-	* SC**A** - **A**nalytical **A**ctions upon SBOM.  
-	* SC**M** - Software Configuration **M**anagement (software in secure configuration - protect against **scummy** configurations like `allowlist *.*`)
-* Dynamic Secrets - JIT secrets.
-* KMS - Key Management Service = Secrets Server.
+* CSA – Cloud Security Alliance (organization)
+* SBOM – List software's **BOM**bay-made libraries.
+	* SC**A** – **A**nalytical **A**ctions upon SBOM.  
+	* SC**M** – Software Configuration **M**anagement (software in secure configuration – protect against **scummy** configurations like `allowlist *.*`)
+* Dynamic Secrets – JIT secrets.
+* KMS – Key Management Service = Secrets Server.
 
 ### SDLC
 
@@ -329,16 +329,16 @@ PR DDD TD
 
 ### SOAP vs REST
 
-* **SOAP** - (Endless) **SOAP** opera of using Microsoft's XML - just like Microsoft's Internet Explorer.
-* **REST** - **REST**ructured (modern) API using URIs
+* **SOAP** – (Endless) **SOAP** opera of using Microsoft's XML – just like Microsoft's Internet Explorer.
+* **REST** – **REST**ructured (modern) API using URIs
 
 
 
 ### FAM, DAM
 *Neither is an IDS/IPS*
 
-* File Activity Monitoring (FAM) - **Audit** user activities intelligently (on) **Files** 
-* Database Activity Monitoring (DAM) - **Audit** user activities intelligently (on) **Databases**
+* File Activity Monitoring (FAM) – **Audit** user activities intelligently (on) **Files** 
+* Database Activity Monitoring (DAM) – **Audit** user activities intelligently (on) **Databases**
 
 ### Gateways
 
@@ -349,20 +349,20 @@ PR DDD TD
 
 ### Encryption
 
-* Crypto-shredding - Secure data deletion with double-encryption. Great for cloud.
-* Full Disk Encryption (FDE) - BitLocker/dm-crypt
-* **Transparent** Data Encryption (TDE) - JIT encryption/decryption of data, **transparent** to the legacy app (no app changes required)
+* Crypto-shredding – Secure data deletion with double-encryption. Great for cloud.
+* Full Disk Encryption (FDE) – BitLocker/dm-crypt
+* **Transparent** Data Encryption (TDE) – JIT encryption/decryption of data, **transparent** to the legacy app (no app changes required)
 
 ### Functional vs Non-Functional Testing
 
-* **Functional** - (non-discriminatory) - Does app **Function** as expected
-* **Non-Functional** - (discriminatory) - Is the app *beefy, too slow and susceptible to DDoS, or has an ugly UI*?
+* **Functional** – (non-discriminatory) – Does app **Function** as expected
+* **Non-Functional** – (discriminatory) – Is the app *beefy, too slow and susceptible to DDoS, or has an ugly UI*?
 
 ### Testing Target
 
-* Static (**SAST**) - Code
-* Dynamic (**DAST**) - Runtime
-* **IAST** - **Interactive** AST - Agent on backend to show where the error is,
+* Static (**SAST**) – Code
+* Dynamic (**DAST**) – Runtime
+* **IAST** – **Interactive** AST – Agent on backend to show where the error is,
 
 ![IAST](https://www.getastra.com/blog/wp-content/uploads/2017/06/Server-Error-Message.png) | ![IAST](https://i.stack.imgur.com/LOB5R.png)
 ---- | ----
@@ -371,13 +371,13 @@ PR DDD TD
 ### Secure coding guidelines
 #### (taken directly from Alukos + my notes)
 
-* **OWASP** Application Security - guidelines.
-* OWASP's **ASVS** - AppSec metric Standard for: SAST, DAST, IAST. ASVS has 3 levels.
+* **OWASP** Application Security – guidelines.
+* OWASP's **ASVS** – AppSec metric Standard for: SAST, DAST, IAST. ASVS has 3 levels.
 * Software Assurance Forum for Excellence in Code (SAFECode)
 
 ### Other
 
-* Abuse Case Testing - (Intentional) misuse case testing. [more info](https://sqa.stackexchange.com/a/1806/43034)
+* Abuse Case Testing – (Intentional) misuse case testing. [more info](https://sqa.stackexchange.com/a/1806/43034)
 	* (Abuse Case Testing ≈ Misuse Case Testing)
 
 
@@ -385,7 +385,7 @@ PR DDD TD
 
 ### Cloud security standards
 
-* ISO/IEC 20000-1 - IT Service Management (Directly to Domain 5, like ITILv4)
+* ISO/IEC 20000-1 – IT Service Management (Directly to Domain 5, like ITILv4)
 
 * Mnemonic 1: **SLA downtime should all be 0s**
 * Mnemonic 2: At **0** years you work in **IT** Support, at 7 years you work in Security Management
@@ -393,43 +393,43 @@ PR DDD TD
 
 ------------------------
 
-* ISO/IEC 27001 - Base.
-* ISO/IEC 27002 - Base *lite* (for gap analysis - fits like LEGO well with 27001)
+* ISO/IEC 27001 – Base.
+* ISO/IEC 27002 – Base *lite* (for gap analysis – fits like LEGO well with 27001)
 
 -------------------------
 
-* ISO/IEC 27001 - Base.
-* ISO/IEC 270**17** - Base + Cloud
-* ISO/IEC 270**18** - Base + Cloud + PII. HIGH level of assurance.
+* ISO/IEC 27001 – Base.
+* ISO/IEC 270**17** – Base + Cloud
+* ISO/IEC 270**18** – Base + Cloud + PII. HIGH level of assurance.
 
 -----------------------
 
-* ISO/IEC 27001 - Base.
-* ISO/IEC 27**7**01 - Base + Privacy focus
+* ISO/IEC 27001 – Base.
+* ISO/IEC 27**7**01 – Base + Privacy focus
 
 -----------------
 
-* ISO 22301:2019 - Business Continuity management. Just in time for COVID.  
-* ISO 27036 - Supply Chain Risk Management (SCM/SCRM) for ISO 27001 users.
+* ISO 22301:2019 – Business Continuity management. Just in time for COVID.  
+* ISO 27036 – Supply Chain Risk Management (SCM/SCRM) for ISO 27001 users.
 
 -------------------
 #### ISO RMF
 
-* ISO 31000 - Overall/general RMF
-	* ISO 27000-5 - InfoSec RMF
+* ISO 31000 – Overall/general RMF
+	* ISO 27000-5 – InfoSec RMF
 
 ### CRS
 
-* OWASP CRS - Managed best firewall practices
+* OWASP CRS – Managed best firewall practices
 
 ### Configuration Management
 
-* Variable - one value for a configuration parameter
-* Template - Template. `template` with many `{{variables}}` => CI.
-* CI - Configuration Item - configuration for one app
-* CMDB - Collection of CIs (Configuration Items) - configuration for many apps.
+* Variable – one value for a configuration parameter
+* Template – Template. `template` with many `{{variables}}` => CI.
+* CI – Configuration Item – configuration for one app
+* CMDB – Collection of CIs (Configuration Items) – configuration for many apps.
 
-* CMB - Configuration Management **Board** (not baseline)
+* CMB – Configuration Management **Board** (not baseline)
 
 ### *Guessed* Configuration Management (CM) Steps
 
@@ -441,27 +441,27 @@ PR DDD TD
 
 ### Terms
 
-* VPC - Virtual Private Cloud - cloud 'VLAN/intranet' area
-* RDM - Release & Deployment Management (plan/policy)
+* VPC – Virtual Private Cloud – cloud 'VLAN/intranet' area
+* RDM – Release & Deployment Management (plan/policy)
 * Virtual Client ≈ VDI
 
 ### Cloud forensic eDiscovery standards
 
-* CSA Domain 3 - Legal concerns: security, privacy, SLAs.
-* NIST IR 8006 - Guidance on DFIR in the cloud.
+* CSA Domain 3 – Legal concerns: security, privacy, SLAs.
+* NIST IR 8006 – Guidance on DFIR in the cloud.
 
 #### ISO
 
-* ISO/IEC 27037 - Initial: Identify, Collect, Preserve e-evidence (Digital Forensics)
-* ISO/IEC 27050 - eDiscovery
+* ISO/IEC 27037 – Initial: Identify, Collect, Preserve e-evidence (Digital Forensics)
+* ISO/IEC 27050 – eDiscovery
 
 ### IAPP
 
-* ISO/IEC 27041 - Investigate
-* ISO/IEC 27042 - Analyse (evidence)
-* ISO/IEC 27043 - Principles & Processes
+* ISO/IEC 27041 – Investigate
+* ISO/IEC 27042 – Analyse (evidence)
+* ISO/IEC 27043 – Principles & Processes
 
-IAPP - Investigate, Analyze, Principles&Processes
+IAPP – Investigate, Analyze, Principles&Processes
 
 ```
 DF-IAPP
@@ -471,22 +471,22 @@ DF-IAPP
 
 #### Another meaning of IAPP.
 
-Also, IAPP - International Association of Privacy Professionals. Another acronym found in CCSP, about similar topics.
+Also, IAPP – International Association of Privacy Professionals. Another acronym found in CCSP, about similar topics.
 So, privacy=IAPP. eDiscovery=IAPP.
 
 ### Legal
 
-* CLOUD Act 2018 - FBI can access CLOUD even outside the U.S. (in conflict with GDPR)
+* CLOUD Act 2018 – FBI can access CLOUD even outside the U.S. (in conflict with GDPR)
 
 ### SOC
 
-* **Sentiment Analysis** - AI + ML to gain people's **Sentiment** on social media (Cambridge Analytica targeted **Sentiment** to Donald Trump)
+* **Sentiment Analysis** – AI + ML to gain people's **Sentiment** on social media (Cambridge Analytica targeted **Sentiment** to Donald Trump)
 
 ### Problem vs Incident
 
 **Trick**: Replace "Problem" with "Bad Driver".
 
-Bad Drivers are a **Problem** - car crashes as a result of their driving are **Incidents**
+Bad Drivers are a **Problem** – car crashes as a result of their driving are **Incidents**
 
 All ~~problems~~ bad drivers potentially cause incidents, but not all bad drivers result in incidents.
 
@@ -516,7 +516,7 @@ Manage highways & their components!
 
 * Process **Owner** ≈ Data Owner
 * Process Architect ≈ Data Custodian
-* CSI **Manager** - **Mid-level managers** who just ensure ITSM (clue: mid-level managers are suckers for fancy job titles)
+* CSI **Manager** – **Mid-level managers** who just ensure ITSM (clue: mid-level managers are suckers for fancy job titles)
 
 #### Service-level Management (SLM)
 
@@ -527,16 +527,16 @@ Manage highways & their components!
 
 #### Disaster Recovery Management
 
-* ITIL "recovery plan" - Detailed master plan for BCP/DRP, can also include data restoration to RPO.
-* BCP Strategy - Strategy for business (functions)
-* IT Service Continuity - Specific cases continuity plan (i.e., if a specific host failed)
-* BCP **Invocation** Guidelines - **Invocation**
+* ITIL "recovery plan" – Detailed master plan for BCP/DRP, can also include data restoration to RPO.
+* BCP Strategy – Strategy for business (functions)
+* IT Service Continuity – Specific cases continuity plan (i.e., if a specific host failed)
+* BCP **Invocation** Guidelines – **Invocation**
 
 ### Vulnerability Scanning Requirements from CSP
 
 1) Only scan your internal systems
 2) Don't impact other customers
-3) Date and time - for detailed scanning
+3) Date and time – for detailed scanning
 
 ### ISO 20000-1 → Capacity Management
 
@@ -549,32 +549,32 @@ Capacity management of YOUR:
 
 ### Laws
 
-* **Stored Communications** Act (SCA) 1986 - **Stored Communications** (Discord, email) are **private communications**. Dated, but in force.
-* **GAPP** - U.S. Optional (**gapp**ed) GDPR
-* Privacy Shield - DEAD privacy partnership between the US and EU (For CCSP OPT - it is still alive)
+* **Stored Communications** Act (SCA) 1986 – **Stored Communications** (Discord, email) are **private communications**. Dated, but in force.
+* **GAPP** – U.S. Optional (**gapp**ed) GDPR
+* Privacy Shield – DEAD privacy partnership between the US and EU (For CCSP OPT – it is still alive)
 
 ### 3rd party organizations and standards
 
-* **BICSI** - like **SCSI** - cables organization
-* N**E**RC/CIP - Electro NERD
+* **BICSI** – like **SCSI** – cables organization
+* N**E**RC/CIP – Electro NERD
 
 ![NERC/CIP](https://i.ytimg.com/vi/pwtr5O_VYwY/maxresdefault.jpg) 
 
 ### Compliance
 
-* SAS 70 - **outdated like the 70s** SOC 1
-* SSAE 16 - outdated SSAE 18
+* SAS 70 – **outdated like the 70s** SOC 1
+* SSAE 16 – outdated SSAE 18
 * AICPA (USA) → SSAE → SOC (1/2/3)
 * IAAS (EU) → ISAE → ISAE 3402
 * ISAE ≈ SSAE
 * ISAE 3402 ≈ SSAE SOC 2
-* FedRAMP - **Fed**erally screened CSPs for being **RAMP**s
+* FedRAMP – **Fed**erally screened CSPs for being **RAMP**s
 
 #### CSA
 
 CSA → STAR
 
-CSA STAR - for CSPs. Lightweight assurance method used by CSP, customer, auditor, consultant. 
+CSA STAR – for CSPs. Lightweight assurance method used by CSP, customer, auditor, consultant. 
 
 ##### CSA STAR Levels,
 
@@ -582,12 +582,12 @@ CSA STAR - for CSPs. Lightweight assurance method used by CSP, customer, auditor
 2) Third-party audit (external audit, high assurance)
 3) Continuous auditing
 
-CSA STAR - SEC (Self, External, Continuous)
+CSA STAR – SEC (Self, External, Continuous)
 
 ### ISMS vs IISCS
 
-* ISMS - Identify and monitor risk
-* IISCS - Mitigate risk
+* ISMS – Identify and monitor risk
+* IISCS – Mitigate risk
 
 **Trick**: I**SMS** is a radar that sends **SMS**, **IIS**C**S** is a fighter jet with **2 I**-shaped harpoon rockets and **2 S**-shaped hooks.
 
@@ -597,38 +597,38 @@ CSA STAR - SEC (Self, External, Continuous)
 
 ### Risk
 
-* Profile - **Risks** (profiles) that stand up to the organization
-* Posture - How well organization holds (poses) against risks.
-* Appetite = Tolerance - How hungry is the organization to take more risk.
+* Profile – **Risks** (profiles) that stand up to the organization
+* Posture – How well organization holds (poses) against risks.
+* Appetite = Tolerance – How hungry is the organization to take more risk.
 * Treatment = Management
 
 ### GDPR Roles
 
-* Data Protection **Officer** (DPO) - Mandatory **compliance officer**
+* Data Protection **Officer** (DPO) – Mandatory **compliance officer**
 * Data Controller = Data Owner (controls data life)
 
 ### MSA, SLA, SOW, MOU, etc
 
 ![Big 'MSA' & many sow](https://www.cargill.com/image/1432078231924/hero-can-sow-1280x510.jpg)
 
-* **M**SA - **Master** Services Provided. **Masters of airways**
-* **S**OW - **Small (sow)** Jobs Worked-on
-* MOU - Completely different beast - Confirms **understanding** of each-other's "moo" talk.
-* SLA - Performance Expected
-* OLA - Like Windows OLE (internal, under-the-hood) - under-the-hood 'SLA' internal agreement between (C)SP and its brokers.
-* NDA - Confidential clauses (SLA is not suitable)
-* BPA - **BiPlane** Joint-Venture agreement
+* **M**SA – **Master** Services Provided. **Masters of airways**
+* **S**OW – **Small (sow)** Jobs Worked-on
+* MOU – Completely different beast – Confirms **understanding** of each-other's "moo" talk.
+* SLA – Performance Expected
+* OLA – Like Windows OLE (internal, under-the-hood) – under-the-hood 'SLA' internal agreement between (C)SP and its brokers.
+* NDA – Confidential clauses (SLA is not suitable)
+* BPA – **BiPlane** Joint-Venture agreement
 
-### Vendor - sticky situations
+### Vendor – sticky situations
 
-* **Via**bility - Vendor may die like [**Via**com](https://en.wikipedia.org/wiki/Viacom_(2005%E2%80%932019))
-* Lock-in - Proprietary infrastructure forces you to stay with vendor
-* Lock-out - cannot access living vendor. Can also sometimes mean "Viability".
+* **Via**bility – Vendor may die like [**Via**com](https://en.wikipedia.org/wiki/Viacom_(2005%E2%80%932019))
+* Lock-in – Proprietary infrastructure forces you to stay with vendor
+* Lock-out – cannot access living vendor. Can also sometimes mean "Viability".
 
 ### Other
 
-* **P**IA - like BIA - **Privacy** impact analysis.
-* Doctrine of **Proper** Law - **properly** defines jurisdiction of law applied in a case 
+* **P**IA – like BIA – **Privacy** impact analysis.
+* Doctrine of **Proper** Law – **properly** defines jurisdiction of law applied in a case 
 
 ## Domain 7 (meta-domain)
 
@@ -638,14 +638,14 @@ CSA STAR - SEC (Self, External, Continuous)
 
 ![CSA](https://damassets.autodesk.net/content/dam/autodesk/images/trust/csa-logo-thumb-384x288.png)
 
-* CSA Cloud Controls Matrix (CCMv4) - Cloud Risk Management framework by CSA, mapped to trusted organizations&frameworks like ISO, ISACA, PCI. **CSA's best product! Simplify regulatory compliance!**
+* CSA Cloud Controls Matrix (CCMv4) – Cloud Risk Management framework by CSA, mapped to trusted organizations&frameworks like ISO, ISACA, PCI. **CSA's best product! Simplify regulatory compliance!**
 	* Trick: ISACA has CISM, CSA has ISACA in CCM
-* CSA "Egregious 11" - Top cloud threats
-* CSA Checklists - VERY SAFE baseline guides
-* CSA CIR - Cloud IR framework by CSA. Based on NIST 800-61.
-* CSA Domain 3: Legal Issues - Security guidance of legal issues
-* CSA STAR - Lightweight compliance standard. Level 1 - Internal audit. Level 2 - External audit.
-* CSA CAIQ - Consensus Assessment Initiative Questionnaire - optional IQ questions to access CSP Security
+* CSA "Egregious 11" – Top cloud threats
+* CSA Checklists – VERY SAFE baseline guides
+* CSA CIR – Cloud IR framework by CSA. Based on NIST 800-61.
+* CSA Domain 3: Legal Issues – Security guidance of legal issues
+* CSA STAR – Lightweight compliance standard. Level 1 – Internal audit. Level 2 – External audit.
+* CSA CAIQ – Consensus Assessment Initiative Questionnaire – optional IQ questions to access CSP Security
 
 ### Comparisons
 
@@ -653,20 +653,20 @@ CSA STAR - SEC (Self, External, Continuous)
 * API anti-DDoS: API Gateway > IPS [API Gateway can help understand DDoS traffic]
 * anti-DDoS: Authentication > Scale
 * AuthN of (cloud) hosts: Host digital certificates
-* SSO - One org (+IDaaS); Federation - 2+ orgs.
+* SSO – One org (+IDaaS); Federation – 2+ orgs.
 
 ### IaaS, PaaS, SaaS
 
 ![IPS](https://assets1.cbsnewsstatic.com/hub/i/2010/06/07/74ecadc6-a642-11e2-a3f0-029118418759/phprF09uBsteve-jobs-wwdc-81.jpg)
 
-* IaaS - Many hosts Infrastructure. Best if your app really requires complex infrastructure (such as 5 databases, 10 firewalls etc).
-* PaaS - One host. Best if: your app can run on 1 host, and you are concerned about: liability, security, time, and money wasted configuring code and infrastructure. PaaS is much more liability-optimal than IaaS. PaaS is the easiest to administer. **PaaS** your **code** - so IaC is PaaS.
-* SaaS - Service. Service is the most affordable, has least liability to the customer and the cheapest, but it takes time to configure code to work with SaaS and cloud.
+* IaaS – Many hosts Infrastructure. Best if your app really requires complex infrastructure (such as 5 databases, 10 firewalls etc).
+* PaaS – One host. Best if: your app can run on 1 host, and you are concerned about: liability, security, time, and money wasted configuring code and infrastructure. PaaS is much more liability-optimal than IaaS. PaaS is the easiest to administer. **PaaS** your **code** – so IaC is PaaS.
+* SaaS – Service. Service is the most affordable, has least liability to the customer and the cheapest, but it takes time to configure code to work with SaaS and cloud.
 
 Finally
 
-* FaaS - serverless (fatherless) IaC, cheaper and simplier than PaaS.
+* FaaS – serverless (fatherless) IaC, cheaper and simplier than PaaS.
 
 ### Other
 
-* Tampering - always of data, but not of systems
+* Tampering – always of data, but not of systems
