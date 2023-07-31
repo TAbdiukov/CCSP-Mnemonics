@@ -529,7 +529,7 @@ Manage highways & their components!
 
 * ITIL "recovery plan" - Detailed master plan for BCP/DRP, can also include data restoration to RPO.
 * BCP Strategy - Strategy for business (functions)
-* IT Service Continuity - Specific cases continuity plan (i.e. if a specific host failed)
+* IT Service Continuity - Specific cases continuity plan (i.e., if a specific host failed)
 * BCP **Invocation** Guidelines - **Invocation**
 
 ### Vulnerability Scanning Requirements from CSP
