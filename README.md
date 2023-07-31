@@ -355,8 +355,8 @@ PR DDD TD
 
 ### Functional vs Non-Functional Testing
 
-* **Functional** - (non-descriminatory) - Does app **Function** as expected
-* **Non-Functional** - (descriminatory) - Is the app *beefy, too slow and susceptible to DDoS, or has an ugly UI*?
+* **Functional** - (non-discriminatory) - Does app **Function** as expected
+* **Non-Functional** - (discriminatory) - Is the app *beefy, too slow and susceptible to DDoS, or has an ugly UI*?
 
 ### Testing Target
 
