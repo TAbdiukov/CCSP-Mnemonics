@@ -476,7 +476,7 @@ So, privacy=IAPP. eDiscovery=IAPP.
 
 ### Legal
 
-* CLOUD Act 2018 - FBI can access CLOUD even outside the U.S. (in violation of GDPR)
+* CLOUD Act 2018 - FBI can access CLOUD even outside the U.S. (in conflict with GDPR)
 
 ### SOC
 
