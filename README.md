@@ -484,7 +484,7 @@ So, privacy=IAPP. eDiscovery=IAPP.
 
 ### Problem vs Incident
 
-**Trick**: Replace "Problem" with "Bad Driver"
+**Trick**: Replace "Problem" with "Bad Driver".
 
 Bad Drivers are a **Problem** - car crashes as a result of their driving are **Incidents**
 
@@ -508,9 +508,9 @@ Is to Recover
 
 #### Capacity and Performance Management
 
-![Highway](https://www.vinci-concessions.com/uploads/2019/06/cofiroute-usa-1920x1106.jpg)
-
-Manage highways & their components
+![Highway](https://www.vinci-concessions.com/uploads/2019/06/cofiroute-usa-1920x1106.jpg) |
+---- |
+Manage highways & their components! 
 
 #### Continual Service Improvement (CSI)
 
