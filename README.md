@@ -480,7 +480,7 @@ So, privacy=IAPP. eDiscovery=IAPP.
 
 ### SOC
 
-* **Sentiment Analysis** - AI + ML to gain people's **Sentiment** on social media (like Cambridge Analytica to in conflict with GDPR to Donald Trump)
+* **Sentiment Analysis** - AI + ML to gain people's **Sentiment** on social media (Cambridge Analytica targeted **Sentiment** to Donald Trump)
 
 ### Problem vs Incident
 
