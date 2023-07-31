@@ -109,7 +109,7 @@ ISO 17789
 2. (Expected) behavior
 3. (Standard and secure) Transport
 4. (Exchange is) Syncratic
-5. (Data meaning is) Symantic
+5. (Data meaning is) Semantic
 
 
 ### Cloud Leadership
