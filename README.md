@@ -53,7 +53,7 @@ Swimming **pool** with **resources**
 * TEE - Trusted Execution Environment ([≈ TCB](https://stackoverflow.com/q/63335341/12258312))
 * TPM/vTPM - Internal hardware for TEE/TCB (+ Secure Boot)
 * HSM - External dongle/card for TEE/TCB (+ Secrets Management)  
-	* Dedicated HSM - BEST Secrets Management. Better than any vTPM.
+	* Dedicated HSM - **BEST** Secrets Management. Better than any vTPM.
 
 ### Computing types
 
