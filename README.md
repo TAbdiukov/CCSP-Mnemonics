@@ -278,6 +278,8 @@ Cloud IR framework by CSA. Based on NIST 800-61,
 
 ### Threat Modeling Approaches
 
+-----------------
+
 ![**DREAD** is forced away by **STRIDE**](https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/734afa3be7c9d7ad7693f6f70aa6dda8.jpeg) | 
 ---- |
 **DREAD** is forced away by **STRIDE**
@@ -288,6 +290,8 @@ Cloud IR framework by CSA. Based on NIST 800-61,
 -----------------
 
 * PASTA – for code. PASTA (spaghetti) code.
+
+-----------------
 
 [![Stand With Ukraine](https://pbs.twimg.com/media/FbE5OoMXoAAqoQb.jpg)](https://twitter.com/DefenceU/status/1563093628716601344) | 
 ---- |
