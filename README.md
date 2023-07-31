@@ -239,7 +239,7 @@ TIER
 
 ### CSA CIR
 
-Cloud IR framework by CSA. Based on NIST 800-61
+Cloud IR framework by CSA. Based on NIST 800-61,
 
 #### NIST 800-61
 
@@ -267,11 +267,11 @@ Cloud IR framework by CSA. Based on NIST 800-61
 
 ### How to design a datacenter
 
-Step 1: Pick a legal heaven location with access to water.
-Step 2: Redundancy is key
-Step 3: Add LOTS of cables everywhere
-Step 4: ????????
-Step 5: PROFIT!
+Step 1: Pick a legal heaven location with access to water  
+Step 2: Redundancy is key  
+Step 3: Add LOTS of cables everywhere  
+Step 4: ????????  
+Step 5: PROFIT!  
 
 ## Domain 4
 
