@@ -673,4 +673,4 @@ Finally
 
 ### Other
 
-* Tampering – always of data, but not of systems
+* Tampering – always of data, not systems
