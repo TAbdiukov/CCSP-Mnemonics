@@ -83,9 +83,9 @@ Swimming **pool** with **resources**
 
 4) tamper-proof control where the data on the device is **automatically erased** if it detects a physical attack
 
-Mnemonic: **Low** adoption of **crypto** in the **physical** world due to **auto-erase**
+* Mnemonic 1: **Low** adoption of **crypto** in the **physical** world due to **auto-erase**
 
-Mnemonic 2: **Low** amount of **crypto** will cause **physical** ASIC to **self-destruct** 
+* Mnemonic 2: **Low** amount of **crypto** will cause **physical** ASIC to **self-destruct** 
 
 ### Hypervisors
 
