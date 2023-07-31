@@ -278,6 +278,8 @@ Cloud IR framework by CSA. Based on NIST 800-61,
 
 ### Threat Modeling Approaches
 
+![Dread and Stride](https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/734afa3be7c9d7ad7693f6f70aa6dda8.jpeg)
+
 * **D**rea**D** - **D**amages (by attacker) - developed by Microsoft - replaced with STRIDE. **DREAD** is forced away by **STRIDE**
 * STRIDE - Prime model by Microsoft 
 * PASTA - for code. PASTA (spaghetti) code.
