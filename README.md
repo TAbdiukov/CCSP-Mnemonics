@@ -431,13 +431,13 @@ PR DDD TD
 
 * CMB - Configuration Management **Board** (not baseline)
 
-### Guessed Configuration Management (CM) Steps
+### *Guessed* Configuration Management (CM) Steps
 
-1. Asset inventory
-2. Create baseline
-3. Establish a CMB board (like CAB)
-4. Deploy baselined assets
-5. Dicument approved deviations (if needed)
+1. Asset inventory.
+2. Create baseline.
+3. Establish a CMB board (like CAB).
+4. Deploy baselined assets.
+5. Document approved deviations (if needed).
 
 ### Terms
 
