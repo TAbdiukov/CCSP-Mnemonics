@@ -302,8 +302,8 @@ ATACMS... I mean **ATASM**
 
 * CSA - Cloud Security Alliance (organization)
 * SBOM - List software's **BOM**bay-made libraries
-	* SCA - Actions upon SBOM 
-* SCM - Software Configuration Management (software in secure configuration - protect against **scummy** configurations like `allowlist *.*`)
+	* SC**A** - **A**nalytical **A**ctions upon SBOM 
+	* SC**M** - Software Configuration **M**anagement (software in secure configuration - protect against **scummy** configurations like `allowlist *.*`)
 * Dynamic Secrets - JIT secrets.
 * KMS - Key Management Service = Secrets Server.
 
