@@ -266,12 +266,13 @@ Cloud IR framework by CSA. Based on NIST 800-61,
 3) **Pipe** = ISP/internet/You**Tube**
 
 ### How to design a datacenter
+#### (Not-so-serious guide)
 
-Step 1: Pick a legal heaven location with access to water  
-Step 2: Redundancy is key  
-Step 3: Add LOTS of cables everywhere  
-Step 4: ????????  
-Step 5: PROFIT!  
+* Step 1: Pick a **legal heaven** location with access to water  
+* Step 2: Redundancy is key  
+* Step 3: Add LOTS of cables everywhere  
+* Step 4: ????????  
+* Step 5: PROFIT!  
 
 ## Domain 4
 
