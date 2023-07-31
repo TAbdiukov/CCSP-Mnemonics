@@ -644,7 +644,7 @@ CSA STAR - SEC (Self, External, Continuous)
 * CSA Checklists - VERY SAFE baseline guides
 * CSA CIR - Cloud IR framework by CSA. Based on NIST 800-61.
 * CSA Domain 3: Legal Issues - Security guidance of legal issues
-* CSA STAR - Lightweight complince standard. Level 1 - Internal audit. Level 2 - External audit.
+* CSA STAR - Lightweight compliance standard. Level 1 - Internal audit. Level 2 - External audit.
 * CSA CAIQ - Consensus Assessment Initiative Questionnaire - optional IQ questions to access CSP Security
 
 ### Comparisons
