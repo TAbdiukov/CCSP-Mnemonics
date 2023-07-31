@@ -285,9 +285,7 @@ Cloud IR framework by CSA. Based on NIST 800-61,
 * **D**rea**D** - **D**amages (by attacker) - developed by Microsoft - replaced with STRIDE. **DREAD** is forced away by **STRIDE**
 * STRIDE - Prime model by Microsoft.
 
-[![Neon spaghetti](https://www.rcvintage.com/sites/rc/products/IMG_4194.jpg)](https://www.rcvintage.com/sites/rc/products/IMG_4194.jpg) | 
----- |
-PASTA addresses spaghetti code
+-----------------
 
 * PASTA - for code. PASTA (spaghetti) code.
 
