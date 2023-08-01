@@ -203,7 +203,7 @@ For CCSP: Tags for DLP; Labels for classification
 
 ### Recovery sites
 
-(same as CISSP, plus):
+*(same as CISSP, plus)*:
 
 * Cloud site – much more cost-effective than hot site, however, takes longer to reallocate to. Is a viable replacement to Hot and Warm sites.
 
