@@ -168,11 +168,11 @@ A bit like RAID, can be used to achieve diametrically opposed goals:
 
 ### DLP deployment
 
-(Rough unofficial order)
+*(Rough unofficial order)*
 
 1) First, eDiscover your data
 
-2) Prioritize and categorize: thus label the data
+2) Prioritize and categorize – thus label the data
 
 3) Then tag the data
 For CCSP: Tags for DLP; Labels for classification
