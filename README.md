@@ -108,7 +108,7 @@ ISO 17789
 1. (Comply with) Policy
 2. (Expected) Behavior
 3. (Standard and secure) Transport
-4. (Exchange is) Syncratic
+4. (Exchange is) Syntactic
 5. (Data meaning is) Semantic
 
 
