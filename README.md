@@ -561,9 +561,15 @@ Capacity management of YOUR:
 ### 3rd party organizations and standards
 
 * **BICSI** – like **SCSI** – cables organization
+
+--------------
+
+![NERC/CIP](https://www.indiewire.com/wp-content/uploads/2013/04/the-amazing-spider-man-2-jamie-foxx.jpg) | 
+----
+Electro NERD
+
 * N**E**RC/CIP – Electro NERD
 
-![NERC/CIP](https://i.ytimg.com/vi/pwtr5O_VYwY/maxresdefault.jpg) 
 
 ### Compliance
 
