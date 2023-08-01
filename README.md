@@ -1,5 +1,6 @@
 # CCSP-Mnemonics
-CCSP mnemonics for CISSP-passers
+
+CCSP mnemonics for CISSP-passers.
 
 ## Useful resources
 
