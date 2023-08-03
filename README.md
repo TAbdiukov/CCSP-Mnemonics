@@ -381,10 +381,9 @@ PR DDD TD
 ### Cloud security standards
 
 * ISO/IEC 20000-1 – IT Service Management (Directly to Domain 5, like ITILv4)
-
-* Mnemonic 1: **SLA downtime should all be 0s**
-* Mnemonic 2: At **0** years you work in **IT** Support, at 7 years you work in Security Management
-* Mnemonic 3: 0s are for IT staff, 7s (as in Boeing 777) are for Security
+	* Mnemonic 1: **SLA downtime should all be 0s**
+	* Mnemonic 2: At **0** years you work in **IT** Support, at 7 years you work in Security Management
+	* Mnemonic 3: 0s are for IT staff, 7s (as in Boeing 777) are for Security
 
 ------------------------
 
