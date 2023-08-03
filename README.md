@@ -139,7 +139,7 @@ The cloud data lifecycle consists of:
 #### By access chain
 
 * RAW – Direct hands-on low-level access some drive (including access to S.M.A.R.T. and drive firmware!). Access directly: `You → Drive`. Direct access means "Direct responsibility" for data remanence caused and found.
-* Volume-storage – High-level, abstracted ("abstractioned"), indirect, access to a (likely virtual) drive in a cluster: `You → Cluster of drives → (Subcluster of drives? It's a cloud architecture after all) →  Drive`
+* Volume-storage – High-level, abstracted ("abstractioned"), indirect, access to a (likely virtual) drive in a cluster: `You → Cluster of drives → (Subcluster of drives? It's a cloud architecture after all) → Drive`
 	* File-storage – Store files in an abstract vacuum – like in Cisco devices.
 	* Block-storage – Store blocks of data like on hard drives – you can orchestrate filesystems, NTFS Master File Tables, folders, files, file attributes etc.
 
@@ -157,7 +157,7 @@ The cloud data lifecycle consists of:
 
 ### Data Dispersion
 
-is a KISS term: "Store data in many places"
+Just a KISS term: "Store data in many places"
 
 A bit like RAID, can be used to achieve diametrically opposed goals:
 * Availability (by orchestrating multiple copies of data)
@@ -175,7 +175,7 @@ A bit like RAID, can be used to achieve diametrically opposed goals:
 5) Deploy DLP
 6) Let DLP train on data (you can help, but for CCSP: DLP will work fine on its own)
 
-### Data DEclassification
+### Data **DE**classification
 
 * Anonymization – Remove sensitive data and make the subject **anonymous** (like a hacker group). Can be required by GDPR.
 * Masking – Permanently mask and damage data, sub-options:
