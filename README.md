@@ -77,15 +77,11 @@ Swimming **pool** with **resources**
 #### Mnemonics
 
 1) **Lowest**
-
 2) For **cryptographic** modules that protect sensitive information
-
 3) For **physical** contractors to prevent physical tampering
-
-4) tamper-proof control where the data on the device is **automatically erased** if it detects a physical attack
+4) Tamper-proof control where the data on the device is **automatically erased** if it detects a physical attack
 
 * Mnemonic 1: **Low** adoption of **crypto** in the **physical** world due to **auto-erase**
-
 * Mnemonic 2: **Low** amount of **crypto** will cause **physical** ASIC to **self-destruct** 
 
 ### Hypervisors
