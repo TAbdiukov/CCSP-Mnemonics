@@ -423,6 +423,8 @@ PR DDD TD
 * CI – Configuration Item – configuration for one app
 * CMDB – Collection of CIs (Configuration Items) – configuration for many apps.
 
+---------------
+
 * CMB – Configuration Management **Board** (not baseline)
 
 ### *Guessed* Configuration Management (CM) Steps
