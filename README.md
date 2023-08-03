@@ -661,7 +661,9 @@ CSA STAR – SEC (Self, External, Continuous)
 
 ### IaaS, PaaS, SaaS
 
-![IPS](https://assets1.cbsnewsstatic.com/hub/i/2010/06/07/74ecadc6-a642-11e2-a3f0-029118418759/phprF09uBsteve-jobs-wwdc-81.jpg)
+![IPS](https://assets1.cbsnewsstatic.com/hub/i/2010/06/07/74ecadc6-a642-11e2-a3f0-029118418759/phprF09uBsteve-jobs-wwdc-81.jpg) |
+---- |
+IPS - IaaS, PaaS, Saas
 
 * IaaS – Many hosts Infrastructure. Best if your app really requires complex infrastructure (such as 5 databases, 10 firewalls, etc).
 * PaaS – One host. Best if: your app can run on 1 host, and you are concerned about: liability, security, time, and money wasted configuring code and infrastructure. PaaS is much more liability-optimal than IaaS. PaaS is the easiest to administer. **PaaS** your **code** – so IaC is PaaS.
