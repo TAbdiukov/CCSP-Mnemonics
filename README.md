@@ -22,7 +22,7 @@ CCSP mnemonics for CISSP-passers.
 2. **Broad** network **access** – **broad access** over internet or WAN
 3. **Resource pooling** – **Resources** are *somewhere* in that cloud **pool** (within chosen geographic location)
 
-![pool](https://png.pngtree.com/thumb_back/fw800/background/20190612/pngtree-watermark-background-of-blue-swimming-pool-image_117749.jpg) | 
+![pool](https://c1.wallpaperflare.com/preview/422/492/42/pool-swimming-balls-colorful.jpg) | 
 ---- |
 Swimming **pool** with **resources**
 
