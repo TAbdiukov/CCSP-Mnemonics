@@ -269,7 +269,7 @@ Cloud IR framework by CSA. Based on NIST 800-61,
 
 ### Threat Modeling Approaches
 
------------------
+------------------------
 
 ![**DREAD** is forced away by **STRIDE**](https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/734afa3be7c9d7ad7693f6f70aa6dda8.jpeg) | 
 ---- |
@@ -279,11 +279,11 @@ Cloud IR framework by CSA. Based on NIST 800-61,
 * STRIDE – Prime model by Microsoft.
 	* Tampering – always of data, not systems
 
------------------
+------------------------
 
 * PASTA – for code. PASTA (spaghetti) code.
 
------------------
+------------------------
 
 [![Stand With Ukraine](https://pbs.twimg.com/media/FbE5OoMXoAAqoQb.jpg)](https://twitter.com/DefenceU/status/1563093628716601344) | 
 ---- |
@@ -391,23 +391,24 @@ PR DDD TD
 * ISO/IEC 27001 – Base.
 * ISO/IEC 27002 – Base *lite* (for gap analysis – fits like LEGO well with 27001)
 
--------------------------
+------------------------
 
 * ISO/IEC 27001 – Base.
 * ISO/IEC 270**17** – Base + Cloud
 * ISO/IEC 270**18** – Base + Cloud + PII. HIGH level of assurance.
 
------------------------
+------------------------
 
 * ISO/IEC 27001 – Base.
 * ISO/IEC 27**7**01 – Base + Privacy focus
 
------------------
+------------------------
 
 * ISO 22301:2019 – Business Continuity management. Just in time for COVID.  
 * ISO 27036 – Supply Chain Risk Management (SCM/SCRM) for ISO 27001 users.
 
--------------------
+------------------------
+
 #### ISO RMF
 
 * ISO 31000 – Overall/general RMF
@@ -424,7 +425,7 @@ PR DDD TD
 * CI – Configuration Item – configuration for one app
 * CMDB – Collection of CIs (Configuration Items) – configuration for many apps.
 
----------------
+------------------------
 
 * CMB – Configuration Management **Board** (not baseline)
 
@@ -554,7 +555,7 @@ Capacity management of YOUR:
 
 * **BICSI** – like **SCSI** – cables organization
 
---------------
+------------------------
 
 ![NERC/CIP](https://www.indiewire.com/wp-content/uploads/2013/04/the-amazing-spider-man-2-jamie-foxx.jpg) | 
 ---- |
