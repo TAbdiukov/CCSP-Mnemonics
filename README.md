@@ -22,9 +22,9 @@ CCSP mnemonics for CISSP-passers.
 2. **Broad** network **access** – **broad access** over internet or WAN
 3. **Resource pooling** – **Resources** are *somewhere* in that cloud **pool** (within chosen geographic location)
 
-![ice](https://img.freepik.com/free-vector/gradient-swimming-pool-background_52683-86297.jpg) | 
-- | 
-Swimming **pool** with **resources**... *somewhere* |
+![ice](https://img.freepik.com/free-vector/gradient-swimming-pool-background_52683-86297.jpg) |
+---- | 
+Swimming **pool** with **resources**... *somewhere* 
 
 
 4. Rapid **elastic**ity – (Repeat) (cloud) solution is like an **elastic band** – can scale up and scale down as needed. **Elasticity implies scalability**
