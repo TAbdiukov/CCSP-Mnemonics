@@ -373,7 +373,7 @@ PR DDD TD
 
 ### Other
 
-* Abuse Case Testing – (Intentional) misuse case testing. *([more info](https://sqa.stackexchange.com/a/1806/43034))*
+* Abuse Case Testing – (Intentional) misuse case testing *([more info](https://sqa.stackexchange.com/a/1806/43034))*.
 	* (Abuse Case Testing ≈ Misuse Case Testing)
 
 
