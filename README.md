@@ -599,7 +599,7 @@ CSA STAR – SEC (Self, External, Continuous)
 
 ### Risk
 
-* Profile – **Risks** (profiles) that stand up to the organization
+* Profile – **Risks** (profiles) that stand up to the organization.
 * Posture – How well organization holds (poses) against risks.
 * Appetite = Tolerance – How hungry is the organization to take more risk.
 * Treatment = Management
@@ -665,9 +665,9 @@ CSA STAR – SEC (Self, External, Continuous)
 * PaaS – One host. Best if: your app can run on 1 host, and you are concerned about: liability, security, time, and money wasted configuring code and infrastructure. PaaS is much more liability-optimal than IaaS. PaaS is the easiest to administer. **PaaS** your **code** – so IaC is PaaS.
 * SaaS – Service. Service is the most affordable, has least liability to the customer and the cheapest, but it takes time to configure code to work with SaaS and cloud.
 
-Finally
-
+Finally,
 * FaaS – serverless (fatherless) IaC, cheaper and simpler than PaaS.
+
 
 ### Other
 
