@@ -224,9 +224,9 @@ TIER
 
 
 ### (Compass)-bound communication 
-#### Occurs in SDNs
 
-![Cisco](https://learningnetwork.cisco.com/sfc/servlet.shepherd/version/renditionDownload?rendition=THUMB720BY480&versionId=0683i000001rnMl&operationContext=CHATTER&contentId=05T3i00000ACKHA&page=0)
+Occurs in SDNs,
+	![Cisco](https://learningnetwork.cisco.com/sfc/servlet.shepherd/version/renditionDownload?rendition=THUMB720BY480&versionId=0683i000001rnMl&operationContext=CHATTER&contentId=05T3i00000ACKHA&page=0)
 
 ### CSA CIR
 
