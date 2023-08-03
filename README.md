@@ -5,8 +5,8 @@ CCSP mnemonics for CISSP-passers.
 ## Useful resources
 
 * **[CCSP by Alukos](https://ccsp.alukos.com/)**
-* **[FREE ISC2 CCSP Quiz/Test](https://cloud.connect.isc2.org/ccsp-quiz)**
-* [FREE ISC2 CCSP Flashcards](https://cloud.connect.isc2.org/ccsp-flashcards) [These may or may not be useful]
+* **[FREE (ISC)² CCSP Quiz/Test](https://cloud.connect.isc2.org/ccsp-quiz)**
+* [FREE (ISC)² CCSP Flashcards](https://cloud.connect.isc2.org/ccsp-flashcards) [These may or may not be useful]
 * [CSA Security Guidance](https://downloads.cloudsecurityalliance.org/assets/research/security-guidance/security-guidance-v4-FINAL.pdf) *(recommended by Reddit)*
 
 ### Other
@@ -261,7 +261,7 @@ Cloud IR framework by CSA. Based on NIST 800-61,
 
 * Step 1: Pick a **legal heaven** location  
 * Step 2: Redundancy is key  
-* Step 3: Do all nice things ISC2 likes (protect people, create plans for a UFO attack)  
+* Step 3: Do all nice things (ISC)² likes (protect people, create plans for a UFO attack)  
 * Step 4: Add LOTS of cables everywhere  
 * Step 5: ????????  
 * Step 6: PROFIT!  
