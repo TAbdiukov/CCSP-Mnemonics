@@ -342,10 +342,9 @@ PR DDD TD
 * API Gateway = API WAF/IPS and monitoring
 * XML Gateway = XML (SOAP) WAF/IPS and monitoring.
 
-
 ### Encryption
 
-* Crypto-shredding – Secure data deletion with double-encryption. Great for cloud.
+* Crypto-shredding – Secure data deletion with double-encryption. Awesome for cloud.
 * Full Disk Encryption (FDE) – BitLocker/dm-crypt
 * **Transparent** Data Encryption (TDE) – JIT encryption/decryption of data, **transparent** to the legacy app (no app changes required)
 
