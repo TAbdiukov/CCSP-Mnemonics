@@ -155,8 +155,8 @@ The cloud data lifecycle consists of:
 Just a KISS term: "Store data in many places"
 
 A bit like RAID, can be used to achieve diametrically opposed goals:
-* **Availability** (by orchestrating multiple copies of data)
-* [~~*Two-person control*~~] **Multi-person control** (by splitting data into many pieces – thus potentially jeopardizing availability), and
+* **Availability** (by orchestrating multiple copies of data), and
+* [~~*Two-person control*~~] **Multi-person control** (by splitting data into many pieces – thus potentially jeopardizing availability), 
 
 ### DLP deployment
 
