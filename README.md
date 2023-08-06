@@ -605,7 +605,7 @@ CSA STAR – SEC (Self, External, Continuous)
 
 ### MSA, SLA, SOW, MOU, etc
 
-![Big 'MSA' & many sow](https://www.feednavigator.com/var/wrbm_gb_food_pharma/storage/images/_aliases/wrbm_large/publications/feed/feednavigator.com/article/2019/09/16/finnish-team-evaluating-optimal-sow-feeding-strategies-how-to-cut-farrowing-time/10153032-1-eng-GB/Finnish-team-evaluating-optimal-sow-feeding-strategies-how-to-cut-farrowing-time.jpg)
+![Big 'MSA' & many sow](https://www.sekoutcha.com/images/course/1662554855How-to-control-the-feeding-and-nutrition-of-pigs.jpgg)
 
 * **M**SA – **Master** Services Provided. Master/Mommy Pig.
 * **S**OW – **Small (sow)** Jobs Worked-on
