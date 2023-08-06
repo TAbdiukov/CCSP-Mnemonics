@@ -179,7 +179,8 @@ A bit like RAID, can be used to achieve diametrically opposed goals:
 
 ### Other 
 
-* IRM System – Protect sensitive data in transit.
+* IRM System – Internet (requires) RSA Management – Protect sensitive data in transit.
+*Not to be confused with DRM*
 
 ## Domain 3
 
