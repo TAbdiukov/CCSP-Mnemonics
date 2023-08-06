@@ -92,10 +92,6 @@ Mnemonic: Hardware first, then software
 * 1-3: Something you know, something you have, something you are, 
 * 4-5: Somewhere you are, something you do
 
-### Who does what
-
-ISO 17789
-
 ### 5 Facets of Cloud/IOT interoperability – ISO/IEC 21823
 
 1. (Comply with) Policy
@@ -394,6 +390,7 @@ PR DDD TD
 
 ------------------------
 
+* ISO 17789:2014 – Who is responsible for what in cloud computing.
 * ISO 22301:2019 – Business Continuity management. Just in time for COVID.  
 * ISO 27036 – Supply Chain Risk Management (SCM/SCRM) for ISO 27001 users.
 
