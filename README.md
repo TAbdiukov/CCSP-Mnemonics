@@ -605,7 +605,7 @@ CSA STAR – SEC (Self, External, Continuous)
 
 ### MSA, SLA, SOW, MOU, etc
 
-![Big 'MSA' & many sow](https://www.cargill.com/image/1432078231924/hero-can-sow-1280x510.jpg)
+![Big 'MSA' & many sow](https://www.feednavigator.com/var/wrbm_gb_food_pharma/storage/images/_aliases/wrbm_large/publications/feed/feednavigator.com/article/2019/09/16/finnish-team-evaluating-optimal-sow-feeding-strategies-how-to-cut-farrowing-time/10153032-1-eng-GB/Finnish-team-evaluating-optimal-sow-feeding-strategies-how-to-cut-farrowing-time.jpg)
 
 * **M**SA – **Master** Services Provided. **Masters of airways**
 * **S**OW – **Small (sow)** Jobs Worked-on
