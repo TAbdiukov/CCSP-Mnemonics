@@ -234,7 +234,7 @@ Cloud IR framework by CSA. Based on NIST 800-61,
 3. Containment, Eradication and Recovery
 4. Post-mortem
 
-(Reminiscent of CISSP's DRMRRRL)
+(Reminiscent of [CISSP's DRMRRRL](https://github.com/TAbdiukov/CISSP-YA-mnemonics#domain-7))
 
 ### Planes
 
