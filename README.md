@@ -603,13 +603,13 @@ CSA STAR – SEC (Self, External, Continuous)
 * Data Protection **Officer** (DPO) – Mandatory **compliance officer**
 * Data Controller = Data Owner (controls data life)
 
-### MSA, SLA, SOW, MOU, etc
+### Business Agreements 
 
 ![Master-Slave](https://www.dossier-andreas.net/software_architecture/masterslave.jpg)
 
 * **M**SA – **Master** Services Provided. Masters of Airlines.
 * **S**OW – **Slave (small)** Jobs Worked-on.
-* MOU – Completely different beast – Confirms **understanding** of each-other's "moo" (talk).
+* MO**U** – Completely different beast – Confirms **understanding** of each-other's "moo" (talk).
 * SLA – Performance Expected
 * OLA – Like Windows OLE (internal, under-the-hood) – under-the-hood 'SLA' internal agreement between (C)SP and its brokers.
 * NDA – Confidential clauses (SLA is not suitable)
