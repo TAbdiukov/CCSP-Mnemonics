@@ -34,11 +34,11 @@ CCSP mnemonics for CISSP-passers.
 * **Scal**ability – app/solution can "**scale** up" well for thousands of inputs or clients
 * **Elastic**ity – (cloud) solution is like an **elastic band** – can scale up and scale down as needed. **Elasticity implies scalability**
 * Cloud **bursting** – Hybrid cloud elasticity (**bursting**)
-* Multi**tenancy** – Sharing resources with everyone, including crooks
+* Multi**tenancy** – Sharing **tenements** (resources) with everyone, including Communists, Anarchists and crooks
 
 	![Cuba](https://www.usatoday.com/gcdn/presto/2018/11/16/USAT/546544cc-7dbe-41b3-8945-d0242b906bfd-HAVANA_building_photo_1.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp) |
 	---- |
-	**Multitenancy**
+	Sharing tenements = **Multitenancy** 
 
 ### Cloud types
 
