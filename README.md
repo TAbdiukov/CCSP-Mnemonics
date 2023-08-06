@@ -351,9 +351,9 @@ PR DDD TD
 * Dynamic (**DAST**) – Runtime
 * **IAST** – **Interactive** AST – Agent on backend to show where the error is,
 
-	![IAST](https://www.getastra.com/blog/wp-content/uploads/2017/06/Server-Error-Message.png) | ![IAST](https://i.stack.imgur.com/LOB5R.png)
-	---- | ----
-	**IAST** Example | **IAST** Example
+![IAST](https://www.getastra.com/blog/wp-content/uploads/2017/06/Server-Error-Message.png) | ![IAST](https://i.stack.imgur.com/LOB5R.png)
+---- | ----
+**IAST** Example | **IAST** Example
 
 ### Secure coding guidelines
 #### (taken directly from Alukos + my notes)
