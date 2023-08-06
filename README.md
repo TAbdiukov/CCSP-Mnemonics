@@ -180,7 +180,7 @@ A bit like RAID, can be used to achieve diametrically opposed goals:
 
 ### Other 
 
-* **IRM** System – **I**nternet (**R**equires) **R**SA **M**anagement – Protect sensitive data in transit.  
+* **IRM** System – **I**nternet (***R***equires) **R**SA **M**anagement – Protect sensitive data in transit.  
 *Not to be confused with DRM*
 
 ## Domain 3
