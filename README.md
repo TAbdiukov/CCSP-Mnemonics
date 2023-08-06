@@ -26,7 +26,6 @@ CCSP mnemonics for CISSP-passers.
 ---- | 
 Swimming **pool** with **resources**... *somewhere* 
 
-
 4. Rapid **elastic**ity – (Repeat) (cloud) solution is like an **elastic band** – can scale up and scale down as needed. **Elasticity implies scalability**
 5. **Measured** service – pay **exactly the measured amount**
 
@@ -40,7 +39,6 @@ Swimming **pool** with **resources**... *somewhere*
 ![Cuba](https://www.usatoday.com/gcdn/presto/2018/11/16/USAT/546544cc-7dbe-41b3-8945-d0242b906bfd-HAVANA_building_photo_1.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp) |
 ---- |
 **Multitenancy**
-
 
 ### Cloud types
 
@@ -66,7 +64,6 @@ Swimming **pool** with **resources**... *somewhere*
 
 * Service – service-app only (not user)
 * Shared – shared by team
-
 
 ### FIPS 140-2: Security Levels
 
@@ -108,7 +105,6 @@ ISO 17789
 3. (Standard and secure) Transport
 4. (Exchange is) Syntactic (and thus Understandable)
 5. (Data meaning is) Semantic
-
 
 ### Cloud Leadership
 
@@ -222,8 +218,6 @@ TIER
 9876
 ```
 
-
-
 ### (Compass)-bound communication 
 
 Occurs in SDNs,  
@@ -330,8 +324,6 @@ PR DDD TD
 * **SOAP** – (Endless) **SOAP** opera of using Microsoft's XML – just like Microsoft's Internet Explorer.
 * **REST** – **REST**ructured (modern) API using URIs
 
-
-
 ### FAM, DAM
 *Neither is an IDS/IPS*
 
@@ -376,7 +368,6 @@ PR DDD TD
 
 * Abuse Case Testing – (Intentional) misuse case testing *([more info](https://sqa.stackexchange.com/a/1806/43034))*.
 	* (Abuse Case Testing ≈ Misuse Case Testing)
-
 
 ## Domain 5
 
@@ -466,7 +457,6 @@ IAPP – Investigate, Analyze, Principles&Processes
 DF-IAPP
 37-1233
 ```
-
 
 #### Another meaning of IAPP.
 
@@ -563,7 +553,6 @@ Capacity management of YOUR:
 Electro NERD
 
 * N**E**RC/CIP – Electro NERD (and simp)
-
 
 ### Compliance
 
