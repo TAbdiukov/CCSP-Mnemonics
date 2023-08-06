@@ -562,7 +562,7 @@ Capacity management of YOUR:
 ---- |
 Electro NERD
 
-* N**E**RC/CIP – Electro NERD
+* N**E**RC/CIP – Electro NERD (and simp)
 
 
 ### Compliance
