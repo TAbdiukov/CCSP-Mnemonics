@@ -55,8 +55,8 @@ CCSP mnemonics for CISSP-passers.
 
 ### Special computing types
 
-* Confidential Computing – protect data in use (e.g. in RAM)
-* Quantum computing – protect secrets by watching for [observer's principle/effect](https://en.wikipedia.org/wiki/Observer_effect_(physics))
+* Confidential Computing – protect data in use (e.g. in RAM).
+* Quantum computing – protect secrets by watching for [observer's principle/effect](https://en.wikipedia.org/wiki/Observer_effect_(physics)).
 
 ### Cloud account types
 
