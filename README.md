@@ -628,7 +628,7 @@ CSA STAR – SEC (Self, External, Continuous)
 
 ## Domain 7 (meta-domain)
 
-![World 9-1](https://mario.wiki.gallery/images/7/7d/SMB_NES_World_9-1_Title_Card.png)
+![7](https://upload.wikimedia.org/wikipedia/commons/5/5c/Hand_Written_7.svg)
 
 ### CSA
 
