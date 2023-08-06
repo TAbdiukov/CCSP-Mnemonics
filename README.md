@@ -36,10 +36,8 @@ CCSP mnemonics for CISSP-passers.
 * Cloud **bursting** – Hybrid cloud elasticity (**bursting**)
 * Multi**tenancy** – Sharing **tenements** (resources) with everyone, including Communists, Anarchists and crooks
 
-	![Cuba](https://www.usatoday.com/gcdn/presto/2018/11/16/USAT/546544cc-7dbe-41b3-8945-d0242b906bfd-HAVANA_building_photo_1.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp) |
-	---- |
-	Sharing tenements = **Multitenancy** 
-
+	![Cuba](https://www.usatoday.com/gcdn/presto/2018/11/16/USAT/546544cc-7dbe-41b3-8945-d0242b906bfd-HAVANA_building_photo_1.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp)
+	
 ### Cloud types
 
 * On-prem – Your datacenter
