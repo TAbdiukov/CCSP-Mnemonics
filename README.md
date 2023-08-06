@@ -10,12 +10,8 @@ CCSP mnemonics for CISSP-passers.
 ### Secondary useful resources
 
 * [CSA Security Guidance](https://downloads.cloudsecurityalliance.org/assets/research/security-guidance/security-guidance-v4-FINAL.pdf) *(recommended by Reddit)*
-* [FREE (ISC)² CCSP Flashcards](https://cloud.connect.isc2.org/ccsp-flashcards) [These may or may not be useful]
-
-### Other
-
 * [Cloud Computing Security Considerations – by ACSC](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/cloud-security-guidance/cloud-computing-security-considerations) – brief CSA Security Guidance *for beginners*.
-* [Good productive vibes](https://www.youtube.com/watch?v=zR9F8QIuUGc)
+* [FREE (ISC)² CCSP Flashcards](https://cloud.connect.isc2.org/ccsp-flashcards) [These may or may not be useful]
 
 ## Domain 1
 
