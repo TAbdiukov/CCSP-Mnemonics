@@ -546,9 +546,9 @@ Capacity management of YOUR:
 
 ------------------------
 
-	![NERC/CIP](https://www.indiewire.com/wp-content/uploads/2013/04/the-amazing-spider-man-2-jamie-foxx.jpg) | 
-	---- |
-	Electro NERD
+![NERC/CIP](https://www.indiewire.com/wp-content/uploads/2013/04/the-amazing-spider-man-2-jamie-foxx.jpg) | 
+---- |
+Electro NERD
 
 * N**E**RC/CIP – Electro NERD (and simp)
 
