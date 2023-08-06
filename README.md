@@ -24,7 +24,7 @@ CCSP mnemonics for CISSP-passers.
 ### NIST 800-145 Essential characteristics of cloud
 *(Similar to ISO 17789:2014, but don't worry about it)*
 
-1. On-demand **self-service** – **service *self***
+1. On-demand **self-service** – **service `self`**
 2. **Broad** network **access** – **broad access** over internet or WAN
 3. **Resource pooling** – **Resources** are *somewhere* in that cloud **pool** (within chosen geographic location)
 
