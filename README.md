@@ -4,8 +4,10 @@ CCSP mnemonics for CISSP-passers.
 
 ## Useful resources
 
-* **[CCSP by Alukos](https://ccsp.alukos.com/)**
+* **[CCSP Exam Cram by Zete Zerger](https://www.youtube.com/playlist?list=PL7XJSuT7Dq_X0AupQwU8YOGV3TsoPAcD0)**
+* **CCSP OPT book**
 * **[FREE (ISC)² CCSP Quiz/Test](https://cloud.connect.isc2.org/ccsp-quiz)**
+* **[CCSP by Alukos](https://ccsp.alukos.com/)**
 
 ### Secondary useful resources
 
