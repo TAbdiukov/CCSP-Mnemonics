@@ -4,16 +4,20 @@ CCSP mnemonics for CISSP-passers.
 
 ## Useful resources
 
-* **[CCSP Exam Cram by Zete Zerger](https://www.youtube.com/playlist?list=PL7XJSuT7Dq_X0AupQwU8YOGV3TsoPAcD0)**
-* **CCSP OPT book**
-* **[FREE (ISC)² CCSP Quiz/Test](https://cloud.connect.isc2.org/ccsp-quiz)**
-* **[CCSP by Alukos](https://ccsp.alukos.com/)**
+* [CCSP Exam Cram by Zete Zerger](https://www.youtube.com/playlist?list=PL7XJSuT7Dq_X0AupQwU8YOGV3TsoPAcD0)
+* CCSP OPT book
+* [FREE (ISC)² CCSP Quiz/Test](https://cloud.connect.isc2.org/ccsp-quiz)
 
 ### Secondary useful resources
 
+* [CCSP by Alukos](https://ccsp.alukos.com/)
 * [CSA Security Guidance](https://downloads.cloudsecurityalliance.org/assets/research/security-guidance/security-guidance-v4-FINAL.pdf) *(recommended by Reddit)*
+
+#### Even more-Secondary resources
+
 * [Cloud Computing Security Considerations – by ACSC](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/cloud-security-guidance/cloud-computing-security-considerations) – brief CSA Security Guidance *for beginners*.
 * [FREE (ISC)² CCSP Flashcards](https://cloud.connect.isc2.org/ccsp-flashcards) [These may or may not be useful]
+* *[(wishlist of resources I didn't have)](./WISHLIST.md)*
 
 ## Domain 1
 
