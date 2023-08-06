@@ -605,11 +605,11 @@ CSA STAR – SEC (Self, External, Continuous)
 
 ### MSA, SLA, SOW, MOU, etc
 
-![Big 'MSA' & many sow](https://www.sekoutcha.com/images/course/1662554855How-to-control-the-feeding-and-nutrition-of-pigs.jpg)
+![Master-Slave](https://www.dossier-andreas.net/software_architecture/masterslave.jpg)
 
-* **M**SA – **Master** Services Provided. Master/Mommy Pig.
-* **S**OW – **Small (sow)** Jobs Worked-on
-* MOU – Completely different beast – Confirms **understanding** of each-other's "moo" talk.
+* **M**SA – **Master** Services Provided. Masters of Airlines.
+* **S**OW – **Slave (small)** Jobs Worked-on.
+* MOU – Completely different beast – Confirms **understanding** of each-other's "moo" (talk).
 * SLA – Performance Expected
 * OLA – Like Windows OLE (internal, under-the-hood) – under-the-hood 'SLA' internal agreement between (C)SP and its brokers.
 * NDA – Confidential clauses (SLA is not suitable)
