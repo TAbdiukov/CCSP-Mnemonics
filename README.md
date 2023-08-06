@@ -607,7 +607,7 @@ CSA STAR – SEC (Self, External, Continuous)
 
 ![Big 'MSA' & many sow](https://www.feednavigator.com/var/wrbm_gb_food_pharma/storage/images/_aliases/wrbm_large/publications/feed/feednavigator.com/article/2019/09/16/finnish-team-evaluating-optimal-sow-feeding-strategies-how-to-cut-farrowing-time/10153032-1-eng-GB/Finnish-team-evaluating-optimal-sow-feeding-strategies-how-to-cut-farrowing-time.jpg)
 
-* **M**SA – **Master** Services Provided. **Masters of airways**
+* **M**SA – **Master** Services Provided. Master/Mommy Pig.
 * **S**OW – **Small (sow)** Jobs Worked-on
 * MOU – Completely different beast – Confirms **understanding** of each-other's "moo" talk.
 * SLA – Performance Expected
