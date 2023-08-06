@@ -390,7 +390,7 @@ PR DDD TD
 
 ------------------------
 
-* ISO 17789:2014 – [~~56709~~ 17789 go-to number for **who must do what in the cloud**](https://youtu.be/I0JVRcJLea8). *([condensed info](https://ccsp.alukos.com/standards/iso-iec-17789-2014/))*. 
+* ISO 17789:2014 – ~~56709~~ 17789 is a go-to number for [**who must do what in the cloud**](https://youtu.be/I0JVRcJLea8). *([condensed info](https://ccsp.alukos.com/standards/iso-iec-17789-2014/))*. 
 * ISO 22301:2019 – Business Continuity management. Just in time for COVID.  
 * ISO 27036 – Supply Chain Risk Management (SCM/SCRM) for ISO 27001 users.
 
