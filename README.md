@@ -390,7 +390,7 @@ PR DDD TD
 
 ------------------------
 
-* ISO 17789:2014 – Who is responsible for what in cloud computing.
+* ISO 17789:2014 – Who must do what in cloud computing *([more info](https://ccsp.alukos.com/standards/iso-iec-17789-2014/))*. 
 * ISO 22301:2019 – Business Continuity management. Just in time for COVID.  
 * ISO 27036 – Supply Chain Risk Management (SCM/SCRM) for ISO 27001 users.
 
