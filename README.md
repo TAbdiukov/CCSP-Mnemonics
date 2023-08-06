@@ -634,14 +634,14 @@ CSA STAR – SEC (Self, External, Continuous)
 
 ![CSA](https://upload.wikimedia.org/wikipedia/commons/c/c7/Cloud_Security_Alliance_logo.png)
 
-* CSA Cloud Controls Matrix (CCMv4) – Cloud Risk Management framework by CSA, mapped to trusted organizations&frameworks like ISO, ISACA, PCI. **Simplify regulatory compliance with CSA's prime product!**
+1. CSA Cloud Controls Matrix (CCMv4) – Cloud Risk Management framework by CSA, mapped to trusted organizations&frameworks like ISO, ISACA, PCI. **Simplify regulatory compliance with CSA's prime product!**
 	* *Mouthful* Trick: ISACA has CISM, CSA has ISACA in CCM
-* CSA "Egregious 11" – Top cloud threats
-* CSA Checklists – VERY SAFE baseline guides
-* CSA CIR – Cloud IR framework by CSA. Based on NIST 800-61.
-* CSA Domain 3: Legal Issues – Security guidance of legal issues
-* CSA STAR – Lightweight compliance standard. Level 1 – Internal audit. Level 2 – External audit.
-* CSA CAIQ – Consensus Assessment Initiative Questionnaire – optional IQ questions to access CSP Security
+2. CSA "Egregious 11" – Top cloud threats
+3. CSA Checklists – VERY SAFE baseline guides
+4. CSA CIR – Cloud IR framework by CSA. Based on NIST 800-61.
+5. CSA Domain 3: Legal Issues – Security guidance of legal issues
+6. CSA STAR – Lightweight compliance standard. Level 1 – Internal audit. Level 2 – External audit.
+7. CSA CAIQ – Consensus Assessment Initiative Questionnaire – optional IQ questions to access CSP Security
 
 ### Comparisons
 
