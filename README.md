@@ -121,9 +121,9 @@ The cloud data lifecycle consists of:
 5) Archive
 6) Destroy
 
-* Letters: CS US AD
-* Mnemonic: CompSci (of) US (created) ActiveDirectory
-* Mnemonic 2: Cloud SUS ActiveDirectory
+	* Letters: CS US AD
+	* Mnemonic: CompSci (of) US (created) ActiveDirectory
+	* Mnemonic 2: Cloud SUS ActiveDirectory
 
 ### Storage types
 
