@@ -53,10 +53,10 @@ CCSP mnemonics for CISSP-passers.
 * HSM – External dongle/card for TEE/TCB (+ Secrets Management)  
 	* Dedicated HSM – **BEST** Secrets Management. Better than any vTPM.
 
-### Computing types
+### Special computing types
 
-* Confidential Computing – protect data in use
-* Quantum computing – protect cryptographic keys with the observer's principle
+* Confidential Computing – protect data in use (e.g. in RAM)
+* Quantum computing – protect secrets by watching for [observer's principle/effect](https://en.wikipedia.org/wiki/Observer_effect_(physics))
 
 ### Cloud account types
 
