@@ -1,5 +1,5 @@
 # CCSP-Mnemonics
-*(Can be useful for CCSK)*  
+*(Can also be useful for CCSK)*  
 
 CCSP mnemonics for CISSP-passers.  
 
