@@ -1,0 +1,10 @@
+## CCSP | Eng-Mohamed Atef
+*A very good informal teacher from past CISSP experience*
+
+* https://school.infosec4tc.com/p/certified-cloud-security-professional-ccsp1
+* https://courses.stationx.net/p/certified-cloud-security-professional-ccsp
+* https://store.news.com.au/sales/the-complete-secops-cloud-security-certification-bundle – in a bundle, 50 AUD
+* https://www.xploitacademy.com/courses/ccsp – However, on the page, there is a discrepancy about course length (14 hours instead of 5 hours), therefore this is likely an **incorrect course**  
+
+## CSA Security Guidance – Audiobook
+*As of 2023, unfortunately does not exist*
