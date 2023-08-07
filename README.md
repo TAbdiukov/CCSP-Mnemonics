@@ -165,13 +165,13 @@ A bit like RAID, can be used to achieve diametrically opposed goals:
 
 *(Rough unofficial order)*
 
-1) First, eDiscover your data
-2) Prioritize and categorize – thus label the data
+1) First, eDiscover your data.
+2) Prioritize and categorize – thus label the data.
 3) After labeling, tag the data. 
-	* For CCSP: Tags for DLP; Labels for classification (Tags explain the data, labels show sensitivity)
-4) After the data is tagged, set up DLP policies
-5) Deploy DLP
-6) Let DLP train on data (you can help, but for CCSP: DLP will work fine on its own)
+	* For CCSP: Tags for DLP; Labels for classification. (Tags explain the data, labels show sensitivity)
+4) After the data is tagged, set up DLP policies.
+5) Deploy DLP.
+6) Let DLP train on data. (you can help, but for CCSP: DLP will work fine on its own)
 
 ### Data **DE**classification
 
