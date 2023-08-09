@@ -41,7 +41,7 @@ CCSP mnemonics for CISSP-passers.
 * **Scal**ability – app/solution can "**scale** up" well for thousands of inputs or clients
 * **Elastic**ity – (cloud) solution is like an **elastic band** – can scale up and scale down as needed. **Elasticity implies scalability**
 * Cloud **bursting** – Hybrid cloud elasticity (**bursting**)
-* Multi**tenancy** – Sharing **tenements** (resources) with everyone, including Communists, Anarchists and crooks
+* Multi**tenancy** – Sharing **tenements** (resources) with everyone, including Communists, Anarchists, and crooks
 
 	![Cuba](https://www.usatoday.com/gcdn/presto/2018/11/16/USAT/546544cc-7dbe-41b3-8945-d0242b906bfd-HAVANA_building_photo_1.jpg?width=660&height=372&fit=crop&format=pjpg&auto=webp)
 	
@@ -171,14 +171,14 @@ A bit like RAID, can be used to achieve diametrically opposed goals:
 	* For CCSP: Tags for DLP; Labels for classification. (Tags explain the data, labels show sensitivity)
 4) After the data is tagged, set up DLP policies.
 5) Deploy DLP.
-6) Let DLP train on data. (you can help, but for CCSP: DLP will work fine on its own)
+6) Let DLP train on data. (you can assist, but for CCSP: DLP will work fine on its own)
 
 ### Data **DE**classification
 
 * Anonymization – Remove sensitive data and make the subject **anonymous** (like a hacker group). Can be required by GDPR.
 * Masking – Permanently mask and damage data, sub-options:
 	* Randomize – meaningful parts of data replaced with meaningless random data
-	* Hash – John Smith" becomes "0xDEA4B884"
+	* Hash – John Smith" becomes `0x0EA4B884`  
 	* Shuffle – Everyone's data is shuffled, rendering data dirty and meaningless
 	* Mask – Card number `**** **** **** 9608` expiry `09/25` cvv `***`
 	* Delete – Delete
@@ -238,7 +238,7 @@ Cloud IR framework by CSA. Based on NIST 800-61,
 3. Containment, Eradication and Recovery
 4. Post-mortem
 
-(Reminiscent of [CISSP's DRMRRRL](https://github.com/TAbdiukov/CISSP-YA-mnemonics#domain-7))
+(Reminiscent of [CISSP's DRMRRRL (DRM RRR L)](https://github.com/TAbdiukov/CISSP-YA-mnemonics#domain-7))
 
 ### Planes
 
@@ -260,7 +260,7 @@ Cloud IR framework by CSA. Based on NIST 800-61,
 * Step 2: Redundancy is key  
 * Step 3: Do all nice things (ISC)² likes (protect people, create plans for a UFO attack)  
 * Step 4: Add LOTS of cables everywhere  
-* Step 5: ????????  
+* Step 5: ???????  
 * Step 6: PROFIT!  
 
 ## Domain 4
@@ -656,7 +656,7 @@ CSA STAR – SEC (Self, External, Continuous)
 
 ![IPS](https://assets1.cbsnewsstatic.com/hub/i/2010/06/07/74ecadc6-a642-11e2-a3f0-029118418759/phprF09uBsteve-jobs-wwdc-81.jpg) |
 ---- |
-IPS - IaaS, PaaS, Saas
+IPS - IaaS, PaaS, SaaS
 
 * IaaS – Many hosts Infrastructure. Best if your app really requires complex infrastructure (such as 5 databases, 10 firewalls, etc).
 * PaaS – One host. Best if: your app can run on 1 host, and you are concerned about: liability, security, time, and money wasted configuring code and infrastructure. PaaS is much more liability-optimal than IaaS. PaaS is the easiest to administer. **PaaS** your **code** – so IaC is PaaS.
