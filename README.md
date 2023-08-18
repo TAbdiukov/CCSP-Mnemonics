@@ -562,7 +562,7 @@ Electro NERD
 * SAS 70 – **outdated like the 70s** SOC 1
 * SSAE 16 – outdated SSAE 18
 * AICPA (USA) → SSAE → SOC (1/2/3)
-* IAAS (EU) → ISAE → ISAE 3402
+* IAASB (EU) → ISAE → ISAE 3402
 * ISAE ≈ SSAE
 * ISAE 3402 ≈ SSAE SOC 2
 * FedRAMP – **Fed**erally screened CSPs for being **RAMP**s
