@@ -657,7 +657,6 @@ CSA STAR – SEC (Self, External, Continuous)
 ![IPS logo](https://upload.wikimedia.org/wikipedia/commons/9/99/IPS_logo.gif) | 
 ---- | 
 ![IPS](https://assets1.cbsnewsstatic.com/hub/i/2010/06/07/74ecadc6-a642-11e2-a3f0-029118418759/phprF09uBsteve-jobs-wwdc-81.jpg) |
----- | 
 IPS - IaaS, PaaS, SaaS
 
 * IaaS – Many hosts Infrastructure. Best if your app really requires complex infrastructure (such as 5 databases, 10 firewalls, etc).
