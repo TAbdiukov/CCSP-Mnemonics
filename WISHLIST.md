@@ -4,7 +4,7 @@
 * https://school.infosec4tc.com/p/certified-cloud-security-professional-ccsp1
 * https://courses.stationx.net/p/certified-cloud-security-professional-ccsp
 * https://store.news.com.au/sales/the-complete-secops-cloud-security-certification-bundle – in a bundle, 50 AUD
-https://www.skillwise.com/sales/the-complete-secops-cloud-security-certification-bundle – in a bundle, 32 USD
+* https://www.skillwise.com/sales/the-complete-secops-cloud-security-certification-bundle – in a bundle, 32 USD
 
 ### Discretion advised
 
