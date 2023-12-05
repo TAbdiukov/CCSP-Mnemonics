@@ -388,7 +388,7 @@ PR DDD TD
 ------------------------
 
 * ISO/IEC 27001 – Base.
-* ISO/IEC 270**17** – Base + Cloud
+* ISO/IEC 270**17** – Base + Cloud.
 * ISO/IEC 270**18** – Base + Cloud + PII. HIGH level of assurance.
 
 ------------------------
