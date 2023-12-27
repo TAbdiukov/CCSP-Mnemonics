@@ -3,6 +3,8 @@
 
 CCSP mnemonics for CISSP-passers.  
 
+**[CISSP-YA-mnemonics](https://github.com/TAbdiukov/CISSP-YA-mnemonics) | <ins>CCSP-Mnemonics</ins>**
+
 ## Useful resources
 
 * [CCSP Exam Cram by Zete Zerger](https://www.youtube.com/playlist?list=PL7XJSuT7Dq_X0AupQwU8YOGV3TsoPAcD0)
