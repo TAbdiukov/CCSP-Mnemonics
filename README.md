@@ -140,7 +140,7 @@ The cloud data lifecycle consists of:
 
 * RAW – Direct hands-on low-level access some drive (including access to S.M.A.R.T. and drive firmware!). Access directly: `You → Drive`. Direct access means "Direct responsibility" for data remanence caused and found.
 * Volume-storage – High-level, abstracted ("abstractioned"), indirect, access to a (likely virtual) drive in a cluster: `You → Cluster of drives → (Subcluster of drives? It's a cloud architecture after all) → Drive`
-	* File-storage – Store files in an abstract vacuum – like in Cisco devices.
+	* File-storage – Store files in an abstract vacuum – like on Cisco devices.
 	* Block-storage – Store blocks of data like on hard drives – you can orchestrate filesystems, NTFS Master File Tables, folders, files, file attributes etc.
 
 #### By longevity
@@ -348,8 +348,8 @@ PR DDD TD
 
 ### Functional vs Non-Functional Testing
 
-* **Functional** – (non-discriminatory) – Does app **Function** as expected
-* **Non-Functional** – (discriminatory) – Is the app *beefy, too slow and susceptible to DDoS, or has an ugly UI*?
+* **Functional** – (rather facts-based) – Does app **Function** as expected
+* **Non-Functional** – (rather bias-based) – Is the app *bulky, too slow, susceptible to DDoS, and has an ugly UI*?
 
 ### Testing Target
 
@@ -400,7 +400,7 @@ PR DDD TD
 
 ------------------------
 
-* ISO 17789:2014 – ~~56709~~ 17789 is a go-to number for [**who must do what in the cloud**](https://youtu.be/I0JVRcJLea8). *([condensed info](https://ccsp.alukos.com/standards/iso-iec-17789-2014/))*. 
+* ISO 17789:2014 – ~~[56709](https://youtu.be/I0JVRcJLea8)~~ 17789 is a go-to number for [**who must do what in the cloud**](https://youtu.be/I0JVRcJLea8). *([condensed info](https://ccsp.alukos.com/standards/iso-iec-17789-2014/))*. 
 * ISO 22301:2019 – Business Continuity management. Just in time for COVID.  
 * ISO 27036 – Supply Chain Risk Management (SCM/SCRM) for ISO 27001 users.
 
