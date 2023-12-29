@@ -180,7 +180,7 @@ A bit like RAID, can be used to achieve diametrically opposed goals:
 * Anonymization – Remove sensitive data and make the subject **anonymous** (like a hacker group). Can be required by GDPR.
 * Masking – Permanently mask and damage data, sub-options:
 	* Randomize – meaningful parts of data replaced with meaningless random data
-	* Hash – John Smith" becomes `0x0EA4B884`  
+	* Hash – `Tim Abdiukov` [becomes `0x74E01203`](https://crccalc.com/?crc=Tim Abdiukov&method=crc32&datatype=ascii&outtype=0)  
 	* Shuffle – Everyone's data is shuffled, rendering data dirty and meaningless
 	* Mask – Card number `**** **** **** 9608` expiry `09/25` cvv `***`
 	* Delete – Delete
