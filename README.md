@@ -3,7 +3,7 @@
 
 CCSP mnemonics for CISSP-passers.  
 
-**[CISSP-YA-mnemonics](https://github.com/TAbdiukov/CISSP-YA-mnemonics) | <ins>CCSP-Mnemonics</ins>**
+**[CISSP-mnemonics](https://github.com/TAbdiukov/CISSP-mnemonics) | <ins>CCSP-Mnemonics</ins>**
 
 ## Useful resources
 
