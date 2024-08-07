@@ -1,5 +1,4 @@
-name: Broken-Links-Crawler
-uses: ScholliYT/Broken-Links-Crawler-Action@v3
+name: check-links
 
 with:
   website_url: 'https://github.com/ScholliYT/Broken-Links-Crawler-Action'
