@@ -6,12 +6,12 @@ on:
     branches:
       - main
   schedule:
-    # run every 6 hours
+    # run every 12 hours
     # * is a special character in YAML so you have to quote this string
     - cron:  '0 */12 * * *'
 
 jobs:
-  check-links:
+  check-links (landing):
     runs-on: ubuntu-latest
     steps:
       - name: Run Broken Links Crawler
@@ -19,8 +19,41 @@ jobs:
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: 'mailto:,https://www.linkedin.com,https://linkedin.com,https://x.com,https://www.cyber.gov.au,https://cyber.gov.au,https://github-cloud.s3.amazonaws.com,https://github.githubassets.com,https://avatars.githubusercontent.com,https://github-cloud.s3.amazonaws.com,https://user-images.githubusercontent.com,${{ github.server_url }}'
-          exclude_url_suffix: '.zip'
+          exclude_url_prefix: 'mailto:,https://www.linkedin.com,https://linkedin.com,https://x.com,https://www.cyber.gov.au,https://cyber.gov.au,${{ github.server_url }}'
+          exclude_url_suffix: '.zip,https://avatars.githubusercontent.com,https://github-cloud.s3.amazonaws.com,https://github.githubassets.com,https://github-cloud.s3.amazonaws.com,https://user-images.githubusercontent.com,https://skills.github.com,https://github.blog'
+          exclude_url_contained: '.github.com/'
+          verbose: 'true'
+          max_retry_time: 30
+          max_retries: 5
+          max_depth: 1
+
+  check-links (CCMv4-Metanotes.md):
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Broken Links Crawler
+        uses: ScholliYT/Broken-Links-Crawler-Action@v3
+        with:
+          website_url: '${{ github.server_url }}/${{ github.repository }}/blob/main/CCMv4-Metanotes.md'
+          resolve_before_filtering: 'true'
+          exclude_url_prefix: 'mailto:,https://www.linkedin.com,https://linkedin.com,https://x.com,https://www.cyber.gov.au,https://cyber.gov.au,${{ github.server_url }}'
+          exclude_url_suffix: '.zip,https://avatars.githubusercontent.com,https://github-cloud.s3.amazonaws.com,https://github.githubassets.com,https://github-cloud.s3.amazonaws.com,https://user-images.githubusercontent.com,https://skills.github.com,https://github.blog'
+          exclude_url_contained: '.github.com/'
+          verbose: 'true'
+          max_retry_time: 30
+          max_retries: 5
+          max_depth: 1
+
+  check-links (WISHLIST.md):
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Broken Links Crawler
+        uses: ScholliYT/Broken-Links-Crawler-Action@v3
+        with:
+          website_url: '${{ github.server_url }}/${{ github.repository }}/blob/main/WISHLIST.md'
+          resolve_before_filtering: 'true'
+          exclude_url_prefix: 'mailto:,https://www.linkedin.com,https://linkedin.com,https://x.com,https://www.cyber.gov.au,https://cyber.gov.au,${{ github.server_url }}'
+          exclude_url_suffix: '.zip,https://avatars.githubusercontent.com,https://github-cloud.s3.amazonaws.com,https://github.githubassets.com,https://github-cloud.s3.amazonaws.com,https://user-images.githubusercontent.com,https://skills.github.com,https://github.blog'
+          exclude_url_contained: '.github.com/'
           verbose: 'true'
           max_retry_time: 30
           max_retries: 5
