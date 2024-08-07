@@ -1,9 +1,9 @@
 name: check-links
 
-on: 
+on:
   workflow_dispatch: # allow manual trigger
   push:
-    branches: 
+    branches:
       - main
   schedule:
     # run every 6 hours
@@ -23,6 +23,9 @@ jobs:
           website_url: '${{ github.server_url }}/${{ github.repository }}'
           include_url_prefix: '${{ github.server_url }}/${{ github.repository }}'
           resolve_before_filtering: 'true'
+          exclude_url_prefix: 'mailto:,https://www.linkedin.com,https://linkedin.com'
+          exclude_url_suffix: '.zip'
+          exclude_url_contained: '/tree,/code_menu_contents,/hovercards/citation'
           verbose: 'true'
           max_retry_time: 30
           max_retries: 5
