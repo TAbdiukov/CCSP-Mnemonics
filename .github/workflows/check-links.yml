@@ -1,5 +1,6 @@
-- name: Broken-Links-Crawler
+name: Broken-Links-Crawler
 uses: ScholliYT/Broken-Links-Crawler-Action@v3
+
 with:
   website_url: 'https://github.com/ScholliYT/Broken-Links-Crawler-Action'
   include_url_prefix: 'https://github.com/ScholliYT/Broken-Links-Crawler-Action'
