@@ -19,10 +19,11 @@ jobs:
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: 'mailto:,https://www.linkedin.com,https://linkedin.com,https://github-cloud.s3.amazonaws.com,https://www.cyber.gov.au,https://cyber.gov.au'
+          exclude_url_prefix: 'mailto:,https://www.linkedin.com,https://linkedin.com,https://github-cloud.s3.amazonaws.com'
           exclude_url_suffix: '.zip'
           exclude_url_contained: '/tree,/code_menu_contents,/hovercards/citation,/search/custom_scopes/'
           verbose: 'true'
+          web_agent_string: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
           max_retry_time: 30
           max_retries: 5
           max_depth: 1
