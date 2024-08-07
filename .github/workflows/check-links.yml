@@ -19,3 +19,21 @@ on:
     # run every 6 hours
     # * is a special character in YAML so you have to quote this string
     - cron:  '0 */6 * * *'
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Run Broken Links Crawler
+        uses: ScholliYT/Broken-Links-Crawler-Action@v3
+        with:
+          website_url: 'https://github.com/ScholliYT/Broken-Links-Crawler-Action'
+          include_url_prefix: 'https://github.com/ScholliYT/Broken-Links-Crawler-Action'
+          resolve_before_filtering: 'true'
+          verbose: 'true'
+          max_retry_time: 30
+          max_retries: 5
+          max_depth: 1
