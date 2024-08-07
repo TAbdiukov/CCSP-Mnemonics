@@ -7,7 +7,7 @@
 
 ### Discretion advised
 
-* https://www.xploitacademy.com/courses/ccsp – However, on the page, there is a discrepancy about course length (14 hours instead of 5 hours), therefore this is likely an **incorrect course**  
+* https://www.xploitacademy.com/courses/ccsp – There is a discrepancy on the page about course length (14 hours instead of 5 hours), therefore this is likely an **incorrect course**  
 * https://tenlibrary.pro/product/mohamed-atef-certified-cloud-security-professional-ccsp/ – Due to undisclosed reasons, **extremely likely a misrepresented course by another author!**  
 
 ## CSA Security Guidance – Audiobook
