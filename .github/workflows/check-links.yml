@@ -14,14 +14,10 @@ jobs:
   check-links:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
       - name: Run Broken Links Crawler
         uses: ScholliYT/Broken-Links-Crawler-Action@v3
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}'
-          include_url_prefix: '${{ github.server_url }}/${{ github.repository }}'
           resolve_before_filtering: 'true'
           exclude_url_prefix: 'mailto:,https://www.linkedin.com,https://linkedin.com'
           exclude_url_suffix: '.zip'
@@ -29,4 +25,4 @@ jobs:
           verbose: 'true'
           max_retry_time: 30
           max_retries: 5
-          max_depth: 1
+          max_depth: 2
