@@ -19,9 +19,9 @@ jobs:
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: 'mailto:,https://www.linkedin.com,https://linkedin.com'
+          exclude_url_prefix: 'mailto:,https://www.linkedin.com,https://linkedin.com,https://github-cloud.s3.amazonaws.com,https://www.cyber.gov.au,https://cyber.gov.au'
           exclude_url_suffix: '.zip'
-          exclude_url_contained: '/tree,/code_menu_contents,/hovercards/citation'
+          exclude_url_contained: '/tree,/code_menu_contents,/hovercards/citation,/search/custom_scopes/'
           verbose: 'true'
           max_retry_time: 30
           max_retries: 5
