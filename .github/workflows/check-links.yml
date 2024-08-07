@@ -11,10 +11,10 @@ on:
     - cron:  '0 */12 * * *'
 
 jobs:
-  check-links (landing):
+  check-links:
     runs-on: ubuntu-latest
     steps:
-      - name: Run Broken Links Crawler
+      - name: Run Broken Links Crawler (landing)
         uses: ScholliYT/Broken-Links-Crawler-Action@v3
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}'
@@ -26,11 +26,7 @@ jobs:
           max_retry_time: 30
           max_retries: 5
           max_depth: 1
-
-  check-links (CCMv4-Metanotes.md):
-    runs-on: ubuntu-latest
-    steps:
-      - name: Run Broken Links Crawler
+      - name: Run Broken Links Crawler (CCMv4-Metanotes.md)
         uses: ScholliYT/Broken-Links-Crawler-Action@v3
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}/blob/main/CCMv4-Metanotes.md'
@@ -42,11 +38,7 @@ jobs:
           max_retry_time: 30
           max_retries: 5
           max_depth: 1
-
-  check-links (WISHLIST.md):
-    runs-on: ubuntu-latest
-    steps:
-      - name: Run Broken Links Crawler
+      - name: Run Broken Links Crawler (WISHLIST.md)
         uses: ScholliYT/Broken-Links-Crawler-Action@v3
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}/blob/main/WISHLIST.md'
