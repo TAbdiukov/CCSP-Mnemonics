@@ -590,7 +590,7 @@ CSA STAR – SEC (Self, External, Continuous)
 
 **Trick**: I**SMS** is a radar that sends **SMS**, **IIS**C**S** is a fighter jet with **2 I**-shaped harpoon rockets and **2 S**-shaped hooks.
 
-![ISMS](https://live.staticflickr.com/3238/2388570728_68522c2e34_c.jpg) | ![IISCS](https://www.thedrive.com/content/2020/04/234fgggs.jpg)
+![ISMS](https://live.staticflickr.com/3238/2388570728_68522c2e34_c.jpg) | ![IISCS](https://imageio.forbes.com/specials-images/imageserve/66afbce47d58df65bb93a065//0x0.png)
 ---- | ----
 **ISMS** | **IISCS**
 
