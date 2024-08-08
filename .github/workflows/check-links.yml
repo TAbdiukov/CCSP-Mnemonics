@@ -21,8 +21,8 @@ jobs:
         run: |
           pwd
           ls
-          echo "EXCLUDE_URL_PREFIX=$(cat ./data/exclude_url_prefix.txt | tr '\r\n' ',')" >> $GITHUB_ENV
-          echo "EXCLUDE_URL_SUFFIX=$(cat ./data/exclude_url_suffix.txt | tr '\r\n' ',')" >> $GITHUB_ENV
+          echo "EXCLUDE_URL_PREFIX=$(cat ./.github/data/exclude_url_prefix.txt | tr '\r\n' ',')" >> $GITHUB_ENV
+          echo "EXCLUDE_URL_SUFFIX=$(cat ./.github/data/exclude_url_suffix.txt | tr '\r\n' ',')" >> $GITHUB_ENV
       - name: Run Broken Links Crawler (landing)
         uses: ScholliYT/Broken-Links-Crawler-Action@v3
         with:
