@@ -16,20 +16,18 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-      - name: Read exclude_url_prefix
-        id: read_prefix
-        run: echo "::set-output name=prefix::$(paste -sd ',' exclude_url_prefix.txt)"
-      - name: Read exclude_url_suffix
-        id: read_suffix
-        run: echo "::set-output name=suffix::$(paste -sd ',' exclude_url_suffix.txt)"
-
+      - name: Load EXCLUDE_URL_PREFIX and EXCLUDE_URL_SUFFIX from files
+        id: load_prefix_suffix
+        run: |
+          echo "EXCLUDE_URL_PREFIX=$(cat \.github\data\exclude_url_prefix.txt | tr '\r\n' ',')" >> $GITHUB_ENV
+          echo "EXCLUDE_URL_SUFFIX=$(cat \.github\data\exclude_url_suffix.txt | tr '\r\n' ',')" >> $GITHUB_ENV
       - name: Run Broken Links Crawler (landing)
         uses: ScholliYT/Broken-Links-Crawler-Action@v3
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: '${{ steps.read_prefix.outputs.prefix }}'
-          exclude_url_suffix: '${{ steps.read_suffix.outputs.suffix }}'
+          exclude_url_prefix: '${{ env.EXCLUDE_URL_PREFIX }}'
+          exclude_url_suffix: '${{ env.EXCLUDE_URL_SUFFIX }}'
           verbose: 'true'
           max_retry_time: 30
           max_retries: 5
@@ -39,8 +37,8 @@ jobs:
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}/blob/main/CCMv4-Metanotes.md'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: '${{ steps.read_prefix.outputs.prefix }}'
-          exclude_url_suffix: '${{ steps.read_suffix.outputs.suffix }}'
+          exclude_url_prefix: '${{ env.EXCLUDE_URL_PREFIX }}'
+          exclude_url_suffix: '${{ env.EXCLUDE_URL_SUFFIX }}'
           verbose: 'true'
           max_retry_time: 30
           max_retries: 5
@@ -50,8 +48,8 @@ jobs:
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}/blob/main/WISHLIST.md'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: '${{ steps.read_prefix.outputs.prefix }}'
-          exclude_url_suffix: '${{ steps.read_suffix.outputs.suffix }}'
+          exclude_url_prefix: '${{ env.EXCLUDE_URL_PREFIX }}'
+          exclude_url_suffix: '${{ env.EXCLUDE_URL_SUFFIX }}'
           verbose: 'true'
           max_retry_time: 30
           max_retries: 5
