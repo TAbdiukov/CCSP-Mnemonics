@@ -32,7 +32,6 @@ jobs:
           max_retry_time: 30
           max_retries: 5
           max_depth: 1
-          web_agent_string: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
       - name: Run Broken Links Crawler (CCMv4-Metanotes.md)
         uses: ScholliYT/Broken-Links-Crawler-Action@v3
         with:
@@ -44,7 +43,6 @@ jobs:
           max_retry_time: 30
           max_retries: 5
           max_depth: 1
-          web_agent_string: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
       - name: Run Broken Links Crawler (WISHLIST.md)
         uses: ScholliYT/Broken-Links-Crawler-Action@v3
         with:
@@ -56,4 +54,3 @@ jobs:
           max_retry_time: 30
           max_retries: 5
           max_depth: 1
-          web_agent_string: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36'
