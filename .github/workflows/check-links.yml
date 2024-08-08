@@ -6,21 +6,30 @@ on:
     branches:
       - main
   schedule:
-    # run every 12 hours
+    # run every 24 hours at 12:00
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 */12 * * *'
+    - cron:  '0 0 12 * *'
 
 jobs:
   check-links:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Read exclude_url_prefix
+        id: read_prefix
+        run: echo "::set-output name=prefix::$(paste -sd ',' exclude_url_prefix.txt)"
+      - name: Read exclude_url_suffix
+        id: read_suffix
+        run: echo "::set-output name=suffix::$(paste -sd ',' exclude_url_suffix.txt)"
+
       - name: Run Broken Links Crawler (landing)
         uses: ScholliYT/Broken-Links-Crawler-Action@v3
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: 'mailto:,https://www.cyber.gov.au,https://cyber.gov.au,http://download.oracle.com,https://www.linkedin.com,https://linkedin.com,https://reddit.com,https://old.reddit.com,https://new.reddit.com,https://www.reddit.com,https://x.com,https://www.urbandictionary.com,https://archive.,https://web.archive.org/web/,https://docs.github.com/,https://support.github.com,${{ github.server_url }}'
-          exclude_url_suffix: '.zip,https://avatars.githubusercontent.com,https://github-cloud.s3.amazonaws.com,https://github.githubassets.com,https://github-cloud.s3.amazonaws.com,https://user-images.githubusercontent.com/,https://github.blog,https://www.githubstatus.com/,https://docs.github.com,https://partners.github.com,https://skills.github.com'
+          exclude_url_prefix: '${{ steps.read_prefix.outputs.prefix }}'
+          exclude_url_suffix: '${{ steps.read_suffix.outputs.suffix }}'
           verbose: 'true'
           max_retry_time: 30
           max_retries: 5
@@ -30,8 +39,8 @@ jobs:
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}/blob/main/CCMv4-Metanotes.md'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: 'mailto:,https://www.cyber.gov.au,https://cyber.gov.au,http://download.oracle.com,https://www.linkedin.com,https://linkedin.com,https://reddit.com,https://old.reddit.com,https://new.reddit.com,https://www.reddit.com,https://x.com,https://www.urbandictionary.com,https://archive.,https://web.archive.org/web/,https://docs.github.com/,https://support.github.com,${{ github.server_url }}'
-          exclude_url_suffix: '.zip,https://avatars.githubusercontent.com,https://github-cloud.s3.amazonaws.com,https://github.githubassets.com,https://github-cloud.s3.amazonaws.com,https://user-images.githubusercontent.com/,https://github.blog,https://www.githubstatus.com/,https://docs.github.com,https://partners.github.com,https://skills.github.com'
+          exclude_url_prefix: '${{ steps.read_prefix.outputs.prefix }}'
+          exclude_url_suffix: '${{ steps.read_suffix.outputs.suffix }}'
           verbose: 'true'
           max_retry_time: 30
           max_retries: 5
@@ -41,8 +50,8 @@ jobs:
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}/blob/main/WISHLIST.md'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: 'mailto:,https://www.cyber.gov.au,https://cyber.gov.au,http://download.oracle.com,https://www.linkedin.com,https://linkedin.com,https://reddit.com,https://old.reddit.com,https://new.reddit.com,https://www.reddit.com,https://x.com,https://www.urbandictionary.com,https://archive.,https://web.archive.org/web/,https://docs.github.com/,https://support.github.com,${{ github.server_url }}'
-          exclude_url_suffix: '.zip,https://avatars.githubusercontent.com,https://github-cloud.s3.amazonaws.com,https://github.githubassets.com,https://github-cloud.s3.amazonaws.com,https://user-images.githubusercontent.com/,https://github.blog,https://www.githubstatus.com/,https://docs.github.com,https://partners.github.com,https://skills.github.com'
+          exclude_url_prefix: '${{ steps.read_prefix.outputs.prefix }}'
+          exclude_url_suffix: '${{ steps.read_suffix.outputs.suffix }}'
           verbose: 'true'
           max_retry_time: 30
           max_retries: 5
