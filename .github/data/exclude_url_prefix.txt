@@ -1,4 +1,3 @@
-${{ github.server_url }}
 mailto:
 https://www.cyber.gov.au
 https://cyber.gov.au

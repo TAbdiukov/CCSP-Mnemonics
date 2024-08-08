@@ -19,8 +19,6 @@ jobs:
       - name: Load EXCLUDE_URL_PREFIX and EXCLUDE_URL_SUFFIX from files
         id: load_prefix_suffix
         run: |
-          pwd
-          ls
           echo "EXCLUDE_URL_PREFIX=$(cat ./.github/data/exclude_url_prefix.txt | tr '\r\n' ',')" >> $GITHUB_ENV
           echo "EXCLUDE_URL_SUFFIX=$(cat ./.github/data/exclude_url_suffix.txt | tr '\r\n' ',')" >> $GITHUB_ENV
       - name: Run Broken Links Crawler (landing)
@@ -28,7 +26,7 @@ jobs:
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: '${{ env.EXCLUDE_URL_PREFIX }}'
+          exclude_url_prefix: '${{ github.server_url }},${{ env.EXCLUDE_URL_PREFIX }}'
           exclude_url_suffix: '${{ env.EXCLUDE_URL_SUFFIX }}'
           verbose: 'true'
           max_retry_time: 30
@@ -39,7 +37,7 @@ jobs:
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}/blob/main/CCMv4-Metanotes.md'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: '${{ env.EXCLUDE_URL_PREFIX }}'
+          exclude_url_prefix: '${{ github.server_url }},${{ env.EXCLUDE_URL_PREFIX }}'
           exclude_url_suffix: '${{ env.EXCLUDE_URL_SUFFIX }}'
           verbose: 'true'
           max_retry_time: 30
@@ -50,7 +48,7 @@ jobs:
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}/blob/main/WISHLIST.md'
           resolve_before_filtering: 'true'
-          exclude_url_prefix: '${{ env.EXCLUDE_URL_PREFIX }}'
+          exclude_url_prefix: '${{ github.server_url }},${{ env.EXCLUDE_URL_PREFIX }}'
           exclude_url_suffix: '${{ env.EXCLUDE_URL_SUFFIX }}'
           verbose: 'true'
           max_retry_time: 30
