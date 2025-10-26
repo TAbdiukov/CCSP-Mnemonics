@@ -22,7 +22,7 @@ jobs:
           echo "EXCLUDE_URL_PREFIX=$(cat ./.github/data/exclude_url_prefix.txt | tr '\r\n' ',')" >> $GITHUB_ENV
           echo "EXCLUDE_URL_SUFFIX=$(cat ./.github/data/exclude_url_suffix.txt | tr '\r\n' ',')" >> $GITHUB_ENV
       - name: Run Broken Links Crawler (landing)
-        uses: ScholliYT/Broken-Links-Crawler-Action@fix
+        uses: ScholliYT/Broken-Links-Crawler-Action@v3
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}'
           resolve_before_filtering: 'true'
@@ -34,7 +34,7 @@ jobs:
           max_depth: 1
           web_agent_string: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
       - name: Run Broken Links Crawler (CCMv4-Metanotes.md)
-        uses: ScholliYT/Broken-Links-Crawler-Action@fix
+        uses: ScholliYT/Broken-Links-Crawler-Action@v3
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}/blob/main/CCMv4-Metanotes.md'
           resolve_before_filtering: 'true'
@@ -46,7 +46,7 @@ jobs:
           max_depth: 1
           web_agent_string: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
       - name: Run Broken Links Crawler (WISHLIST.md)
-        uses: ScholliYT/Broken-Links-Crawler-Action@fix
+        uses: ScholliYT/Broken-Links-Crawler-Action@v3
         with:
           website_url: '${{ github.server_url }}/${{ github.repository }}/blob/main/WISHLIST.md'
           resolve_before_filtering: 'true'
