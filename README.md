@@ -384,6 +384,9 @@ PR DDD TD
 
 ------------------------
 
+![fits like LEGO with 27001](./.media/lego-iso.png) |
+---- |
+
 * ISO/IEC 27001 – Base.
 * ISO/IEC 27002 – Base *lite* (for gap analysis – fits like LEGO with 27001)
 
