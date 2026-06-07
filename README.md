@@ -1,6 +1,8 @@
 # CCSP-Mnemonics
 *(Can also be useful for CCSK)*  
 
+[![buymeacoffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/tabdiukov)
+
 CCSP mnemonics for CISSP-passers.  
 
 **[CISSP-mnemonics](https://github.com/TAbdiukov/CISSP-mnemonics) | <ins>CCSP-Mnemonics</ins>**
